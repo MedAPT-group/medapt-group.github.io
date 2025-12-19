@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yidi Li | Xia Li</title>
+    <link>https://xialipku.github.io/new_page/author/yidi-li/</link>
+      <atom:link href="https://xialipku.github.io/new_page/author/yidi-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yidi Li</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://xialipku.github.io/new_page/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Yidi Li</title>
+      <link>https://xialipku.github.io/new_page/author/yidi-li/</link>
+    </image>
+    
+    <item>
+      <title>Enhancing Brain MRI Super-Resolution Through Multi-Slice Aware Matching and Fusion</title>
+      <link>https://xialipku.github.io/new_page/publication/caai25-msamf-sr/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0800</pubDate>
+      <guid>https://xialipku.github.io/new_page/publication/caai25-msamf-sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio–visual keyword transformer for unconstrained sentence‐level keyword spotting</title>
+      <link>https://xialipku.github.io/new_page/publication/caai24-kws-acoustic/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0800</pubDate>
+      <guid>https://xialipku.github.io/new_page/publication/caai24-kws-acoustic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

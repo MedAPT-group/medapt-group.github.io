@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | Xia Li</title>
+    <link>https://xialipku.github.io/new_page/post/</link>
+      <atom:link href="https://xialipku.github.io/new_page/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xialipku.github.io/new_page/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Blog</title>
+      <link>https://xialipku.github.io/new_page/post/</link>
+    </image>
+    
+    <item>
+      <title>I am awarded the 1st place in the ICCR Rising Star Competition (Oral Presentation)!</title>
+      <link>https://xialipku.github.io/new_page/post/24-07-10-iccr24-rising-star-award/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://xialipku.github.io/new_page/post/24-07-10-iccr24-rising-star-award/</guid>
+      <description>&lt;p&gt;Detailed information:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Location: Palais de la Bourse de Lyon&lt;/li&gt;
+&lt;li&gt;Session: Gala Dinner&lt;/li&gt;
+&lt;li&gt;Date: 10 July, 19:00-24:00&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Our submission is selected as an Oral presentation by ICCR 2024!</title>
+      <link>https://xialipku.github.io/new_page/post/24-03-15-iccr24-rising-star-competition/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://xialipku.github.io/new_page/post/24-03-15-iccr24-rising-star-competition/</guid>
+      <description>&lt;p&gt;From ICCR: We are pleased to inform you that your submission &amp;ldquo;Neural Graphics Primitives-based Deformable Image Registration for On-the-fly Motion Extraction&amp;rdquo;, X. Li [et al.] (sciencesconf.org:iccr2024:525322) has been accepted for an oral presentation. The detailed program with the duration of each talk along with guidelines will be posted shortly.&lt;/p&gt;
+&lt;p&gt;Detailed information:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Location: Auditorium Lumière&lt;/li&gt;
+&lt;li&gt;Session: Rising Stars Competition&lt;/li&gt;
+&lt;li&gt;Date: 9 July, 09:45-10:00&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Our abstract is selected as a Proffered Paper by ESTRO 2024!</title>
+      <link>https://xialipku.github.io/new_page/post/23-12-18-estro24-proffered-paper/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://xialipku.github.io/new_page/post/23-12-18-estro24-proffered-paper/</guid>
+      <description>&lt;p&gt;From ESTRO: We are delighted to inform you that the Abstract Review Committee has selected your abstract E24-588 titled “Beyond Voxel-Based Methods: Continuous Motion Modeling for Enhanced Deformable Image Registration” for presentation as a Proffered Paper at ESTRO 2024.&lt;/p&gt;
+&lt;p&gt;Detailed information:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Track: Physics&lt;/li&gt;
+&lt;li&gt;Location: Hall 3&lt;/li&gt;
+&lt;li&gt;Session: Symposium - The art of morphing: Advancements and challenges in deformable image registration for radiotherapy&lt;/li&gt;
+&lt;li&gt;Date: 4 May 2024, 09:41-09:50&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Our abstract is selected as a Mini-Oral presentation by ESTRO 2023!</title>
+      <link>https://xialipku.github.io/new_page/post/22-12-20-estro23-mini-oral/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://xialipku.github.io/new_page/post/22-12-20-estro23-mini-oral/</guid>
+      <description>&lt;p&gt;From ESTRO: We are delighted to inform you that the Abstract Review Committee has selected your abstract E23-0545 titled “Uncertainty-aware MR-base CT synthesis for robust proton planning of skull-based tumour” for presentation as a Mini-Oral at ESTRO 2023&lt;/p&gt;
+&lt;p&gt;Detailed information:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Track: Physics&lt;/li&gt;
+&lt;li&gt;Location: Stolz 2&lt;/li&gt;
+&lt;li&gt;Session: Image processing and treatment evaluation&lt;/li&gt;
+&lt;li&gt;Date: 13 May 2023, 15:15-16:15&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

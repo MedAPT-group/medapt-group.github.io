@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://xialipku.github.io/new_page/sitemap.xml

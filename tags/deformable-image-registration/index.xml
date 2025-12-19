@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deformable Image Registration | Xia Li</title>
+    <link>https://xialipku.github.io/new_page/tags/deformable-image-registration/</link>
+      <atom:link href="https://xialipku.github.io/new_page/tags/deformable-image-registration/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deformable Image Registration</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xialipku.github.io/new_page/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Deformable Image Registration</title>
+      <link>https://xialipku.github.io/new_page/tags/deformable-image-registration/</link>
+    </image>
+    
+    <item>
+      <title>Gaussian Representation for Deformable Image Registration</title>
+      <link>https://xialipku.github.io/new_page/publication/phiro25-gaussian-dir/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://xialipku.github.io/new_page/publication/phiro25-gaussian-dir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Generation-Registration Framework for Improved MR-based CT Synthesis in Proton Therapy</title>
+      <link>https://xialipku.github.io/new_page/publication/medphys24-joint-gen-reg/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://xialipku.github.io/new_page/publication/medphys24-joint-gen-reg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Graphics Primitives-based Deformable Image Registration for On-the-fly Motion Extraction</title>
+      <link>https://xialipku.github.io/new_page/publication/iccr24-ngp-dir/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://xialipku.github.io/new_page/publication/iccr24-ngp-dir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous sPatial-Temporal Deformable Image Registration (CPT-DIR) for motion modelling in radiotherapy: beyond classic voxel-based methods</title>
+      <link>https://xialipku.github.io/new_page/publication/medphys25-cpt-dir/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://xialipku.github.io/new_page/publication/medphys25-cpt-dir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our abstract is selected as a Proffered Paper by ESTRO 2024!</title>
+      <link>https://xialipku.github.io/new_page/post/23-12-18-estro24-proffered-paper/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://xialipku.github.io/new_page/post/23-12-18-estro24-proffered-paper/</guid>
+      <description>&lt;p&gt;From ESTRO: We are delighted to inform you that the Abstract Review Committee has selected your abstract E24-588 titled “Beyond Voxel-Based Methods: Continuous Motion Modeling for Enhanced Deformable Image Registration” for presentation as a Proffered Paper at ESTRO 2024.&lt;/p&gt;
+&lt;p&gt;Detailed information:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Track: Physics&lt;/li&gt;
+&lt;li&gt;Location: Hall 3&lt;/li&gt;
+&lt;li&gt;Session: Symposium - The art of morphing: Advancements and challenges in deformable image registration for radiotherapy&lt;/li&gt;
+&lt;li&gt;Date: 4 May 2024, 09:41-09:50&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,15 @@
+@article{https://doi.org/10.1002/mp.17338,
+author = {Li, Xia and Bellotti, Renato and Bachtiary, Barbara and Hrbacek, Jan and Weber, Damien C. and Lomax, Antony J. and Buhmann, Joachim M. and Zhang, Ye},
+title = {A unified generation-registration framework for improved MR-based CT synthesis in proton therapy},
+journal = {Medical Physics},
+volume = {51},
+number = {11},
+pages = {8302-8316},
+keywords = {deformable registration, head-and-neck, implicit neural representation, MR-to-CT synthesis, nnUnet, proton therapy},
+doi = {https://doi.org/10.1002/mp.17338},
+url = {https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17338},
+eprint = {https://aapm.onlinelibrary.wiley.com/doi/pdf/10.1002/mp.17338},
+abstract = {Abstract Background The use of magnetic resonance (MR) imaging for proton therapy treatment planning is gaining attention as a highly effective method for guidance. At the core of this approach is the generation of computed tomography (CT) images from MR scans. However, the critical issue in this process is accurately aligning the MR and CT images, a task that becomes particularly challenging in frequently moving body areas, such as the head-and-neck. Misalignments in these images can result in blurred synthetic CT (sCT) images, adversely affecting the precision and effectiveness of the treatment planning. Purpose This study introduces a novel network that cohesively unifies image generation and registration processes to enhance the quality and anatomical fidelity of sCTs derived from better-aligned MR images. Methods The approach synergizes a generation network (G) with a deformable registration network (R), optimizing them jointly in MR-to-CT synthesis. This goal is achieved by alternately minimizing the discrepancies between the generated/registered CT images and their corresponding reference CT counterparts. The generation network employs a UNet architecture, while the registration network leverages an implicit neural representation (INR) of the displacement vector fields (DVFs). We validated this method on a dataset comprising 60 head-and-neck patients, reserving 12 cases for holdout testing. Results Compared to the baseline Pix2Pix method with MAE 124.95\$\pm\$30.74 HU, the proposed technique demonstrated 80.98\$\pm\$7.55 HU. The unified translation-registration network produced sharper and more anatomically congruent outputs, showing superior efficacy in converting MR images to sCTs. Additionally, from a dosimetric perspective, the plan recalculated on the resulting sCTs resulted in a remarkably reduced discrepancy to the reference proton plans. Conclusions This study conclusively demonstrates that a holistic MR-based CT synthesis approach, integrating both image-to-image translation and deformable registration, significantly improves the precision and quality of sCT generation, particularly for the challenging body area with varied anatomic changes between corresponding MR and CT.},
+year = {2024}
+}
+

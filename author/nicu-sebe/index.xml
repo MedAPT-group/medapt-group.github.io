@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicu Sebe | Xia Li</title>
+    <link>https://xialipku.github.io/new_page/author/nicu-sebe/</link>
+      <atom:link href="https://xialipku.github.io/new_page/author/nicu-sebe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicu Sebe</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xialipku.github.io/new_page/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Nicu Sebe</title>
+      <link>https://xialipku.github.io/new_page/author/nicu-sebe/</link>
+    </image>
+    
+    <item>
+      <title>Uncertainty-Aware Testing-Time Optimization for 3D Human Pose Estimation</title>
+      <link>https://xialipku.github.io/new_page/publication/tmm25-uncert-tto-pose/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://xialipku.github.io/new_page/publication/tmm25-uncert-tto-pose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UVMap-ID: A Controllable and Personalized UV Map Generative Model</title>
+      <link>https://xialipku.github.io/new_page/publication/acmmm24-uvmap-gen/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0800</pubDate>
+      <guid>https://xialipku.github.io/new_page/publication/acmmm24-uvmap-gen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

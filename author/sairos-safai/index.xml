@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sairos Safai | Xia Li</title>
+    <link>https://xialipku.github.io/new_page/author/sairos-safai/</link>
+      <atom:link href="https://xialipku.github.io/new_page/author/sairos-safai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sairos Safai</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xialipku.github.io/new_page/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Sairos Safai</title>
+      <link>https://xialipku.github.io/new_page/author/sairos-safai/</link>
+    </image>
+    
+    <item>
+      <title>A proof-of-concept study of direct magnetic resonance imaging-based proton dose calculation for brain tumors via neural networks with Monte Carlo-comparable accuracy</title>
+      <link>https://xialipku.github.io/new_page/publication/phiro25-mr-dose/</link>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://xialipku.github.io/new_page/publication/phiro25-mr-dose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion Schrödinger bridge models for high-quality MR-to-CT synthesis for proton treatment planning</title>
+      <link>https://xialipku.github.io/new_page/publication/medphys25-dsbm-mr2ct/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://xialipku.github.io/new_page/publication/medphys25-dsbm-mr2ct/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

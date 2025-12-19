@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contrastive Learning | Xia Li</title>
+    <link>http://localhost:1313/new_page/tags/contrastive-learning/</link>
+      <atom:link href="http://localhost:1313/new_page/tags/contrastive-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Contrastive Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/new_page/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Contrastive Learning</title>
+      <link>http://localhost:1313/new_page/tags/contrastive-learning/</link>
+    </image>
+    
+    <item>
+      <title>Exploring the effect of training set size and number of categories on ice crystal classification through a contrastive semi-supervised learning algorithm</title>
+      <link>http://localhost:1313/new_page/publication/amt25-cssl-ice/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/new_page/publication/amt25-cssl-ice/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

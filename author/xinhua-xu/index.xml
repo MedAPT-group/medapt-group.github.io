@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xinhua Xu | Xia Li</title>
+    <link>https://xialipku.github.io/new_page/author/xinhua-xu/</link>
+      <atom:link href="https://xialipku.github.io/new_page/author/xinhua-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xinhua Xu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://xialipku.github.io/new_page/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Xinhua Xu</title>
+      <link>https://xialipku.github.io/new_page/author/xinhua-xu/</link>
+    </image>
+    
+    <item>
+      <title>MiLNet: Multiplex Interactive Learning Network for RGB-T Semantic Segmentation</title>
+      <link>https://xialipku.github.io/new_page/publication/tip25-milnet-seg/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0800</pubDate>
+      <guid>https://xialipku.github.io/new_page/publication/tip25-milnet-seg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
