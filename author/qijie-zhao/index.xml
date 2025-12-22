@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qijie Zhao | Xia Li</title>
-    <link>https://xialipku.github.io/new_page/author/qijie-zhao/</link>
-      <atom:link href="https://xialipku.github.io/new_page/author/qijie-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://medapt-group.github.io/author/qijie-zhao/</link>
+      <atom:link href="https://medapt-group.github.io/author/qijie-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Qijie Zhao</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0800</lastBuildDate>
     <image>
-      <url>https://xialipku.github.io/new_page/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url>
       <title>Qijie Zhao</title>
-      <link>https://xialipku.github.io/new_page/author/qijie-zhao/</link>
+      <link>https://medapt-group.github.io/author/qijie-zhao/</link>
     </image>
     
     <item>
       <title>Spatial Pyramid Based Graph Reasoning for Semantic Segmentation</title>
-      <link>https://xialipku.github.io/new_page/publication/cvpr20-spygr-seg/</link>
+      <link>https://medapt-group.github.io/publication/cvpr20-spygr-seg/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/cvpr20-spygr-seg/</guid>
+      <guid>https://medapt-group.github.io/publication/cvpr20-spygr-seg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SOGNet: Scene Overlap Graph Network for Panoptic Segmentation</title>
-      <link>https://xialipku.github.io/new_page/publication/aaai20-sognet-seg/</link>
+      <link>https://medapt-group.github.io/publication/aaai20-sognet-seg/</link>
       <pubDate>Fri, 07 Feb 2020 09:19:08 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/aaai20-sognet-seg/</guid>
+      <guid>https://medapt-group.github.io/publication/aaai20-sognet-seg/</guid>
       <description></description>
     </item>
     

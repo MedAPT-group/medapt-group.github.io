@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weijie Wang | Xia Li</title>
-    <link>https://xialipku.github.io/new_page/author/weijie-wang/</link>
-      <atom:link href="https://xialipku.github.io/new_page/author/weijie-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://medapt-group.github.io/author/weijie-wang/</link>
+      <atom:link href="https://medapt-group.github.io/author/weijie-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Weijie Wang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Oct 2024 00:00:00 +0800</lastBuildDate>
     <image>
-      <url>https://xialipku.github.io/new_page/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url>
       <title>Weijie Wang</title>
-      <link>https://xialipku.github.io/new_page/author/weijie-wang/</link>
+      <link>https://medapt-group.github.io/author/weijie-wang/</link>
     </image>
     
     <item>
       <title>UVMap-ID: A Controllable and Personalized UV Map Generative Model</title>
-      <link>https://xialipku.github.io/new_page/publication/acmmm24-uvmap-gen/</link>
+      <link>https://medapt-group.github.io/publication/acmmm24-uvmap-gen/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/acmmm24-uvmap-gen/</guid>
+      <guid>https://medapt-group.github.io/publication/acmmm24-uvmap-gen/</guid>
       <description></description>
     </item>
     

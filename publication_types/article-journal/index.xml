@@ -2,197 +2,197 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article-Journal | Xia Li</title>
-    <link>https://xialipku.github.io/new_page/publication_types/article-journal/</link>
-      <atom:link href="https://xialipku.github.io/new_page/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://medapt-group.github.io/publication_types/article-journal/</link>
+      <atom:link href="https://medapt-group.github.io/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0800</lastBuildDate>
     <image>
-      <url>https://xialipku.github.io/new_page/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url>
       <title>Article-Journal</title>
-      <link>https://xialipku.github.io/new_page/publication_types/article-journal/</link>
+      <link>https://medapt-group.github.io/publication_types/article-journal/</link>
     </image>
     
     <item>
       <title>Enhancing Brain MRI Super-Resolution Through Multi-Slice Aware Matching and Fusion</title>
-      <link>https://xialipku.github.io/new_page/publication/caai25-msamf-sr/</link>
+      <link>https://medapt-group.github.io/publication/caai25-msamf-sr/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/caai25-msamf-sr/</guid>
+      <guid>https://medapt-group.github.io/publication/caai25-msamf-sr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gaussian Representation for Deformable Image Registration</title>
-      <link>https://xialipku.github.io/new_page/publication/phiro25-gaussian-dir/</link>
+      <link>https://medapt-group.github.io/publication/phiro25-gaussian-dir/</link>
       <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/phiro25-gaussian-dir/</guid>
+      <guid>https://medapt-group.github.io/publication/phiro25-gaussian-dir/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A proof-of-concept study of direct magnetic resonance imaging-based proton dose calculation for brain tumors via neural networks with Monte Carlo-comparable accuracy</title>
-      <link>https://xialipku.github.io/new_page/publication/phiro25-mr-dose/</link>
+      <link>https://medapt-group.github.io/publication/phiro25-mr-dose/</link>
       <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/phiro25-mr-dose/</guid>
+      <guid>https://medapt-group.github.io/publication/phiro25-mr-dose/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring the effect of training set size and number of categories on ice crystal classification through a contrastive semi-supervised learning algorithm</title>
-      <link>https://xialipku.github.io/new_page/publication/amt25-csslice-atm/</link>
+      <link>https://medapt-group.github.io/publication/amt25-csslice-atm/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/amt25-csslice-atm/</guid>
+      <guid>https://medapt-group.github.io/publication/amt25-csslice-atm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncertainty-Aware Testing-Time Optimization for 3D Human Pose Estimation</title>
-      <link>https://xialipku.github.io/new_page/publication/tmm25-uncert-tto-pose/</link>
+      <link>https://medapt-group.github.io/publication/tmm25-uncert-tto-pose/</link>
       <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/tmm25-uncert-tto-pose/</guid>
+      <guid>https://medapt-group.github.io/publication/tmm25-uncert-tto-pose/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MiLNet: Multiplex Interactive Learning Network for RGB-T Semantic Segmentation</title>
-      <link>https://xialipku.github.io/new_page/publication/tip25-milnet-seg/</link>
+      <link>https://medapt-group.github.io/publication/tip25-milnet-seg/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/tip25-milnet-seg/</guid>
+      <guid>https://medapt-group.github.io/publication/tip25-milnet-seg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diffusion Schrödinger bridge models for high-quality MR-to-CT synthesis for proton treatment planning</title>
-      <link>https://xialipku.github.io/new_page/publication/medphys25-dsbm-mr2ct/</link>
+      <link>https://medapt-group.github.io/publication/medphys25-dsbm-mr2ct/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/medphys25-dsbm-mr2ct/</guid>
+      <guid>https://medapt-group.github.io/publication/medphys25-dsbm-mr2ct/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Prior Causality‐Guided Multi‐View Diffusion Network for Brain Disorder Classification</title>
-      <link>https://xialipku.github.io/new_page/publication/caai25-pcmdn-cls/</link>
+      <link>https://medapt-group.github.io/publication/caai25-pcmdn-cls/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/caai25-pcmdn-cls/</guid>
+      <guid>https://medapt-group.github.io/publication/caai25-pcmdn-cls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HYRE: Hybrid Regressor for 3D Human Pose and Shape Estimation</title>
-      <link>https://xialipku.github.io/new_page/publication/tip24-hyre-pose/</link>
+      <link>https://medapt-group.github.io/publication/tip24-hyre-pose/</link>
       <pubDate>Wed, 25 Dec 2024 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/tip24-hyre-pose/</guid>
+      <guid>https://medapt-group.github.io/publication/tip24-hyre-pose/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IceDetectNet: a rotated object detection algorithm for classifying components of aggregated ice crystals with a multi-label classification scheme</title>
-      <link>https://xialipku.github.io/new_page/publication/amt24-icedetectnet-atm/</link>
+      <link>https://medapt-group.github.io/publication/amt24-icedetectnet-atm/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/amt24-icedetectnet-atm/</guid>
+      <guid>https://medapt-group.github.io/publication/amt24-icedetectnet-atm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generating Synthetic Computed Tomography for Radiotherapy: SynthRAD2023 Challenge Report</title>
-      <link>https://xialipku.github.io/new_page/publication/media24-synthrad-mr2ct/</link>
+      <link>https://medapt-group.github.io/publication/media24-synthrad-mr2ct/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/media24-synthrad-mr2ct/</guid>
+      <guid>https://medapt-group.github.io/publication/media24-synthrad-mr2ct/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Unified Generation-Registration Framework for Improved MR-based CT Synthesis in Proton Therapy</title>
-      <link>https://xialipku.github.io/new_page/publication/medphys24-joint-gen-reg/</link>
+      <link>https://medapt-group.github.io/publication/medphys24-joint-gen-reg/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/medphys24-joint-gen-reg/</guid>
+      <guid>https://medapt-group.github.io/publication/medphys24-joint-gen-reg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ModelNet-O: A large-scale synthetic dataset for occlusion-aware point cloud classification</title>
-      <link>https://xialipku.github.io/new_page/publication/cviu24-modelnet-point/</link>
+      <link>https://medapt-group.github.io/publication/cviu24-modelnet-point/</link>
       <pubDate>Wed, 19 Jun 2024 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/cviu24-modelnet-point/</guid>
+      <guid>https://medapt-group.github.io/publication/cviu24-modelnet-point/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous sPatial-Temporal Deformable Image Registration (CPT-DIR) for motion modelling in radiotherapy: beyond classic voxel-based methods</title>
-      <link>https://xialipku.github.io/new_page/publication/medphys25-cpt-dir/</link>
+      <link>https://medapt-group.github.io/publication/medphys25-cpt-dir/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/medphys25-cpt-dir/</guid>
+      <guid>https://medapt-group.github.io/publication/medphys25-cpt-dir/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards robust referring image segmentation</title>
-      <link>https://xialipku.github.io/new_page/publication/tip24-ref-seg/</link>
+      <link>https://medapt-group.github.io/publication/tip24-ref-seg/</link>
       <pubDate>Tue, 05 Mar 2024 12:30:06 +0100</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/tip24-ref-seg/</guid>
+      <guid>https://medapt-group.github.io/publication/tip24-ref-seg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards open vocabulary learning: A survey</title>
-      <link>https://xialipku.github.io/new_page/publication/tpami24-open-voc/</link>
+      <link>https://medapt-group.github.io/publication/tpami24-open-voc/</link>
       <pubDate>Mon, 05 Feb 2024 12:30:06 +0100</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/tpami24-open-voc/</guid>
+      <guid>https://medapt-group.github.io/publication/tpami24-open-voc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncertainty-aware MR-based CT synthesis for robust proton therapy planning of brain tumour</title>
-      <link>https://xialipku.github.io/new_page/publication/ro23-uncert-mr2ct/</link>
+      <link>https://medapt-group.github.io/publication/ro23-uncert-mr2ct/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/ro23-uncert-mr2ct/</guid>
+      <guid>https://medapt-group.github.io/publication/ro23-uncert-mr2ct/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Audio–visual keyword transformer for unconstrained sentence‐level keyword spotting</title>
-      <link>https://xialipku.github.io/new_page/publication/caai24-kws-acoustic/</link>
+      <link>https://medapt-group.github.io/publication/caai24-kws-acoustic/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/caai24-kws-acoustic/</guid>
+      <guid>https://medapt-group.github.io/publication/caai24-kws-acoustic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimization induced equilibrium networks: An explicit optimization perspective for understanding equilibrium models</title>
-      <link>https://xialipku.github.io/new_page/publication/tpami22-equil-learn/</link>
+      <link>https://medapt-group.github.io/publication/tpami22-equil-learn/</link>
       <pubDate>Fri, 10 Jun 2022 12:30:06 +0100</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/tpami22-equil-learn/</guid>
+      <guid>https://medapt-group.github.io/publication/tpami22-equil-learn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PCLoss: Fashion landmark estimation with position constraint loss</title>
-      <link>https://xialipku.github.io/new_page/publication/pr21-fashion-pose/</link>
+      <link>https://medapt-group.github.io/publication/pr21-fashion-pose/</link>
       <pubDate>Fri, 01 Oct 2021 12:30:06 +0100</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/pr21-fashion-pose/</guid>
+      <guid>https://medapt-group.github.io/publication/pr21-fashion-pose/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards efficient scene understanding via squeeze reasoning</title>
-      <link>https://xialipku.github.io/new_page/publication/tip21-srnet-seg/</link>
+      <link>https://medapt-group.github.io/publication/tip21-srnet-seg/</link>
       <pubDate>Fri, 30 Jul 2021 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/tip21-srnet-seg/</guid>
+      <guid>https://medapt-group.github.io/publication/tip21-srnet-seg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bi-directional Exponential Angular Triplet Loss for RGB-Infrared Person Re-Identification</title>
-      <link>https://xialipku.github.io/new_page/publication/tip20-atloss-reid/</link>
+      <link>https://medapt-group.github.io/publication/tip20-atloss-reid/</link>
       <pubDate>Sat, 12 Dec 2020 12:30:06 +0100</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/tip20-atloss-reid/</guid>
+      <guid>https://medapt-group.github.io/publication/tip20-atloss-reid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-label classification of PCB defects based on convolutional neural network</title>
-      <link>https://xialipku.github.io/new_page/publication/joe18-pcb-cls/</link>
+      <link>https://medapt-group.github.io/publication/joe18-pcb-cls/</link>
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/joe18-pcb-cls/</guid>
+      <guid>https://medapt-group.github.io/publication/joe18-pcb-cls/</guid>
       <description></description>
     </item>
     

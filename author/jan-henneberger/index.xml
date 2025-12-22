@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jan Henneberger | Xia Li</title>
-    <link>https://xialipku.github.io/new_page/author/jan-henneberger/</link>
-      <atom:link href="https://xialipku.github.io/new_page/author/jan-henneberger/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://medapt-group.github.io/author/jan-henneberger/</link>
+      <atom:link href="https://medapt-group.github.io/author/jan-henneberger/index.xml" rel="self" type="application/rss+xml" />
     <description>Jan Henneberger</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0800</lastBuildDate>
     <image>
-      <url>https://xialipku.github.io/new_page/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url>
       <title>Jan Henneberger</title>
-      <link>https://xialipku.github.io/new_page/author/jan-henneberger/</link>
+      <link>https://medapt-group.github.io/author/jan-henneberger/</link>
     </image>
     
     <item>
       <title>Exploring the effect of training set size and number of categories on ice crystal classification through a contrastive semi-supervised learning algorithm</title>
-      <link>https://xialipku.github.io/new_page/publication/amt25-csslice-atm/</link>
+      <link>https://medapt-group.github.io/publication/amt25-csslice-atm/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/amt25-csslice-atm/</guid>
+      <guid>https://medapt-group.github.io/publication/amt25-csslice-atm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IceDetectNet: a rotated object detection algorithm for classifying components of aggregated ice crystals with a multi-label classification scheme</title>
-      <link>https://xialipku.github.io/new_page/publication/amt24-icedetectnet-atm/</link>
+      <link>https://medapt-group.github.io/publication/amt24-icedetectnet-atm/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/amt24-icedetectnet-atm/</guid>
+      <guid>https://medapt-group.github.io/publication/amt24-icedetectnet-atm/</guid>
       <description></description>
     </item>
     

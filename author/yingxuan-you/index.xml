@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yingxuan You | Xia Li</title>
-    <link>https://xialipku.github.io/new_page/author/yingxuan-you/</link>
-      <atom:link href="https://xialipku.github.io/new_page/author/yingxuan-you/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://medapt-group.github.io/author/yingxuan-you/</link>
+      <atom:link href="https://medapt-group.github.io/author/yingxuan-you/index.xml" rel="self" type="application/rss+xml" />
     <description>Yingxuan You</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0800</lastBuildDate>
     <image>
-      <url>https://xialipku.github.io/new_page/author/yingxuan-you/avatar_hue4c897013b618e9d0f5e7b56945f2641_117672_270x270_fill_q80_lanczos_center.jpg</url>
+      <url>https://medapt-group.github.io/author/yingxuan-you/avatar_hue4c897013b618e9d0f5e7b56945f2641_117672_270x270_fill_q80_lanczos_center.jpg</url>
       <title>Yingxuan You</title>
-      <link>https://xialipku.github.io/new_page/author/yingxuan-you/</link>
+      <link>https://medapt-group.github.io/author/yingxuan-you/</link>
     </image>
     
     <item>
       <title>HYRE: Hybrid Regressor for 3D Human Pose and Shape Estimation</title>
-      <link>https://xialipku.github.io/new_page/publication/tip24-hyre-pose/</link>
+      <link>https://medapt-group.github.io/publication/tip24-hyre-pose/</link>
       <pubDate>Wed, 25 Dec 2024 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/tip24-hyre-pose/</guid>
+      <guid>https://medapt-group.github.io/publication/tip24-hyre-pose/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gator: Graph-Aware Transformer with Motion-Disentangled Regression for Human Mesh Recovery from a 2D Pose</title>
-      <link>https://xialipku.github.io/new_page/publication/icassp23-gator-mesh/</link>
+      <link>https://medapt-group.github.io/publication/icassp23-gator-mesh/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/icassp23-gator-mesh/</guid>
+      <guid>https://medapt-group.github.io/publication/icassp23-gator-mesh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interweaved Graph and Attention Network for 3D Human Pose Estimation</title>
-      <link>https://xialipku.github.io/new_page/publication/icassp23-iganet-pose/</link>
+      <link>https://medapt-group.github.io/publication/icassp23-iganet-pose/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/icassp23-iganet-pose/</guid>
+      <guid>https://medapt-group.github.io/publication/icassp23-iganet-pose/</guid>
       <description></description>
     </item>
     

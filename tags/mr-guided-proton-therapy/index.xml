@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mr-Guided Proton Therapy | Xia Li</title>
-    <link>https://xialipku.github.io/new_page/tags/mr-guided-proton-therapy/</link>
-      <atom:link href="https://xialipku.github.io/new_page/tags/mr-guided-proton-therapy/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://medapt-group.github.io/tags/mr-guided-proton-therapy/</link>
+      <atom:link href="https://medapt-group.github.io/tags/mr-guided-proton-therapy/index.xml" rel="self" type="application/rss+xml" />
     <description>Mr-Guided Proton Therapy</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://xialipku.github.io/new_page/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url>
       <title>Mr-Guided Proton Therapy</title>
-      <link>https://xialipku.github.io/new_page/tags/mr-guided-proton-therapy/</link>
+      <link>https://medapt-group.github.io/tags/mr-guided-proton-therapy/</link>
     </image>
     
     <item>
       <title>A proof-of-concept study of direct magnetic resonance imaging-based proton dose calculation for brain tumors via neural networks with Monte Carlo-comparable accuracy</title>
-      <link>https://xialipku.github.io/new_page/publication/phiro25-mr-dose/</link>
+      <link>https://medapt-group.github.io/publication/phiro25-mr-dose/</link>
       <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/phiro25-mr-dose/</guid>
+      <guid>https://medapt-group.github.io/publication/phiro25-mr-dose/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diffusion Schrödinger bridge models for high-quality MR-to-CT synthesis for proton treatment planning</title>
-      <link>https://xialipku.github.io/new_page/publication/medphys25-dsbm-mr2ct/</link>
+      <link>https://medapt-group.github.io/publication/medphys25-dsbm-mr2ct/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/medphys25-dsbm-mr2ct/</guid>
+      <guid>https://medapt-group.github.io/publication/medphys25-dsbm-mr2ct/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generating Synthetic Computed Tomography for Radiotherapy: SynthRAD2023 Challenge Report</title>
-      <link>https://xialipku.github.io/new_page/publication/media24-synthrad-mr2ct/</link>
+      <link>https://medapt-group.github.io/publication/media24-synthrad-mr2ct/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/media24-synthrad-mr2ct/</guid>
+      <guid>https://medapt-group.github.io/publication/media24-synthrad-mr2ct/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Unified Generation-Registration Framework for Improved MR-based CT Synthesis in Proton Therapy</title>
-      <link>https://xialipku.github.io/new_page/publication/medphys24-joint-gen-reg/</link>
+      <link>https://medapt-group.github.io/publication/medphys24-joint-gen-reg/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/medphys24-joint-gen-reg/</guid>
+      <guid>https://medapt-group.github.io/publication/medphys24-joint-gen-reg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncertainty-aware MR-based CT synthesis for robust proton therapy planning of brain tumour</title>
-      <link>https://xialipku.github.io/new_page/publication/ro23-uncert-mr2ct/</link>
+      <link>https://medapt-group.github.io/publication/ro23-uncert-mr2ct/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/ro23-uncert-mr2ct/</guid>
+      <guid>https://medapt-group.github.io/publication/ro23-uncert-mr2ct/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Our abstract is selected as a Mini-Oral presentation by ESTRO 2023!</title>
-      <link>https://xialipku.github.io/new_page/post/22-12-20-estro23-mini-oral/</link>
+      <link>https://medapt-group.github.io/post/22-12-20-estro23-mini-oral/</link>
       <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://xialipku.github.io/new_page/post/22-12-20-estro23-mini-oral/</guid>
+      <guid>https://medapt-group.github.io/post/22-12-20-estro23-mini-oral/</guid>
       <description>&lt;p&gt;From ESTRO: We are delighted to inform you that the Abstract Review Committee has selected your abstract E23-0545 titled “Uncertainty-aware MR-base CT synthesis for robust proton planning of skull-based tumour” for presentation as a Mini-Oral at ESTRO 2023&lt;/p&gt;
 &lt;p&gt;Detailed information:&lt;/p&gt;
 &lt;ul&gt;

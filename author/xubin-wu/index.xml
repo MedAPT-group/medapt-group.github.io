@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xubin Wu | Xia Li</title>
-    <link>https://xialipku.github.io/new_page/author/xubin-wu/</link>
-      <atom:link href="https://xialipku.github.io/new_page/author/xubin-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://medapt-group.github.io/author/xubin-wu/</link>
+      <atom:link href="https://medapt-group.github.io/author/xubin-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Xubin Wu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0800</lastBuildDate>
     <image>
-      <url>https://xialipku.github.io/new_page/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url>
       <title>Xubin Wu</title>
-      <link>https://xialipku.github.io/new_page/author/xubin-wu/</link>
+      <link>https://medapt-group.github.io/author/xubin-wu/</link>
     </image>
     
     <item>
       <title>Enhancing Brain MRI Super-Resolution Through Multi-Slice Aware Matching and Fusion</title>
-      <link>https://xialipku.github.io/new_page/publication/caai25-msamf-sr/</link>
+      <link>https://medapt-group.github.io/publication/caai25-msamf-sr/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/caai25-msamf-sr/</guid>
+      <guid>https://medapt-group.github.io/publication/caai25-msamf-sr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Prior Causality‐Guided Multi‐View Diffusion Network for Brain Disorder Classification</title>
-      <link>https://xialipku.github.io/new_page/publication/caai25-pcmdn-cls/</link>
+      <link>https://medapt-group.github.io/publication/caai25-pcmdn-cls/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/caai25-pcmdn-cls/</guid>
+      <guid>https://medapt-group.github.io/publication/caai25-pcmdn-cls/</guid>
       <description></description>
     </item>
     

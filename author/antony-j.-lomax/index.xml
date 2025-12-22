@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antony J. Lomax | Xia Li</title>
-    <link>https://xialipku.github.io/new_page/author/antony-j.-lomax/</link>
-      <atom:link href="https://xialipku.github.io/new_page/author/antony-j.-lomax/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://medapt-group.github.io/author/antony-j.-lomax/</link>
+      <atom:link href="https://medapt-group.github.io/author/antony-j.-lomax/index.xml" rel="self" type="application/rss+xml" />
     <description>Antony J. Lomax</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://xialipku.github.io/new_page/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url>
       <title>Antony J. Lomax</title>
-      <link>https://xialipku.github.io/new_page/author/antony-j.-lomax/</link>
+      <link>https://medapt-group.github.io/author/antony-j.-lomax/</link>
     </image>
     
     <item>
       <title>A proof-of-concept study of direct magnetic resonance imaging-based proton dose calculation for brain tumors via neural networks with Monte Carlo-comparable accuracy</title>
-      <link>https://xialipku.github.io/new_page/publication/phiro25-mr-dose/</link>
+      <link>https://medapt-group.github.io/publication/phiro25-mr-dose/</link>
       <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/phiro25-mr-dose/</guid>
+      <guid>https://medapt-group.github.io/publication/phiro25-mr-dose/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diffusion Schrödinger bridge models for high-quality MR-to-CT synthesis for proton treatment planning</title>
-      <link>https://xialipku.github.io/new_page/publication/medphys25-dsbm-mr2ct/</link>
+      <link>https://medapt-group.github.io/publication/medphys25-dsbm-mr2ct/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/medphys25-dsbm-mr2ct/</guid>
+      <guid>https://medapt-group.github.io/publication/medphys25-dsbm-mr2ct/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Unified Generation-Registration Framework for Improved MR-based CT Synthesis in Proton Therapy</title>
-      <link>https://xialipku.github.io/new_page/publication/medphys24-joint-gen-reg/</link>
+      <link>https://medapt-group.github.io/publication/medphys24-joint-gen-reg/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/medphys24-joint-gen-reg/</guid>
+      <guid>https://medapt-group.github.io/publication/medphys24-joint-gen-reg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neural Graphics Primitives-based Deformable Image Registration for On-the-fly Motion Extraction</title>
-      <link>https://xialipku.github.io/new_page/publication/iccr24-ngp-dir/</link>
+      <link>https://medapt-group.github.io/publication/iccr24-ngp-dir/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/iccr24-ngp-dir/</guid>
+      <guid>https://medapt-group.github.io/publication/iccr24-ngp-dir/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncertainty-aware MR-based CT synthesis for robust proton therapy planning of brain tumour</title>
-      <link>https://xialipku.github.io/new_page/publication/ro23-uncert-mr2ct/</link>
+      <link>https://medapt-group.github.io/publication/ro23-uncert-mr2ct/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/ro23-uncert-mr2ct/</guid>
+      <guid>https://medapt-group.github.io/publication/ro23-uncert-mr2ct/</guid>
       <description></description>
     </item>
     
