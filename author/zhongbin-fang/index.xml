@@ -5,12 +5,20 @@
     <link>https://medapt-group.github.io/author/zhongbin-fang/</link>
       <atom:link href="https://medapt-group.github.io/author/zhongbin-fang/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhongbin Fang</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Dec 2023 21:30:06 +0800</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jun 2024 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url>
       <title>Zhongbin Fang</title>
       <link>https://medapt-group.github.io/author/zhongbin-fang/</link>
     </image>
+    
+    <item>
+      <title>ModelNet-O: A large-scale synthetic dataset for occlusion-aware point cloud classification</title>
+      <link>https://medapt-group.github.io/publication/cviu24-modelnet-point/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0800</pubDate>
+      <guid>https://medapt-group.github.io/publication/cviu24-modelnet-point/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Skeleton-in-context: Unified skeleton sequence modeling with in-context learning</title>

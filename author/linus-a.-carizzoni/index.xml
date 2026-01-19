@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linus A. Carizzoni | Xia Li</title>
+    <link>https://medapt-group.github.io/author/linus-a.-carizzoni/</link>
+      <atom:link href="https://medapt-group.github.io/author/linus-a.-carizzoni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linus A. Carizzoni</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url>
+      <title>Linus A. Carizzoni</title>
+      <link>https://medapt-group.github.io/author/linus-a.-carizzoni/</link>
+    </image>
+    
+    <item>
+      <title>Comparative evaluation of static and dynamic 4D dose recalculations in pencil beam scanning proton therapy for oesophageal cancer</title>
+      <link>https://medapt-group.github.io/publication/phiro25-comp-cpt-dir/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://medapt-group.github.io/publication/phiro25-comp-cpt-dir/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

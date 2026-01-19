@@ -2,29 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joachim Buhmann | Xia Li</title>
-    <link>https://medapt-group.github.io/author/joachim-buhmann/</link>
-      <atom:link href="https://medapt-group.github.io/author/joachim-buhmann/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/joachim-buhmann/</link>
+      <atom:link href="http://localhost:1313/author/joachim-buhmann/index.xml" rel="self" type="application/rss+xml" />
     <description>Joachim Buhmann</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Dec 2023 12:30:06 +0100</lastBuildDate>
     <image>
-      <url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url>
       <title>Joachim Buhmann</title>
-      <link>https://medapt-group.github.io/author/joachim-buhmann/</link>
+      <link>http://localhost:1313/author/joachim-buhmann/</link>
     </image>
     
     <item>
-      <title>Continuous sPatial-Temporal Deformable Image Registration (CPT-DIR) for motion modelling in radiotherapy: beyond classic voxel-based methods</title>
-      <link>https://medapt-group.github.io/publication/medphys25-cpt-dir/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://medapt-group.github.io/publication/medphys25-cpt-dir/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Explore In-Context Learning for 3D Point Cloud Understanding</title>
-      <link>https://medapt-group.github.io/publication/neurips23-icl-point/</link>
+      <link>http://localhost:1313/publication/neurips23-icl-point/</link>
       <pubDate>Sun, 10 Dec 2023 12:30:06 +0100</pubDate>
-      <guid>https://medapt-group.github.io/publication/neurips23-icl-point/</guid>
+      <guid>http://localhost:1313/publication/neurips23-icl-point/</guid>
       <description></description>
     </item>
     

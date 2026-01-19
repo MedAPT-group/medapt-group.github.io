@@ -5,12 +5,28 @@
     <link>https://medapt-group.github.io/author/xiangtai-li/</link>
       <atom:link href="https://medapt-group.github.io/author/xiangtai-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiangtai Li</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 May 2024 00:00:00 +0800</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url>
       <title>Xiangtai Li</title>
       <link>https://medapt-group.github.io/author/xiangtai-li/</link>
     </image>
+    
+    <item>
+      <title>Continuous sPatial-Temporal Deformable Image Registration (CPT-DIR) for motion modelling in radiotherapy: beyond classic voxel-based methods</title>
+      <link>https://medapt-group.github.io/publication/medphys25-cpt-dir/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://medapt-group.github.io/publication/medphys25-cpt-dir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ModelNet-O: A large-scale synthetic dataset for occlusion-aware point cloud classification</title>
+      <link>https://medapt-group.github.io/publication/cviu24-modelnet-point/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0800</pubDate>
+      <guid>https://medapt-group.github.io/publication/cviu24-modelnet-point/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>VG4D: Vision-Language Model Goes 4D Video Recognition</title>

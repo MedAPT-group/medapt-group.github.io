@@ -5,12 +5,36 @@
     <link>https://medapt-group.github.io/author/xia-li/</link>
       <atom:link href="https://medapt-group.github.io/author/xia-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Xia Li</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://medapt-group.github.io/author/xia-li/avatar_hu38b2da75d15c5c017ce6115119cf4983_8131_270x270_fill_q80_lanczos_center.jpg</url>
       <title>Xia Li</title>
       <link>https://medapt-group.github.io/author/xia-li/</link>
     </image>
+    
+    <item>
+      <title>Comparative evaluation of static and dynamic 4D dose recalculations in pencil beam scanning proton therapy for oesophageal cancer</title>
+      <link>https://medapt-group.github.io/publication/phiro25-comp-cpt-dir/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://medapt-group.github.io/publication/phiro25-comp-cpt-dir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contour-informed inter-patient deformable registration for more reliable voxel-based analysis of Head-and-Neck cancer patients</title>
+      <link>https://medapt-group.github.io/publication/phiro25-contour-cpt-dir/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://medapt-group.github.io/publication/phiro25-contour-cpt-dir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous sPatial-Temporal Deformable Image Registration (CPT-DIR) for motion modelling in radiotherapy: beyond classic voxel-based methods</title>
+      <link>https://medapt-group.github.io/publication/medphys25-cpt-dir/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://medapt-group.github.io/publication/medphys25-cpt-dir/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>I am serving as an Area Chair for ICML 2026</title>
@@ -213,14 +237,6 @@
       <link>https://medapt-group.github.io/event/estro24-proffered-paper/</link>
       <pubDate>Sat, 04 May 2024 09:41:00 +0200</pubDate>
       <guid>https://medapt-group.github.io/event/estro24-proffered-paper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continuous sPatial-Temporal Deformable Image Registration (CPT-DIR) for motion modelling in radiotherapy: beyond classic voxel-based methods</title>
-      <link>https://medapt-group.github.io/publication/medphys25-cpt-dir/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://medapt-group.github.io/publication/medphys25-cpt-dir/</guid>
       <description></description>
     </item>
     
