@@ -5,12 +5,28 @@
     <link>https://medapt-group.github.io/author/jihe-li/</link>
       <atom:link href="https://medapt-group.github.io/author/jihe-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Jihe Li</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://medapt-group.github.io/author/jihe-li/avatar_hu64002691ae075e9586fa28822b2df891_19944_270x270_fill_q80_lanczos_center.jpg</url>
+      <url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url>
       <title>Jihe Li</title>
       <link>https://medapt-group.github.io/author/jihe-li/</link>
     </image>
+    
+    <item>
+      <title>Gaussian Representation for Deformable Image Registration</title>
+      <link>https://medapt-group.github.io/publication/phiro25-gaussian-dir/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://medapt-group.github.io/publication/phiro25-gaussian-dir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Performance Computing Framework for Variable Selection on Genome-wide Association Studies</title>
+      <link>https://medapt-group.github.io/publication/bibm24-gwas-hpc/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0800</pubDate>
+      <guid>https://medapt-group.github.io/publication/bibm24-gwas-hpc/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
