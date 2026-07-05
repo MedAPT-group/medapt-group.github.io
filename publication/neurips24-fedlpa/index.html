@@ -1,6 +1,6 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: July 2, 2026 --><html lang="en-us" dir="ltr"
+<!-- Last Published: July 5, 2026 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
 <head>
@@ -1153,6 +1153,16 @@
   .hb-members-content > div > div {
     max-width: 100% !important;
   }
+  .hb-students-page {
+    max-width: 1000px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  .hb-students-page .hb-members-content {
+    max-width: 1000px;
+    padding-left: 0;
+    padding-right: 0;
+  }
   .hb-team-intro {
     max-width: 60rem;
     margin: 0 auto 2rem auto;
@@ -1390,28 +1400,70 @@
 </style>
 
 
-
       
     
   
     
       
       <style>
-   
   #site-header.header {
-    max-width: 1200px;  
+    width: 100%;
+    max-width: none;
+    padding: 0.35rem 0.5rem;
+  }
+
+  #site-header .navbar {
+    max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
     padding-left: 1rem;
     padding-right: 1rem;
   }
 
-   
-  #site-header .navbar {
-    max-width: 100%;
+  #site-header .navbar-brand {
+    display: inline-flex;
+    align-items: center;
+    line-height: 1;
+    margin: 0;
+    padding: 0;
+  }
+
+  #site-header .navbar-brand img {
+    height: 50px;
+    width: auto;
+    display: block;
+  }
+
+  #site-header .navbar-brand img.hb-navbar-logo-dark,
+  #site-header .navbar-brand .hb-navbar-logo-dark {
+    display: none;
+  }
+
+  .dark #site-header .navbar-brand img.hb-navbar-logo-light,
+  .dark #site-header .navbar-brand .hb-navbar-logo-light {
+    display: none;
+  }
+
+  .dark #site-header .navbar-brand img.hb-navbar-logo-dark,
+  .dark #site-header .navbar-brand .hb-navbar-logo-dark {
+    display: block;
+  }
+
+  @media (max-width: 640px) {
+    #site-header.header {
+      padding: 0.25rem;
+    }
+
+    #site-header .navbar {
+      padding-left: 0;
+      padding-right: 0;
+    }
+
+    #site-header .navbar-brand img {
+      height: 46px;
+    }
   }
 </style>
-
 
       
     
@@ -1516,7 +1568,7 @@
       
       <style>
   .hb-pubs-page {
-    max-width: 72rem;
+    max-width: 1000px;
     margin: 0 auto;
     padding: 0 1rem;
   }
@@ -1731,7 +1783,6 @@
 </style>
 
 
-
       
     
   
@@ -1755,7 +1806,36 @@
     <div class="order-0 h-100">
       
       <a class="navbar-brand" href="/" title="Xia Li">
-        Xia Li
+            
+            
+              
+              <img
+                fetchpriority="high"
+                decoding="async"
+                class="hb-navbar-logo hb-navbar-logo-light"
+                width="199"
+                height="128"
+                src="/media/icon-navbar_hu5c00d57d29aa59a647d75d45ba0466d4_358846_0x128_resize_q80_h2_lanczos_3.webp"
+                alt="Xia Li" />
+            
+          
+        
+        
+            
+            
+              
+              <img
+                fetchpriority="high"
+                decoding="async"
+                class="hb-navbar-logo hb-navbar-logo-dark"
+                width="199"
+                height="128"
+                src="/media/icon-navbar-dark_hu2637a8e7bc4c8bbc6406a45b3e18356f_257233_0x128_resize_q80_h2_lanczos_3.webp"
+                alt="Xia Li" />
+            
+          
+        
+        
       </a>
     </div>
     
@@ -2628,7 +2708,7 @@
           <div class="group inline-flex items-center text-current gap-x-1.5 mx-1">
             
             
-            <img src="/author/xia-li/avatar_hu38b2da75d15c5c017ce6115119cf4983_8131_50x50_fill_q80_h2_lanczos_center.webp" alt="Xia Li" class="inline-block h-4 w-4 rounded-full border border-current" loading="lazy" />
+            <img src="/author/xia-li/avatar_hu37b868d213bd012ee1885615d3cd1dcc_281342_50x50_fill_q80_h2_lanczos_center_3.webp" alt="Xia Li" class="inline-block h-4 w-4 rounded-full border border-current" loading="lazy" />
             
             <div >Xia Li</div>
           </div>
@@ -2946,7 +3026,7 @@
     width="96"
     height="96"
     alt="Xia Li"
-  src="/author/xia-li/avatar_hu38b2da75d15c5c017ce6115119cf4983_8131_192x192_fill_q80_lanczos_center.jpg"
+  src="/author/xia-li/avatar_hu37b868d213bd012ee1885615d3cd1dcc_281342_192x192_fill_lanczos_center_3.png"
   loading="lazy"
   />
   
@@ -2962,7 +3042,7 @@
 
     
     <div class="text-sm font-bold text-neutral-700 dark:text-neutral-300">
-    Associate Professor, Ph.D. Supervisor
+    Associate Professor
     </div>
     
 

@@ -1,6 +1,6 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: July 2, 2026 --><html lang="en-us" dir="ltr"
+<!-- Last Published: July 5, 2026 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
 <head>
@@ -1129,6 +1129,16 @@
   .hb-members-content > div > div {
     max-width: 100% !important;
   }
+  .hb-students-page {
+    max-width: 1000px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  .hb-students-page .hb-members-content {
+    max-width: 1000px;
+    padding-left: 0;
+    padding-right: 0;
+  }
   .hb-team-intro {
     max-width: 60rem;
     margin: 0 auto 2rem auto;
@@ -1366,28 +1376,70 @@
 </style>
 
 
-
       
     
   
     
       
       <style>
-   
   #site-header.header {
-    max-width: 1200px;  
+    width: 100%;
+    max-width: none;
+    padding: 0.35rem 0.5rem;
+  }
+
+  #site-header .navbar {
+    max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
     padding-left: 1rem;
     padding-right: 1rem;
   }
 
-   
-  #site-header .navbar {
-    max-width: 100%;
+  #site-header .navbar-brand {
+    display: inline-flex;
+    align-items: center;
+    line-height: 1;
+    margin: 0;
+    padding: 0;
+  }
+
+  #site-header .navbar-brand img {
+    height: 50px;
+    width: auto;
+    display: block;
+  }
+
+  #site-header .navbar-brand img.hb-navbar-logo-dark,
+  #site-header .navbar-brand .hb-navbar-logo-dark {
+    display: none;
+  }
+
+  .dark #site-header .navbar-brand img.hb-navbar-logo-light,
+  .dark #site-header .navbar-brand .hb-navbar-logo-light {
+    display: none;
+  }
+
+  .dark #site-header .navbar-brand img.hb-navbar-logo-dark,
+  .dark #site-header .navbar-brand .hb-navbar-logo-dark {
+    display: block;
+  }
+
+  @media (max-width: 640px) {
+    #site-header.header {
+      padding: 0.25rem;
+    }
+
+    #site-header .navbar {
+      padding-left: 0;
+      padding-right: 0;
+    }
+
+    #site-header .navbar-brand img {
+      height: 46px;
+    }
   }
 </style>
-
 
       
     
@@ -1492,7 +1544,7 @@
       
       <style>
   .hb-pubs-page {
-    max-width: 72rem;
+    max-width: 1000px;
     margin: 0 auto;
     padding: 0 1rem;
   }
@@ -1707,7 +1759,6 @@
 </style>
 
 
-
       
     
   
@@ -1731,7 +1782,36 @@
     <div class="order-0 h-100">
       
       <a class="navbar-brand" href="/" title="Xia Li">
-        Xia Li
+            
+            
+              
+              <img
+                fetchpriority="high"
+                decoding="async"
+                class="hb-navbar-logo hb-navbar-logo-light"
+                width="199"
+                height="128"
+                src="/media/icon-navbar_hu5c00d57d29aa59a647d75d45ba0466d4_358846_0x128_resize_q80_h2_lanczos_3.webp"
+                alt="Xia Li" />
+            
+          
+        
+        
+            
+            
+              
+              <img
+                fetchpriority="high"
+                decoding="async"
+                class="hb-navbar-logo hb-navbar-logo-dark"
+                width="199"
+                height="128"
+                src="/media/icon-navbar-dark_hu2637a8e7bc4c8bbc6406a45b3e18356f_257233_0x128_resize_q80_h2_lanczos_3.webp"
+                alt="Xia Li" />
+            
+          
+        
+        
       </a>
     </div>
     
@@ -2029,7 +2109,7 @@
 
     <div class="avatar-wrapper mt-10">
       
-      <img class="avatar rounded-full bg-white dark:bg-gray-800 p-1" src="/author/xia-li/avatar_hu38b2da75d15c5c017ce6115119cf4983_8131_150x150_fill_q80_lanczos_center.jpg" alt="Xia Li"
+      <img class="avatar rounded-full bg-white dark:bg-gray-800 p-1" src="/author/xia-li/avatar_hu37b868d213bd012ee1885615d3cd1dcc_281342_150x150_fill_lanczos_center_3.png" alt="Xia Li"
            width="150" height="150">
       
     </div>
@@ -2042,7 +2122,7 @@
             <rt>李夏</rt>
           </ruby></div>
 
-      <h3 class="font-semibold mb-1">Associate Professor, Ph.D. Supervisor</h3>
+      <h3 class="font-semibold mb-1">Associate Professor</h3>
 
       
       <div class="mb-2">
@@ -2151,7 +2231,7 @@
     
     <div class="pt-2 justify-content-center prose prose-slate dark:prose-invert">
       <div class="bio-text" >
-        <h2 id="about-me">About Me</h2>
+        <h2 id="about-the-pi">About the PI</h2>
 <p>I am a tenure-track Associate Professor and Ph.D. supervisor at the School of Biomedical Engineering, Shanghai Jiao Tong University, where I lead the MedAPT group: Medical AI for Precision Therapy.</p>
 <p>My research lies at the intersection of machine learning, computer vision, medical imaging, and radiation oncology. I am particularly interested in developing advanced imaging algorithms for image-guided precision radiotherapy, with a focus on proton therapy. Our group works on accelerating and improving core medical imaging methods, including image reconstruction, synthesis, registration, segmentation, uncertainty estimation, and dose-related modeling, with the goal of making precision cancer treatment faster, more accurate, and more accessible.</p>
 <p>Before joining Shanghai Jiao Tong University, I received my Ph.D. in Computer Science from ETH Zurich and continued as a postdoctoral researcher at the Institute for Biomedical Engineering, ETH Zurich. I received my M.Sc. from Peking University. I have served as an Area Chair for ICML and NeurIPS, and my work has been recognized by the ICCR 2024 Rising Star Award, Stanford&rsquo;s World&rsquo;s Top 2% Scientists list, and awards in the COCO Challenge.</p>
