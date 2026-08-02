@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Xin Wen | Xia Li</title><link>https://medapt-group.github.io/author/xin-wen/</link><atom:link href="https://medapt-group.github.io/author/xin-wen/index.xml" rel="self" type="application/rss+xml"/><description>Xin Wen</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0800</lastBuildDate><image><url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url><title>Xin Wen</title><link>https://medapt-group.github.io/author/xin-wen/</link></image><item><title>Enhancing Brain MRI Super-Resolution Through Multi-Slice Aware Matching and Fusion</title><link>https://medapt-group.github.io/publication/caai25-msamf-sr/</link><pubDate>Wed, 01 Oct 2025 00:00:00 +0800</pubDate><guid>https://medapt-group.github.io/publication/caai25-msamf-sr/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xin Wen | Xia Li</title>
+    <link>https://medapt-group.github.io/author/xin-wen/</link>
+      <atom:link href="https://medapt-group.github.io/author/xin-wen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xin Wen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url>
+      <title>Xin Wen</title>
+      <link>https://medapt-group.github.io/author/xin-wen/</link>
+    </image>
+    
+    <item>
+      <title>Enhancing Brain MRI Super-Resolution Through Multi-Slice Aware Matching and Fusion</title>
+      <link>https://medapt-group.github.io/publication/caai25-msamf-sr/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0800</pubDate>
+      <guid>https://medapt-group.github.io/publication/caai25-msamf-sr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

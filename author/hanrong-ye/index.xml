@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hanrong Ye | Xia Li</title><link>https://medapt-group.github.io/author/hanrong-ye/</link><atom:link href="https://medapt-group.github.io/author/hanrong-ye/index.xml" rel="self" type="application/rss+xml"/><description>Hanrong Ye</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Dec 2020 12:30:06 +0100</lastBuildDate><image><url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url><title>Hanrong Ye</title><link>https://medapt-group.github.io/author/hanrong-ye/</link></image><item><title>Bi-directional Exponential Angular Triplet Loss for RGB-Infrared Person Re-Identification</title><link>https://medapt-group.github.io/publication/tip20-atloss-reid/</link><pubDate>Sat, 12 Dec 2020 12:30:06 +0100</pubDate><guid>https://medapt-group.github.io/publication/tip20-atloss-reid/</guid><description/></item><item><title>Self-Refining Deep Symmetry Enhanced Network for Rain Removal</title><link>https://medapt-group.github.io/publication/icip19-dsen-rain/</link><pubDate>Sun, 22 Sep 2019 00:00:00 +0800</pubDate><guid>https://medapt-group.github.io/publication/icip19-dsen-rain/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hanrong Ye | Xia Li</title>
+    <link>https://medapt-group.github.io/author/hanrong-ye/</link>
+      <atom:link href="https://medapt-group.github.io/author/hanrong-ye/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hanrong Ye</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Dec 2020 12:30:06 +0100</lastBuildDate>
+    <image>
+      <url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url>
+      <title>Hanrong Ye</title>
+      <link>https://medapt-group.github.io/author/hanrong-ye/</link>
+    </image>
+    
+    <item>
+      <title>Bi-directional Exponential Angular Triplet Loss for RGB-Infrared Person Re-Identification</title>
+      <link>https://medapt-group.github.io/publication/tip20-atloss-reid/</link>
+      <pubDate>Sat, 12 Dec 2020 12:30:06 +0100</pubDate>
+      <guid>https://medapt-group.github.io/publication/tip20-atloss-reid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Refining Deep Symmetry Enhanced Network for Rain Removal</title>
+      <link>https://medapt-group.github.io/publication/icip19-dsen-rain/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0800</pubDate>
+      <guid>https://medapt-group.github.io/publication/icip19-dsen-rain/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
