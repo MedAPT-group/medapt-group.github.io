@@ -5,12 +5,20 @@
     <link>https://medapt-group.github.io/author/xia-li/</link>
       <atom:link href="https://medapt-group.github.io/author/xia-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Xia Li</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://medapt-group.github.io/author/xia-li/avatar_hu37b868d213bd012ee1885615d3cd1dcc_281342_270x270_fill_lanczos_center_3.png</url>
       <title>Xia Li</title>
       <link>https://medapt-group.github.io/author/xia-li/</link>
     </image>
+    
+    <item>
+      <title>Contrastive Discrepancy: A label-free metric for deformable image registration supporting testing-time hyperparameter selection</title>
+      <link>https://medapt-group.github.io/publication/media26-contrastive-discrepancy/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0800</pubDate>
+      <guid>https://medapt-group.github.io/publication/media26-contrastive-discrepancy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comparative evaluation of static and dynamic 4D dose recalculations in pencil beam scanning proton therapy for oesophageal cancer</title>

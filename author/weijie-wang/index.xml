@@ -5,12 +5,20 @@
     <link>https://medapt-group.github.io/author/weijie-wang/</link>
       <atom:link href="https://medapt-group.github.io/author/weijie-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Weijie Wang</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Oct 2024 00:00:00 +0800</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url>
       <title>Weijie Wang</title>
       <link>https://medapt-group.github.io/author/weijie-wang/</link>
     </image>
+    
+    <item>
+      <title>Contrastive Discrepancy: A label-free metric for deformable image registration supporting testing-time hyperparameter selection</title>
+      <link>https://medapt-group.github.io/publication/media26-contrastive-discrepancy/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0800</pubDate>
+      <guid>https://medapt-group.github.io/publication/media26-contrastive-discrepancy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>UVMap-ID: A Controllable and Personalized UV Map Generative Model</title>

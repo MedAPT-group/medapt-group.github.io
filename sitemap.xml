@@ -3,7 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://medapt-group.github.io/authors/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-01T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://medapt-group.github.io/publication_types/article-journal/</loc>
+    <lastmod>2026-09-01T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://medapt-group.github.io/publication/media26-contrastive-discrepancy/</loc>
+    <lastmod>2026-09-01T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://medapt-group.github.io/tags/deformable-image-registration/</loc>
+    <lastmod>2026-09-01T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://medapt-group.github.io/tags/hyperparameter-tuning/</loc>
+    <lastmod>2026-09-01T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://medapt-group.github.io/author/jianqi-sun/</loc>
+    <lastmod>2026-09-01T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://medapt-group.github.io/author/jihe-li/</loc>
+    <lastmod>2026-09-01T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://medapt-group.github.io/author/jiquan-yuan/</loc>
+    <lastmod>2026-09-01T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://medapt-group.github.io/author/joachim-m.-buhmann/</loc>
+    <lastmod>2026-09-01T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://medapt-group.github.io/tags/label-free-evaluation/</loc>
+    <lastmod>2026-09-01T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://medapt-group.github.io/publication_types/</loc>
+    <lastmod>2026-09-01T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://medapt-group.github.io/publication/</loc>
+    <lastmod>2026-09-01T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://medapt-group.github.io/tags/</loc>
+    <lastmod>2026-09-01T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://medapt-group.github.io/author/weijie-wang/</loc>
+    <lastmod>2026-09-01T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://medapt-group.github.io/author/xia-li/</loc>
+    <lastmod>2026-09-01T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://medapt-group.github.io/author/xiang-liu/</loc>
+    <lastmod>2026-09-01T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://medapt-group.github.io/author/xixin-cao/</loc>
+    <lastmod>2026-09-01T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://medapt-group.github.io/author/alexey-cherchik/</loc>
@@ -11,10 +75,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://medapt-group.github.io/author/antony-j.-lomax/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://medapt-group.github.io/publication_types/article-journal/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -30,31 +90,11 @@
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://medapt-group.github.io/tags/deformable-image-registration/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://medapt-group.github.io/author/linus-a.-carizzoni/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://medapt-group.github.io/author/muheng-li/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://medapt-group.github.io/publication_types/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://medapt-group.github.io/publication/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://medapt-group.github.io/tags/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://medapt-group.github.io/author/xia-li/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -71,10 +111,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://medapt-group.github.io/publication/medphys25-cpt-dir/</loc>
-    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://medapt-group.github.io/author/joachim-m.-buhmann/</loc>
     <lastmod>2025-12-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -147,18 +183,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://medapt-group.github.io/publication/phiro25-gaussian-dir/</loc>
-    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://medapt-group.github.io/author/jihe-li/</loc>
-    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://medapt-group.github.io/author/xiang-liu/</loc>
-    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://medapt-group.github.io/author/xixin-cao/</loc>
     <lastmod>2025-07-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -351,10 +375,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://medapt-group.github.io/publication/acmmm24-uvmap-gen/</loc>
-    <lastmod>2024-10-28T00:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://medapt-group.github.io/author/weijie-wang/</loc>
     <lastmod>2024-10-28T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
