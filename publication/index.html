@@ -285,6 +285,62 @@
   
   
   
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
   
   
   
@@ -584,24 +640,6 @@
   
   
   
-    
-      
-      
-        
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-        
-        
-      
     
       
       
@@ -1027,63 +1065,21 @@
   
     
       
-      <style>
-   
-  .hb-my-research .max-w-prose {
-    max-width: 1000px !important;  
-  }
-  .hb-my-research .prose {
-    font-size: 1.02rem;  
-    line-height: 1.75;
-    max-width: 1000px !important;  
-    margin-left: auto;
-    margin-right: auto;
-  }
-  @media (min-width: 1024px) {
-    .hb-my-research .prose {
-      font-size: 1.05rem;
-    }
-  }
+      
 
-  .hb-my-research .hb-research-block {
-    font-size: inherit;
-    line-height: inherit;
-  }
+      
+    
+  
+    
+      
+      
 
-   
-  @media (max-width: 768px) {
-    .hb-my-research .hb-research-block {
-      padding-left: 1rem;
-      padding-right: 1rem;
-    }
-  }
-
-   
-  .hb-my-research picture {
-    display: block;
-    width: min(1000px, calc(100vw - 2rem));
-    max-width: none;  
-    margin-top: 1.25rem;
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-  }
-  .hb-my-research .hb-research-img {
-    display: block;
-    width: 100%;
-    height: auto;
-    border-radius: 16px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.10);
-  }
-
-  @media (prefers-color-scheme: dark) {
-    .hb-my-research .hb-research-img {
-      box-shadow: 0 14px 40px rgba(0, 0, 0, 0.35);
-    }
-  }
-</style>
-
-
+      
+    
+  
+    
+      
+      
 
       
     
@@ -1845,6 +1841,20 @@
         <a
           class="nav-link "
           
+          href="/research"
+        >Research</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
           href="/#news"
         >News</a
         >
@@ -1995,6 +2005,7 @@
           data-year="2026"
           data-type="journal"
           data-tags="|deformable image registration|label-free evaluation|hyperparameter tuning|"
+          data-search="contrastive discrepancy: a label-free metric for deformable image registration supporting testing-time hyperparameter selection deformable image registration (dir) proves critical to many medical image analysis tasks, yet its reliable evaluation is fundamentally challenged by the absence of ground-truth deformations. existing label-based metrics require costly manual annotations, while current label-free alternatives often fail to capture anatomical correspondence. to address this dilemma, we introduce contrastive discrepancy (cd), a novel label-free metric for robust evaluation and automatic hyperparameter tuning without requiring manual annotations in dir. grounded in bias–variance trade-off theory and group equivariance, cd quantifies model performance by measuring the discrepancy between deformation vector fields (dvfs) produced when registering a fixed image with different observations of the moving image sampled from the same anatomical orbit under a transformation group, such as an affine group. this approach penalizes both underfitting models, which exhibit high bias, and overfitting models, which are sensitive to unstructured perturbations and thus have high variance. through extensive experiments across three dir model families and two public datasets, we demonstrate that cd’s performance curve consistently mirrors that of the gold-standard target registration error (tre) and substantially outperforms existing label-free metrics. crucially, the validated reliability of cd unlocks its most significant application: fully automatic, testing-time hyperparameter selection. this hyperparameter learning enables dir models to be dynamically optimized for individual patient data without any labeling cost. by offering a practical pathway to automated model tuning, contrastive discrepancy bridges the gap between advanced dir methodologies and their precise, personalized application in clinical workflows. a label-free contrastive discrepancy metric for evaluating deformable image registration and automatically selecting testing-time hyperparameters without manual annotations. deformable image registration label-free evaluation hyperparameter tuning"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2034,6 +2045,7 @@
           data-year="2026"
           data-type="journal"
           data-tags="|deformable image registration|"
+          data-search="contour-informed inter-patient deformable registration for more reliable voxel-based analysis of head-and-neck cancer patients the registration of individual dose distributions to a reference anatomy represents a key step in voxel-based analysis (vba), a tool for spatially informed dose–response assessment. accurate deformable image registration (dir) is essential for addressing anatomical variability across patients. to improve both global and region-specific alignment, we enhanced our in-house dir algorithm (cpt-dir) by incorporating contour-informed regularization. the integration of contour-informed regularization in cpt-dir improved dir accuracy, particularly in anatomically and dosimetrically relevant regions. deformable image registration"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2067,6 +2079,7 @@
           data-year="2026"
           data-type="journal"
           data-tags="|deformable image registration|"
+          data-search="comparative evaluation of static and dynamic 4d dose recalculations in pencil beam scanning proton therapy for oesophageal cancer the robustness of pencil beam scanned (pbs) proton plans to respiratory motion is often assessed in clinical practice by static 4d dose recalculations on selected 4d computed tomography (4dct) phases. these capture anatomical variation but neglect interplay effects from sequential beam delivery. this study investigates these effects by comparing static and dynamic 4ddc for esophageal cancer patients. protocol-based static 4ddc tended to overestimate target coverage robustness to respiratory motion. although differences were minor in most cases, patients with large motion can have significant discrepancies, underscoring the importance of implementing dynamic 4ddc in pbs proton planning for esophageal cancer. deformable image registration"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2100,6 +2113,7 @@
           data-year="2025"
           data-type="journal"
           data-tags="|deformable image registration|"
+          data-search="continuous spatial-temporal deformable image registration (cpt-dir) for motion modelling in radiotherapy: beyond classic voxel-based methods deformable image registration (dir) is a crucial tool in radiotherapy for extracting and modelling organ motion. however, when significant changes and sliding boundaries are present, it faces compromised accuracy and uncertainty, determining the subsequential contour propagation and dose accumulation procedures. by leveraging the continuous representations, the cpt-dir method enhances registration and interpolation accuracy, automation, and speed. deformable image registration"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2133,6 +2147,7 @@
           data-year="2025"
           data-type="journal"
           data-tags="|low-level vision|"
+          data-search="enhancing brain mri super-resolution through multi-slice aware matching and fusion brain mri super-resolution is a critical task in medical image processing, aiming to enhance the resolution of low-resolution mri images for better clinical diagnosis and analysis. this paper proposes a multi-slice aware matching and fusion (msamf) network to enhance brain mri super-resolution. the network introduces a multi-slice aware module and multi-scale matching strategy to fully utilize multi-slice reference image information, capturing corresponding contextual information from reference features at other scales. additionally, a multi-scale fusion mechanism is designed to progressively fuse multi-scale matched features, thereby generating more detailed super-resolution images. experimental results demonstrate the advantages of the network in improving brain mri reconstruction quality. a multi-slice aware matching and fusion (msamf) network for brain mri super-resolution that utilizes multi-slice reference images through multi-scale matching and fusion mechanisms to generate high-quality super-resolution images. low-level vision"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2166,6 +2181,7 @@
           data-year="2025"
           data-type="journal"
           data-tags="|deformable image registration|gaussian representation|"
+          data-search="gaussian representation for deformable image registration deformable image registration (dir) plays a critical role in radiotherapy by compensating for anatomical deformations. however, existing iterative and data-driven methods are often hindered by computational inefficiency or limited generalization. in response, our objective was to develop a novel optimization-based dir method that reduces computational overhead and preserves the robust generalization of iterative methods while enhancing interpretability. this study presented an optimization-based dir ap-proach that employed an explicit gaussian representation to achieveefficient dvf estimation, strong generalization, and high interpretabil-ity. deformable image registration gaussian representation"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2181,7 +2197,7 @@
             <div style="flex: 1; min-width: 0;">
           <h2 class="hb-pub-title">
             <a href="/publication/phiro25-gaussian-dir/">Gaussian Representation for Deformable Image Registration</a>
-          </h2><div class="hb-pub-authors" style="margin-top: 0.35rem;">Jihe Li, Xiang Liu, Fabian Zhang, <strong>Xia Li</strong>, Xixin Cao, Ye Zhang, Joachim M. Buhmann</div><div class="hb-pub-meta" style="margin-top: 0.35rem;"><span class="hb-pub-venue"><em>Physics and Imaging in Radiation Oncology</em> (PhiRO 2025)</span><span class="hb-pub-dot">·</span>
+          </h2><div class="hb-pub-authors" style="margin-top: 0.35rem;">Jihe Li, Xiang Liu, Fabian Zhang, Xixin Cao, Joachim M. Buhmann, Ye Zhang, <strong>Xia Li</strong></div><div class="hb-pub-meta" style="margin-top: 0.35rem;"><span class="hb-pub-venue"><em>Physics and Imaging in Radiation Oncology</em> (PhiRO 2025)</span><span class="hb-pub-dot">·</span>
             <span class="hb-pub-year">2025</span>
           </div>
 
@@ -2199,6 +2215,7 @@
           data-year="2025"
           data-type="journal"
           data-tags="|mr-guided proton therapy|dose calculation|"
+          data-search="a proof-of-concept study of direct magnetic resonance imaging-based proton dose calculation for brain tumors via neural networks with monte carlo-comparable accuracy proton therapy currently relies on computed tomography (ct) imaging despite magnetic resonance imaging’s (mri) superior soft-tissue contrast. while synthetic cts can be generated from magnetic resonance (mr) images, this introduces additional complexity. we present a deep learning-based dose engine enabling direct proton dose calculation from mr images to streamline workflows while maintaining monte carlo (mc)-level accuracy. this study demonstrated the feasibility of mc-quality proton dose calculations directly from mr images for brain tumor patients, achieving comparable accuracy with faster computation and simplified implementation. mr-guided proton therapy dose calculation"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2232,6 +2249,7 @@
           data-year="2025"
           data-type="journal"
           data-tags="|ice crystal|"
+          data-search="exploring the effect of training set size and number of categories on ice crystal classification through a contrastive semi-supervised learning algorithm the shapes of ice crystals play an important role in global precipitation formation and the radiation budget. classifying ice crystal shapes can improve our understanding of in-cloud conditions and these processes. existing classification methods rely on features such as the aspect ratio of ice crystals, environmental temperature, and so on, which bring high instability to the classification performance, or employ supervised machine learning algorithms that heavily rely on human labeling. this poses significant challenges, including human subjectivity in classification and a substantial labor cost in manual labeling. in addition, previous deep learning algorithms for ice crystal classification are often trained and evaluated on datasets with varying sizes and classification schemes, each with distinct criteria and a different number of categories, making it difficult to make a fair comparison of algorithm performance. to overcome these limitations, a contrastive semi-supervised learning (cssl) algorithm for the classification of ice crystals is proposed. the algorithm consists of an upstream unsupervised learning network tasked with extracting meaningful representations from a large number of unlabeled ice crystal images, and a downstream supervised network is fine-tuned with a small subset of labeled images of the entire dataset to perform the classification task. to determine the minimum number of ice crystal images that require human labeling while maintaining the algorithm performance, the algorithm is trained and evaluated on datasets with varying sizes and numbers of categories. the ice crystal data used in this study were collected during the nascent campaign at ny-ålesund and cloudlab project on the swiss plateau using a holographic imager mounted on a tethered balloon system. in general, the cssl algorithm outperforms a purely supervised algorithm in classifying 19 categories. approximately 154 h of manual labeling can be avoided using just 11 % (2048 images) of the training set for fine tuning, sacrificing only 3.8 % in overall precision compared to a fully supervised model trained on the entire dataset. in the four-category classification task, the cssl algorithm also outperforms the purely supervised algorithm. when fine-tuned on just 2048 images (25 % of the dataset), it achieves an overall accuracy of 89.6 %, nearly matching the 91.0 % accuracy of the supervised algorithm trained on 8192 images. when tested on the unseen cloudlab dataset, cssl shows superior generalization, improving accuracy by an average of 2.19 %. our analysis also reveals that both cssl and purely supervised algorithms exhibit inherent instability when trained on small dataset sizes, and the performance difference between them converges as the training set size exceeds 2048 samples. these results highlight the strength and practical effectiveness of cssl in comparison to purely supervised methods and the potential of the cssl algorithm to perform well on datasets collected under different conditions. a contrastive semi-supervised learning (cssl) algorithm for ice crystal classification that reduces manual labeling effort by 90% (154 hours saved) while maintaining high accuracy, achieving 89.6% accuracy with only 25% of labeled data. ice crystal"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2268,6 +2286,7 @@
           data-year="2025"
           data-type="journal"
           data-tags="|human pose|uncertainty estimation|"
+          data-search="uncertainty-aware testing-time optimization for 3d human pose estimation although data-driven methods have achieved success in 3d human pose estimation, they often suffer from domain gaps and exhibit limited generalization. in contrast, optimization-based methods excel in fine-tuning for specific cases but are generally inferior to data-driven methods in overall performance. we observe that previous optimization-based methods commonly rely on projection constraint, which only ensures alignment in 2d space, potentially leading to the overfitting problem. to address this, we propose an uncertainty-aware testing-time optimization (uao) framework, which keeps the prior information of pre-trained model and alleviates the overfitting problem using the uncertainty of joints. specifically, during the training phase, we design an effective 2d-to-3d network for estimating the corresponding 3d pose while quantifying the uncertainty of each 3d joint. for optimization during testing, the proposed optimization framework freezes the pre-trained model and optimizes only a latent state. projection loss is then employed to ensure the generated poses are well aligned in 2d space for high-quality optimization. furthermore, we utilize the uncertainty of each joint to determine how much each joint is allowed for optimization. the effectiveness and superiority of the proposed framework are validated through extensive experiments on two challenging datasets: human3.6m and mpi-inf-3dhp. notably, our approach outperforms the previous best result by a large margin of 4.5% on human3.6m. our source code will be open-sourced. in this paper, we propose an uncertainty-aware testing-time optimization (uao) framework for 3d human pose estimation. during the training process, we propose the gumlp to estimate 3d results and uncertainty values for each joint. for test-time optimization, our uao framework freezes the pre-trained network parameters and optimizes a latent state initialized by the input 2d pose. to constrain the optimization direction in both 2d and 3d spaces, projection and uncertainty constraints are applied. extensive experiments show that our approach achieves state-of-the-art performance on two popular datasets human pose uncertainty estimation"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2301,6 +2320,7 @@
           data-year="2025"
           data-type="journal"
           data-tags="|image segmentation|"
+          data-search="milnet: multiplex interactive learning network for rgb-t semantic segmentation semantic segmentation methods enhance robust and reliable understanding under adverse illumination conditions by integrating complementary information from visible and thermal infrared (rgb-t) images. existing methods primarily focus on designing various feature fusion modules between different modalities, overlooking that feature learning is the critical aspect of scene understanding. in this paper, we propose a novel module-free multiplex interactive learning network (milnet) for rgb-t semantic segmentation, which adeptly integrates multi-model, multi-modal, and multi-level feature learning, fully exploiting the potential of multiplex feature interaction. specifically, robust knowledge is transferred from the vision foundation model to our task-specific model to enhance its segmentation performance. in the task-specific model, an asymmetric simulated learning strategy is introduced to facilitate mutual learning of geometric and semantic information between high- and low-level features across modalities. additionally, an inverse hierarchical fusion strategy based on feature learning pairs is adopted and further refined using multilabel and multiscale supervision. experimental results on the mfnet and pst900 datasets demonstrate that milnet outperforms state-of-the-art methods in terms of miou. as a limitation, the model&#39;s performance under few-sample conditions could be improved further. the code and results of our method are available at https://github.com/jinfu-pku/milnet. a novel module-free multiplex interactive learning network (milnet) for rgb-t semantic segmentation that integrates multi-model, multi-modal, and multi-level feature learning through asymmetric simulated learning and inverse hierarchical fusion strategies. image segmentation"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2337,6 +2357,7 @@
           data-year="2025"
           data-type="journal"
           data-tags="|mr-guided proton therapy|"
+          data-search="diffusion schrödinger bridge models for high-quality mr-to-ct synthesis for proton treatment planning this study aims to introduce and evaluate the diffusion schrödinger bridge models (dsbm), an innovative approach for high-quality and efficient mr-to-ct synthesis, in order to improve both the quality and speed of synthetic ct (sct) image generation. a diffusion schrödinger bridge model for high-quality mr-to-ct synthesis for proton treatment planning. mr-guided proton therapy"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2370,6 +2391,7 @@
           data-year="2025"
           data-type="journal"
           data-tags="||"
+          data-search="a prior causality‐guided multi‐view diffusion network for brain disorder classification brain disorder classification is a critical task in medical image analysis, requiring accurate diagnosis and classification of various neurological conditions. this paper proposes a prior causality-guided multi-view diffusion network (pcmdn) for brain disorder classification. the network leverages prior causality knowledge to guide the multi-view diffusion process, enabling effective feature learning and classification from multiple perspectives of brain imaging data. the proposed method integrates causality-guided mechanisms with diffusion models to enhance the classification performance for brain disorders. a prior causality-guided multi-view diffusion network (pcmdn) for brain disorder classification that leverages prior causality knowledge and multi-view diffusion processes to improve classification accuracy."
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2403,6 +2425,7 @@
           data-year="2024"
           data-type="journal"
           data-tags="|human pose|"
+          data-search="hyre: hybrid regressor for 3d human pose and shape estimation regression-based 3d human pose and shape estimation often fall into one of two different paradigms. parametric approaches, which regress the parameters of a human body model, tend to produce physically plausible but image-mesh misalignment results. in contrast, non-parametric approaches directly regress human mesh vertices, resulting in pixel-aligned but unreasonable predictions. in this paper, we consider these two paradigms together for a better overall estimation. to this end, we propose a novel hybrid regressor (hyre) that greatly benefits from the joint learning of both paradigms. the core of our hyre is a hybrid intermediary across paradigms that provides complementary clues to each paradigm at the shared feature level and fuses their results at the part-based decision level, thereby bridging the gap between the two. we demonstrate the effectiveness of the proposed method through both quantitative and qualitative experimental analyses, resulting in improvements for each approach and ultimately leading to better hybrid results. our experiments show that hyre outperforms previous methods on challenging 3d human pose and shape benchmarks. a novel hybrid regressor (hyre) that combines parametric and non-parametric paradigms for 3d human pose and shape estimation, bridging the gap between physically plausible and pixel-aligned results through joint learning. human pose"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2436,6 +2459,7 @@
           data-year="2024"
           data-type="journal"
           data-tags="|ice crystal|"
+          data-search="icedetectnet: a rotated object detection algorithm for classifying components of aggregated ice crystals with a multi-label classification scheme the shape of ice crystals affects their radiative properties, growth rate, fall speed, and collision efficiency; thus, it plays a significant role in cloud optical properties and precipitation formation. ambient conditions, like temperature and humidity, determine the basic habit of ice crystals, while microphysical processes, such as riming and aggregation, further shape them, resulting in a diverse set of ice crystal shapes and effective densities. current classification algorithms face two major challenges: (1) ice crystals are often classified as a whole (at the image scale), necessitating identification of the dominant component of aggregated ice crystals, and (2) single-label classifications lead to information loss because of the compromise between basic habit and microphysical process information. to address these limitations, we present a two-pronged solution here: (1) a rotated object detection algorithm (icedetectnet) that classifies each component of an aggregated ice crystal individually and (2) a multi-label classification scheme that considers both basic habits and physical processes simultaneously. icedetectnet was trained and tested on two independent datasets obtained by a holographic imager during the nascent campaign in ny-ålesund, svalbard, in november 2019 and april 2020. the algorithm correctly classified 92 % of the ice crystals as either aggregate or non-aggregate and achieved an overall accuracy of 86 % for basic habits and 82 % for microphysical process classification. at the component scale, icedetectnet demonstrated high detection and classification accuracy across all sizes, indicating its ability to effectively classify individual components of aggregated ice crystals. furthermore, the algorithm demonstrated a good generalization ability by classifying ice crystals from an independent generalization dataset with overall accuracies above 70 %. icedetectnet can provide a deeper understanding of ice crystal shapes, leading to better estimates of ice crystal mass, fall velocity, and radiative properties; therefore, it has the potential to improve precipitation forecasts and climate projections. a rotated object detection algorithm (icedetectnet) with a multi-label classification scheme for classifying components of aggregated ice crystals, achieving 92% accuracy for aggregate/non-aggregate detection and 86% for basic habit classification. ice crystal"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2472,6 +2496,7 @@
           data-year="2024"
           data-type="conference"
           data-tags="||"
+          data-search="high performance computing framework for variable selection on genome-wide association studies variable selection for genome-wide association studies (gwas) has been a major research focus for decades. with the exponential growth of biological and biomedical data in the era of big data, scientists are confronted with the challenge of extracting meaningful information from vast datasets while managing the inherent heterogeneity in bioinformatics. to date, there are no highly effective tools that support high-dimensional datasets and achieve robust variable selection performance, all while accounting for the non-i.i.d. features and structured relatedness among explanatory and response variables.to address these challenges, we introduce the first high-performance computing framework for variable selection in gwas. our framework integrates various state-of-the-art methods, allowing researchers to easily combine different techniques and fully explore their potential. additionally, our approach employs novel optimization strategies to solve the problem efficiently, even for high-dimensional data with sparse characteristics. by processing the data holistically, the framework delivers comprehensive analysis and accurate linkage mapping associations. designed for ease of use, the framework is implemented in python and offers seamless deployment, making it accessible to a wide range of researchers. a high-performance computing framework for variable selection in gwas that integrates state-of-the-art methods and employs novel optimization strategies for efficient processing of high-dimensional data with sparse characteristics."
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2505,6 +2530,7 @@
           data-year="2024"
           data-type="conference"
           data-tags="|diffusion model|"
+          data-search="uvmap-id: a controllable and personalized uv map generative model recently, diffusion models have made significant strides in synthesizing realistic 2d human images based on provided text prompts. building upon this, researchers have extended 2d text-to-image diffusion models into the 3d domain for generating human textures (uv maps). however, some important problems about uv map generative models are still not solved, i.e., how to generate personalized texture maps for any given face image, and how to define and evaluate the quality of these generated texture maps. to solve the above problems, we introduce a novel method, uvmap-id, which is a controllable and personalized uv map generative model. unlike traditional large-scale training methods in 2d, we propose to fine-tune a pre-trained text-to-image diffusion model which is integrated with a face fusion module for achieving id-driven customized generation. to support the finetuning strategy, we introduce a small-scale attribute-balanced training dataset, including high-quality textures with labeled text and face id. additionally, we introduce some metrics to evaluate the multiple aspects of the textures. finally, both quantitative and qualitative analyses demonstrate the effectiveness of our method in controllable and personalized uv map generation. a controllable and personalized uv map generative model that fine-tunes a pre-trained text-to-image diffusion model with a face fusion module for id-driven customized generation, addressing the challenges of personalized texture map generation and quality evaluation. diffusion model"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2541,6 +2567,7 @@
           data-year="2024"
           data-type="journal"
           data-tags="|mr-guided proton therapy|"
+          data-search="generating synthetic computed tomography for radiotherapy: synthrad2023 challenge report synthrad2023 challenge aimed to compare synthetic ct generation methods using real-world multi-center data from 1080 patients, divided into two tasks: mri-to-ct and cbct-to-ct. evaluation included image similarity metrics and dose-based metrics for both proton and photon planning. the challenge attracted 617 registrants, with 22 and 17 valid submissions respectively. the best-performing teams achieved high scores in structural similarity index and gamma pass rate. however, no significant correlation was found between image similarity metrics and dose accuracy, emphasizing the necessity of dose evaluation when assessing the clinical applicability of synthetic cts. synthrad2023 facilitated research and benchmarking of synthetic ct generation techniques, providing insights for developing mri-only and cbct-based adaptive radiotherapy. synthrad2023 challenge report comparing synthetic ct generation methods for radiotherapy using multi-center data, evaluating both image similarity and dose-based metrics for mri-to-ct and cbct-to-ct tasks. mr-guided proton therapy"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2574,6 +2601,7 @@
           data-year="2024"
           data-type="journal"
           data-tags="|mr-guided proton therapy|deformable image registration|"
+          data-search="a unified generation-registration framework for improved mr-based ct synthesis in proton therapy the use of magnetic resonance (mr) imaging for proton therapy treatment planning is gaining attention as a highly effective method for guidance. at the core of this approach is the generation of computed tomography (ct) images from mr scans. however, the critical issue in this process is accurately aligning the mr and ct images, a task that becomes particularly challenging in frequently moving body areas, such as the head-and-neck. misalignments in these images can result in blurred synthetic ct (sct) images, adversely affecting the precision and effectiveness of the treatment planning. this study introduces a novel network that cohesively unifies image generation and registration processes to enhance the quality and anatomical fidelity of scts derived from better-aligned mr images. this study conclusively demonstrates that a holistic mr-based ct synthesis approach, integrating both image-to-image translation and deformable registration, significantly improves the precision and quality of sct generation, particularly for the challenging body area with varied anatomic changes between corresponding mr and ct. mr-guided proton therapy deformable image registration"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2607,6 +2635,7 @@
           data-year="2024"
           data-type="conference"
           data-tags="|deformable image registration|"
+          data-search="neural graphics primitives-based deformable image registration for on-the-fly motion extraction intra-fraction motion in radiotherapy is commonly modeled using deformable image registration (dir). however, existing methods often struggle to balance speed and accuracy, limiting their applicability in clinical scenarios. this study introduces a novel approach that harnesses neural graphics primitives (ngp) to optimize the displacement vector field (dvf). our method leverages learned primitives, processed as splats, and interpolates within space using a shallow neural network. uniquely, it enables self-supervised optimization at an ultra-fast speed, negating the need for pre-training on extensive datasets and allowing seamless adaptation to new cases. we validated this approach on the 4d-ct lung dataset dir-lab, achieving a target registration error (tre) of 1.15±1.15 mm within a remarkable time of 1.77 seconds. notably, our method also addresses the sliding boundary problem, a common challenge in conventional dir methods. in this study, we have successfully integrated ngp into dir, a novel contribution that significantly enhances the accuracy and efficiency of medical image alignment as demonstrated on the dir-lab dataset. the ngpdir framework exhibits robust performance across various metrics, particularly in landmark alignment precision and the accommodation of anatomical sliding boundaries. this advancement not only propels the dir field forward but also opens new avenues for real-time clinical applications, potentially transforming patient care with its rapid, reliable imaging capabilities. deformable image registration"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2643,6 +2672,7 @@
           data-year="2024"
           data-type="journal"
           data-tags="|point-cloud analysis|"
+          data-search="modelnet-o: a large-scale synthetic dataset for occlusion-aware point cloud classification point cloud classification is a fundamental task in 3d computer vision, but existing datasets often lack realistic occlusion scenarios that are common in real-world applications. to address this limitation, we introduce modelnet-o, a large-scale synthetic dataset specifically designed for occlusion-aware point cloud classification. modelnet-o contains diverse occlusion patterns and complex object arrangements, providing an ideal testbed for evaluating and improving point cloud classification algorithms under occlusion conditions. the dataset includes multiple occlusion types such as partial occlusion, self-occlusion, and inter-object occlusion, enabling comprehensive evaluation of model robustness. we provide extensive experimental results on modelnet-o, demonstrating the challenges posed by occlusion and the effectiveness of various baseline methods. a large-scale synthetic dataset modelnet-o for occlusion-aware point cloud classification, featuring diverse occlusion patterns and complex object arrangements to evaluate model robustness under occlusion conditions. point-cloud analysis"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2679,6 +2709,7 @@
           data-year="2024"
           data-type="conference"
           data-tags="|image segmentation|"
+          data-search="neural clustering based visual representation learning we investigate a fundamental aspect of machine vision: the measurement of features by revisiting clustering one of the most classic approaches in machine learning and data analysis. existing visual feature extractors including convnets vits and mlps represent an image as rectangular regions. though prevalent such a grid-style paradigm is built upon engineering practice and lacks explicit modeling of data distribution. in this work we propose feature extraction with clustering (fec) a conceptually elegant yet surprisingly ad-hoc interpretable neural clustering framework which views feature extraction as a process of selecting representatives from data and thus automatically captures the underlying data distribution. given an image fec alternates between grouping pixels into individual clusters to abstract representatives and updating the deep features of pixels with current representatives. such an iterative working mechanism is implemented in the form of several neural layers and the final representatives can be used for downstream tasks. the cluster assignments across layers which can be viewed and inspected by humans make the forward process of fec fully transparent and empower it with promising ad-hoc interpretability. extensive experiments on various visual recognition models and tasks verify the effectiveness generality and interpretability of fec. we expect this work will provoke a rethink of the current de facto grid-style paradigm. a neural clustering framework (fec) for visual representation learning that views feature extraction as selecting representatives from data, automatically capturing data distribution and providing interpretable cluster assignments. image segmentation"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2715,6 +2746,7 @@
           data-year="2024"
           data-type="conference"
           data-tags="|point-cloud analysis|"
+          data-search="vg4d: vision-language model goes 4d video recognition understanding the real world through point cloud video is a crucial aspect of robotics and autonomous driving systems. however, prevailing methods for 4d point cloud recognition have limitations due to sensor resolution, which leads to a lack of detailed information. recent advances have shown that vision-language models (vlm) pre-trained on web-scale text-image datasets can learn fine-grained visual concepts that can be transferred to various downstream tasks. however, effectively integrating vlm into the domain of 4d point clouds remains an unresolved problem. in this work, we propose the vision-language models goes 4d (vg4d) framework to transfer vlm knowledge from visual-text pretrained models to a 4d point cloud network. our approach involves aligning the 4d encoder&#39;s representation with a vlm learning a shared visual and text space from training on large-scale image-text pairs. by transferring the knowledge of the vlm to the 4d encoder and combining the vlm, our vg4d achieves improved recognition performance. to enhance the 4d encoder, we modernize the classic dynamic point cloud backbone and propose an improved version of pstnet, im-pstnet, which can efficiently model point cloud videos. experiments demonstrate that our method achieves state-of-the-art performance for action recognition on both ntu rgb&#43;d 60 dataset and ntu rgb&#43;d 120 dataset. a vision-language model goes 4d (vg4d) framework that transfers vlm knowledge to 4d point cloud networks for improved video recognition, achieving state-of-the-art performance on action recognition datasets. point-cloud analysis"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2751,6 +2783,7 @@
           data-year="2024"
           data-type="journal"
           data-tags="|image segmentation|"
+          data-search="towards robust referring image segmentation referring image segmentation (ris) is a fundamental vision-language task that outputs object masks based on text descriptions. many works have achieved considerable progress for ris, including different fusion method designs. in this work, we explore an essential question, “what if the text description is wrong or misleading?” for example, the described objects are not in the image. we term such a sentence as a negative sentence. however, existing solutions for ris cannot handle such a setting. to this end, we propose a new formulation of ris, named robust referring image segmentation (r-ris). it considers the negative sentence inputs besides the regular positive text inputs. to facilitate this new task, we create three r-ris datasets by augmenting existing ris datasets with negative sentences and propose new metrics to evaluate both types of inputs in a unified manner. furthermore, we propose a new … we propose a novel ranking loss function, named bi-directional exponential angular triplet loss, to help learn an angularly separable common feature space by explicitly constraining the included angles between embedding vectors. image segmentation"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2787,6 +2820,7 @@
           data-year="2024"
           data-type="journal"
           data-tags="||"
+          data-search="towards open vocabulary learning: a survey in the field of visual scene understanding, deep neural networks have made impressive advancements in various core tasks like segmentation, tracking, and detection. however, most approaches operate on the close-set assumption, meaning that the model can only identify pre-defined categories that are present in the training set. recently, open vocabulary settings were proposed due to the rapid progress of vision language pre-training. these new approaches seek to locate and recognize categories beyond the annotated label space. the open vocabulary approach is more general, practical, and effective than weakly supervised and zero-shot settings. this paper thoroughly reviews open vocabulary learning, summarizing and analyzing recent developments in the field. in particular, we begin by juxtaposing open vocabulary learning with analogous concepts such as zero-shot learning, open-set recognition … this survey offers a detailed examination of the latest developments in open vocabulary learning in computer vision, which appears to be a first of its kind. we provide an overview of the necessary background knowledge, which includes fundamental concepts and introductory knowledge of detection, segmentation, and vision language pre-training. following that, we summarize more than 50 different models used for various scene understanding tasks. for each task, we categorize the methods based on their technical viewpoint. additionally, we provide information regarding several closely related domains. in the experiment section, we provide a detailed description of the settings and compare results fairly. finally, we summarize several challenges and also point out several future research directions for open vocabulary learning."
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2823,6 +2857,7 @@
           data-year="2024"
           data-type="journal"
           data-tags="|mr-guided proton therapy|dose calculation|uncertainty estimation|"
+          data-search="uncertainty-aware mr-based ct synthesis for robust proton therapy planning of brain tumour deep learning techniques excel in mr-based ct synthesis, but missing uncertainty prediction limits its clinical use in proton therapy. we developed an uncertainty-aware framework and evaluated its efficiency in robust proton planning. the enhanced framework incorporates 3d uncertainty prediction and generates high-quality scts from mr images. the framework also facilitates conditioned robust optimisation, bolstering proton plan robustness against network prediction errors. the innovative feature of uncertainty visualisation and robust analyses contribute to evaluating sct clinical utility for individual patients. mr-guided proton therapy dose calculation uncertainty estimation"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2856,6 +2891,7 @@
           data-year="2024"
           data-type="journal"
           data-tags="||"
+          data-search="audio–visual keyword transformer for unconstrained sentence‐level keyword spotting as one of the most effective methods to improve the accuracy and robustness of speech tasks, the audio–visual fusion approach has recently been introduced into the field of keyword spotting (kws). however, existing audio–visual keyword spotting models are limited to detecting isolated words, while keyword spotting for unconstrained speech is still a challenging problem. to this end, an audio–visual keyword transformer (avkt) network is proposed to spot keywords in unconstrained video clips. the authors present a transformer classifier with learnable cls tokens to extract distinctive keyword features from the variable-length audio and visual inputs. the outputs of audio and visual branches are combined in a decision fusion module. as humans can easily notice whether a keyword appears in a sentence or not, our avkt network can detect whether a video clip with a spoken sentence contains a pre-specified keyword. moreover, the position of the keyword is localised in the attention map without additional position labels. experimental results on the lrs2-kws dataset and our newly collected pku-kws dataset show that the accuracy of avkt exceeded 99% in clean scenes and 85% in extremely noisy conditions. the code is available at https://github.com/jialeren/avkt. an audio–visual keyword transformer (avkt) network for keyword spotting in unconstrained video clips, using transformer classifier with learnable cls tokens and decision fusion to achieve high accuracy in both clean and noisy conditions."
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2892,6 +2928,7 @@
           data-year="2024"
           data-type="conference"
           data-tags="||"
+          data-search="fedlpa: one-shot federated learning with layer-wise posterior aggregation one-shot federated learning aims to train a global model with only one round of communication between clients and the server. existing methods typically aggregate model parameters or predictions, but they often suffer from poor performance due to the limited information exchange. in this paper, we propose fedlpa, a novel one-shot federated learning method that performs layer-wise posterior aggregation. instead of aggregating point estimates, fedlpa aggregates the posterior distributions of model parameters at each layer, which captures the uncertainty and provides richer information for aggregation. we demonstrate that fedlpa achieves superior performance compared to existing one-shot federated learning methods on various benchmark datasets. a novel one-shot federated learning method that performs layer-wise posterior aggregation, achieving superior performance by aggregating posterior distributions instead of point estimates."
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2925,6 +2962,7 @@
           data-year="2023"
           data-type="conference"
           data-tags="|human pose|in-context learning|point-cloud analysis|"
+          data-search="skeleton-in-context: unified skeleton sequence modeling with in-context learning in-context learning provides a new perspective for multi-task modeling for vision and nlp. under this setting the model can perceive tasks from prompts and accomplish them without any extra task-specific head predictions or model fine-tuning. however skeleton sequence modeling via in-context learning remains unexplored. directly applying existing in-context models from other areas onto skeleton sequences fails due to the similarity between inter-frame and cross-task poses which makes it exceptionally hard to perceive the task correctly from a subtle context. to address this challenge we propose skeleton-in-context (sic) an effective framework for in-context skeleton sequence modeling. our sic is able to handle multiple skeleton-based tasks simultaneously after a single training process and accomplish each task from context according to the given prompt. it can further generalize to new unseen tasks according to customized prompts. to facilitate context perception we additionally propose a task-unified prompt which adaptively learns tasks of different natures such as partial joint-level generation sequence-level prediction or 2d-to-3d motion prediction. we conduct extensive experiments to evaluate the effectiveness of our sic on multiple tasks including motion prediction pose estimation joint completion and future pose estimation. we also evaluate its generalization capability on unseen tasks such as motion-in-between. these experiments show that our model achieves state-of-the-art multi-task performance and even outperforms single-task methods on certain tasks. in this work, we propose the skeleton-in-context, designed to process multiple skeleton-base tasks simultaneously after just one training time. specifically, we build a novel skeleton-based in-context benchmark covering various tasks. in particular, we propose skeleton prompts composed of tgp and tup, which solve the overfitting problem of skeleton sequence data trained under the training framework commonly applied in previous 2d and 3d in-context models. besides, we demonstrate that our model can generalize to different datasets and new tasks, such as motion completion. we hope our research builds the first step in the exploration of in-context learning for skeleton-based sequences, which paves the way for further research in this area. human pose in-context learning point-cloud analysis"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2961,6 +2999,7 @@
           data-year="2023"
           data-type="conference"
           data-tags="|in-context learning|point-cloud analysis|"
+          data-search="explore in-context learning for 3d point cloud understanding with the rise of large-scale models trained on broad data, in-context learning has become a new learning paradigm that has demonstrated significant potential in natural language processing and computer vision tasks. meanwhile, in-context learning is still largely unexplored in the 3d point cloud domain. although masked modeling has been successfully applied for in-context learning in 2d vision, directly extending it to 3d point clouds remains a formidable challenge. in the case of point clouds, the tokens themselves are the point cloud positions (coordinates) that are masked during inference. moreover, position embedding in previous works may inadvertently introduce information leakage. to address these challenges, we introduce a novel framework, named point-in-context, designed especially for in-context learning in 3d point clouds, where both inputs and outputs are modeled as coordinates for each task. additionally, we propose the joint sampling module, carefully designed to work in tandem with the general point sampling operator, effectively resolving the aforementioned technical issues. we conduct extensive experiments to validate the versatility and adaptability of our proposed methods in handling a wide range of tasks. furthermore, with a more effective prompt selection strategy, our framework surpasses the results of individually trained models. we propose point-in-context (pic), the first framework adopting the in-context learning paradigm for 3d point cloud understanding. specifically, we set up an extensive dataset of point cloud pairs with four fundamental tasks to achieve in-context ability. we propose effective designs that facilitate the training and solve the inherited information leakage problem. pic shows its excellent learning capacity, achieves comparable results with single-task models, and outperforms multitask models on all four tasks. besides, it shows good generalization ability to out-of-distribution samples and unseen tasks and has great potential via selecting higher-quality prompts. we hope it paves the way for further exploration of in-context learning in the 3d modalities. in-context learning point-cloud analysis"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -2997,6 +3036,7 @@
           data-year="2023"
           data-type="conference"
           data-tags="|human pose|"
+          data-search="co-evolution of pose and mesh for 3d human body estimation from video despite significant progress in single image-based 3d human mesh recovery, accurately and smoothly recovering 3d human motion from a video remains challenging. existing video-based methods generally recover human mesh by estimating the complex pose and shape parameters from coupled image features, whose high complexity and low representation ability often result in inconsistent pose motion and limited shape patterns. to alleviate this issue, we introduce 3d pose as the intermediary and propose a pose and mesh co-evolution network (pmce) that decouples this task into two parts: 1) video-based 3d human pose estimation and 2) mesh vertices regression from the estimated 3d pose and temporal image feature. specifically, we propose a two-stream encoder that estimates mid-frame 3d pose and extracts a temporal image feature from the input image sequence. in addition, we design a co-evolution decoder that performs pose and mesh interactions with the image-guided adaptive layer normalization (adaln) to make pose and mesh fit the human body shape. extensive experiments demonstrate that the proposed pmce outperforms previous state-of-the-art methods in terms of both per-frame accuracy and temporal consistency on three benchmark datasets: 3dpw, human3. 6m, and mpi-inf-3dhp. our code is available at https://github. com/kasvii/pmce. this paper proposes the pose and mesh co-evolution network (pmce), a new two-stage pose-to-mesh framework for recovering 3d human mesh from a monocular video. pmce frst estimates 3d human pose motion in terms of spatial and temporal domains, then performs image-guided pose and mesh interactions by our proposed adaln that injects body shape information while preserving their spatial structure. extensive experiments on popular datasets show that pmce outperforms state-of-the-art methods in both perframe accuracy and temporal consistency. we hope that our approach will spark further research in 3d human motion estimation considering both pose and shape consistency. human pose"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -3033,6 +3073,7 @@
           data-year="2023"
           data-type="conference"
           data-tags="|image segmentation|"
+          data-search="betrayed by captions: joint caption grounding and generation for open vocabulary instance segmentation in this work, we focus on open vocabulary instance segmentation to expand a segmentation model to classify and segment instance-level novel categories. previous approaches have relied on massive caption datasets and complex pipelines to establish one-to-one mappings between image regions and words in captions. however, such methods build noisy supervision by matching non-visible words to image regions, such as adjectives and verbs. meanwhile, context words are also important for inferring the existence of novel objects as they show high inter-correlations with novel categories. to overcome these limitations, we devise a joint caption grounding and generation (cgg) framework, which incorporates a novel grounding loss that only focuses on matching object nouns to improve learning efficiency. we also introduce a caption generation head that enables additional supervision and contextual modeling as a complementation to the grounding loss. our analysis and results demonstrate that grounding and generation components complement each other, significantly enhancing the segmentation performance for novel classes. experiments on the coco dataset with two settings: open vocabulary instance segmentation (ovis) and open set panoptic segmentation (osps) demonstrate the superiority of the cgg. specifically, cgg achieves a substantial improvement of 6.8% map for novel classes without extra data on the ovis task and 15% pq improvements for novel classes on the osps benchmark. this paper presents a joint caption grounding and generation (cgg) framework for instance-level open vocabulary segmentation. the main contributions are: (1) using fine-grained object nouns in captions to improve grounding with object queries. (2) using captions as supervision signals to extract rich information from other words helps identify novel categories. to our knowledge, this paper is the first to unify segmentation and caption generation for open vocabulary learning. the proposed framework significantly improves ovis and osps and comparable results on ovod without pre-training on large-scale datasets. image segmentation"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -3069,6 +3110,7 @@
           data-year="2023"
           data-type="conference"
           data-tags="|human pose|"
+          data-search="interweaved graph and attention network for 3d human pose estimation despite substantial progress in 3d human pose estimation from a single-view image, prior works rarely explore global and local correlations, leading to insufficient learning of human skeleton representations. to address this issue, we propose a novel interweaved graph and attention network (iganet) that allows bidirectional communications between graph convolutional networks (gcns) and attentions. specifically, we introduce an iga module, where attentions are provided with local information from gcns and gcns are injected with global information from attentions. additionally, we design a simple yet effective u-shaped multi-layer perceptron (umlp), which can capture multi-granularity information for body joints. extensive experiments on two popular benchmark datasets (i.e. human3.6m and mpi-inf-3dhp) are conducted to evaluate our proposed method. the results show that iganet achieves state-of-the-art performance on both datasets. code is available at https://github.com/xiu-cs/iganet. an interweaved graph and attention network (iganet) for 3d human pose estimation that enables bidirectional communication between gcns and attentions, capturing both global and local correlations in human skeleton representations. human pose"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -3105,6 +3147,7 @@
           data-year="2023"
           data-type="conference"
           data-tags="|human pose|"
+          data-search="gator: graph-aware transformer with motion-disentangled regression for human mesh recovery from a 2d pose 3d human mesh recovery from a 2d pose plays an important role in various applications. however, it is hard for existing methods to simultaneously capture the multiple relations during the evolution from skeleton to mesh, including joint-joint, joint-vertex and vertex-vertex relations, which often leads to implausible results. to address this issue, we propose a novel solution, called gator, that contains an encoder of graph-aware transformer (gat) and a decoder with motion-disentangled regression (mdr) to explore these multiple relations. specifically, gat combines a gcn and a graph-aware self-attention in parallel to capture physical and hidden joint-joint relations. furthermore, mdr models joint-vertex and vertex-vertex interactions to explore joint and vertex relations. based on the clustering characteristics of vertex offset fields, mdr regresses the vertices by composing the predicted base motions. extensive experiments show that gator achieves state-of-the-art performance on two challenging benchmarks. code is available at https://github.com/kasvii/gator. a graph-aware transformer (gator) framework for 3d human mesh recovery from 2d pose, combining graph-aware transformer encoder and motion-disentangled regression decoder to capture joint-joint, joint-vertex, and vertex-vertex relations. human pose"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -3141,6 +3184,7 @@
           data-year="2022"
           data-type="journal"
           data-tags="||"
+          data-search="optimization induced equilibrium networks: an explicit optimization perspective for understanding equilibrium models to reveal the mystery behind deep neural networks (dnns), optimization may offer a good perspective. there are already some clues showing the strong connection between dnns and optimization problems, e.g., under a mild condition, dnn&#39;s activation function is indeed a proximal operator. in this paper, we are committed to providing a unified optimization induced interpretability for a special class of networks—equilibrium models, i.e., neural networks defined by fixed point equations, which have become increasingly attractive recently. to this end, we first decompose dnns into a new class of unit layer that is the proximal operator of an implicit convex function while keeping its output unchanged. then, the equilibrium model of the unit layer can be derived, we name it optimization induced equilibrium networks (opteq). the equilibrium point of opteq can be theoretically connected to the solution of a convex … in this paper, we decompose the feed-forward dnn and find a more reasonable basic unit layer, which shows a close relationship with the proximal operator. based on it, we propose new equilibrium models, opteqs, and explore their underlying optimization problems thoroughly. we provide two strategies to introduce customized regularizations to the equilibrium points, and achieve significant performance improvement in experiments. we highlight that by modifying the underlying optimization problems, we can create more effective network architectures. our work may inspire more interpretable equilibrium models from the optimization perspective."
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -3174,6 +3218,7 @@
           data-year="2021"
           data-type="journal"
           data-tags="|human pose|"
+          data-search="pcloss: fashion landmark estimation with position constraint loss fashion landmark estimation aims at locating functional key points of clothes, which has wide potential applications in electronic commerce. however, due to the occlusion and weak outline information, landmark estimation occurs outliers and duplicate detection problems. to alleviate these issues, we propose position constraint loss (pcloss) to constrain error landmark locations by utilizing the position relationship of landmarks. specifically, pcloss adds a regularization term for each landmark to regularize their relative positions, and it can be easily applied to both regression and heatmap based methods without extra computation during inference. unlike existing approaches that propagate landmark information between feature layers by specific network structures, pcloss introduces position relations of landmarks in the label space without modifying the network structure. in addition, we leverage the skeleton … in this paper, we design a position constraint loss (pcloss) for fashion landmark estimation, which incorporates the position correlation into landmark estimation models. specifically, the pcloss adds a regular term for each landmark to regularize their relative positions. compared with other alternatives, our pcloss effectively mitigates the outliers and duplicate detection problems without modifying existing cnn architectures. in addition, our skeleton-like optimization method further strengthens the position constraints between landmarks. the proposed method can be applied to both regression and heatmap based methods and it provides a novel perspective towards position relation learning in key point estimation tasks. extensive experimental results on three challenging datasets, deepfashion, fld and fashionai, demonstrate that our method outperforms other state-of-the-art methods. the experiment on coco 2017 shows the potential applications of pcloss for other key point estimation tasks, which can be explored more in future work. human pose"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -3207,6 +3252,7 @@
           data-year="2021"
           data-type="conference"
           data-tags="|object tracking|image segmentation|"
+          data-search="prototypical cross-attention networks for multiple object tracking and segmentation multiple object tracking and segmentation requires detecting, tracking, and segmenting objects belonging to a set of given classes. most approaches only exploit the temporal dimension to address the association problem, while relying on single frame predictions for the segmentation mask itself. we propose prototypical cross-attention network (pcan), capable of leveraging rich spatio-temporal information for online multiple object tracking and segmentation. pcan first distills a space-time memory into a set of prototypes and then employs cross-attention to retrieve rich information from the past frames. to segment each object, pcan adopts a prototypical appearance module to learn a set of contrastive foreground and background prototypes, which are then propagated over time. extensive experiments demonstrate that pcan outperforms current video instance tracking and segmentation competition winners on both youtube-vis and bdd100k datasets, and shows efficacy to both one-stage and two-stage segmentation frameworks. we propose prototypical cross-attention network (pcan), capable of leveraging rich spatio-temporal information for online multiple object tracking and segmentation.  object tracking image segmentation"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -3243,6 +3289,7 @@
           data-year="2021"
           data-type="journal"
           data-tags="|image segmentation|"
+          data-search="towards efficient scene understanding via squeeze reasoning graph-based convolutional model such as non-local block has shown to be effective for strengthening the context modeling ability in convolutional neural networks (cnns). however, its pixel-wise computational overhead is prohibitive which renders it unsuitable for high resolution imagery. in this paper, we explore the efficiency of context graph reasoning and propose a novel framework called squeeze reasoning. instead of propagating information on the spatial map, we first learn to squeeze the input feature into a channel-wise global vector and perform reasoning within the single vector where the computation cost can be significantly reduced. specifically, we build the node graph in the vector where each node represents an abstract semantic concept. the refined feature within the same semantic category results to be consistent, which is thus beneficial for downstream tasks. we show that our approach can be modularized as an end-to-end trained block and can be easily plugged into existing networks. despite its simplicity and being lightweight, the proposed strategy allows us to establish the considerable results on different semantic segmentation datasets and shows significant improvements with respect to strong baselines on various other scene understanding tasks including object detection, instance segmentation and panoptic segmentation. code is available at https://github.com/lxtgh/sfsegnets. image segmentation"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -3279,6 +3326,7 @@
           data-year="2021"
           data-type="conference"
           data-tags="|object tracking|"
+          data-search="quasi-dense similarity learning for multiple object tracking similarity learning has been recognized as a crucial step for object tracking. however, existing multiple object tracking methods only use sparse ground truth matching as the training objective, while ignoring the majority of the informative regions on the images. in this paper, we present quasi-dense similarity learning, which densely samples hundreds of region proposals on a pair of images for contrastive learning. we can directly combine this similarity learning with existing detection methods to build quasi-dense tracking (qdtrack) without turning to displacement regression or motion priors. we also find that the resulting distinctive feature space admits a simple nearest neighbor search at the inference time. despite its simplicity, qdtrack outperforms all existing methods on mot, bdd100k, waymo, and tao tracking benchmarks. it achieves 68.7 mota at 20.3 fps on mot17 without using external training data. compared to methods with similar detectors, it boosts almost 10 points of mota and significantly decreases the number of id switches on bdd100k and waymo datasets. our code and trained models are available at https://github. com/syscv/qdtrack. we present quasi-dense similarity learning, which densely samples hundreds of region proposals on a pair of images for contrastive learning. object tracking"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -3315,6 +3363,7 @@
           data-year="2021"
           data-type="conference"
           data-tags="|image segmentation|"
+          data-search="pointflow: flowing semantics through points for aerial image segmentation aerial image segmentation is a particular semantic segmentation problem and has several challenging characteristics that general semantic segmentation does not have. there are two critical issues: the one is an extremely foreground-background imbalanced distribution and the other is multiple small objects along with complex background. such problems make the recent dense affinity context modeling perform poorly even compared with baselines due to over-introduced background context. to handle these problems, we propose a point-wise affinity propagation module based on the fpn framework, named pointflow. rather than dense affinity learning, a sparse affinity map is generated upon selected points between the adjacent features, which reduces the noise introduced by the background while keeping efficiency. in particular, we design a dual point matcher to select points from the salient area and object boundaries, respectively. the former samples salient points while the latter samples points from the object boundaries. experimental results on three different aerial segmentation datasets suggest that the proposed method is more effective and efficient than state-of-the-art general semantic segmentation methods. especially, our methods achieve the best speed and accuracy trade-off on three aerial benchmarks. further experiments on three general semantic segmentation datasets prove the generality of our method. both code and models will be available for further research. image segmentation"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -3351,6 +3400,7 @@
           data-year="2020"
           data-type="journal"
           data-tags="||"
+          data-search="bi-directional exponential angular triplet loss for rgb-infrared person re-identification rgb-infrared person re-identification (rgb-ir reid) is a cross-modality matching problem with promising applications in the dark environment. most existing works use euclidean metric based constraints to resolve the discrepancy between features of different modalities. however, these methods are incapable of learning angularly discriminative feature embedding because euclidean distance cannot measure the included angle between embedding vectors effectively. as an angularly discriminative feature space is important for classifying the human images based on their embedding vectors, in this paper, we propose a novel ranking loss function, named bi-directional exponential angular triplet loss, to help learn an angularly separable common feature space by explicitly constraining the included angles between embedding vectors. moreover, to help stabilize and learn the magnitudes of embedding vectors, we adopt a common space batch normalization layer. quantitative experiments on the sysu-mm01 and regdb dataset support our analysis. on sysu-mm01 dataset, the performance is improved from 7.40% / 11.46% to 38.57% / 38.61% for rank1 accuracy / map compared with the baseline. the proposed method can be generalized to the task of single-modality re-id and improves the rank-1 accuracy / map from 92.0% / 81.7% to 94.7% / 86.6% on the market-1501 dataset, from 82.6% / 70.6% to 87.6% / 77.1% on the dukemtmc-reid dataset. we propose a novel ranking loss function, named bi-directional exponential angular triplet loss, to help learn an angularly separable common feature space by explicitly constraining the included angles between embedding vectors."
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -3387,6 +3437,7 @@
           data-year="2020"
           data-type="conference"
           data-tags="|image segmentation|"
+          data-search="is attention better than matrix decomposition? as an essential ingredient of modern deep learning, attention mechanism, especially self-attention, plays a vital role in the global correlation discovery. however, is hand-crafted attention irreplaceable when modeling the global context? our intriguing finding is that self-attention is not better than the matrix decomposition~(md) model developed 20 years ago regarding the performance and computational cost for encoding the long-distance dependencies. we model the global context issue as a low-rank completion problem and show that its optimization algorithms can help design global information blocks. this paper then proposes a series of hamburgers, in which we employ the optimization algorithms for solving mds to factorize the input representations into sub-matrices and reconstruct a low-rank embedding. hamburgers with different mds can perform favorably against the popular global context module self-attention when carefully coping with gradients back-propagated through mds. comprehensive experiments are conducted in the vision tasks where it is crucial to learn the global context, including semantic segmentation and image generation, demonstrating significant improvements over self-attention and its variants. code is available at https://github. com/gsunshine/enjoy-hamburger. self-attention is not better than the matrix decomposition~(md) model developed 20 years ago regarding the performance and computational cost for encoding the long-distance dependencies. image segmentation"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -3426,6 +3477,7 @@
           data-year="2020"
           data-type="conference"
           data-tags="|image segmentation|"
+          data-search="improving semantic segmentation via decoupled body and edge supervision existing semantic segmentation approaches either aim to improve the object&#39;s inner consistency by modeling the global context, or refine objects detail along their boundaries by multi-scale feature fusion. in this paper, a new paradigm for semantic segmentation is proposed. our insight is that appealing performance of semantic segmentation requires explicitly modeling the object body and edge, which correspond to the high and low frequency of the image. to do so, we first warp the image feature by learning a flow field to make the object part more consistent. the resulting body feature and the residual edge feature are further optimized under decoupled supervision by explicitly sampling different parts (body or edge) pixels. we show that the proposed framework with various baselines or backbone networks leads to better object inner consistency and object boundaries. extensive experiments on four major road scene semantic segmentation benchmarks including cityscapes, camvid, kiiti and bdd show that our proposed approach establishes new state-of-the-arts while retaining high efficiency in inference. in particular, we achieve 83.7 miou % on cityscape with only fine-annotated data. code and models will be made available for future research.  image segmentation"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -3462,6 +3514,7 @@
           data-year="2020"
           data-type="conference"
           data-tags="|human pose|"
+          data-search="position constraint loss for fashion landmark estimation fashion landmark estimation aims at locating functional key points of clothes, which has wide potential applications in electronic commerce. however, due to the occlusion and weak outline information, landmark estimation occurs outliers and duplicate detection problems. to alleviate these issues, we propose position constraint loss (pcloss) to constrain error landmark locations by utilizing the position relationship of landmarks. specifically, pcloss adds a regularization term for each landmark to regularize their relative positions, and it can be easily applied to both regression and heatmap based methods without extra computation during inference. unlike existing approaches that propagate landmark information between feature layers by specific network structures, pcloss introduces position relations of landmarks in the label space without modifying the network structure. in addition, we leverage the skeleton-like relation of clothing to further strengthen position constraints between landmarks. extensive experimental results on deepfashion, fld and fashionai demonstrate that our methods can effectively increase the performance of mainstream frameworks by a large margin. a position constraint loss (pcloss) method for fashion landmark estimation that constrains error landmark locations by utilizing position relationships, applicable to both regression and heatmap-based methods without modifying network structure. human pose"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -3495,6 +3548,7 @@
           data-year="2020"
           data-type="conference"
           data-tags="|image segmentation|"
+          data-search="spatial pyramid based graph reasoning for semantic segmentation the convolution operation suffers from a limited receptive filed, while global modeling is fundamental to dense prediction tasks, such as semantic segmentation. in this paper, we apply graph convolution into the semantic segmentation task and propose an improved laplacian. the graph reasoning is directly performed in the original feature space organized as a spatial pyramid. different from existing methods, our laplacian is data-dependent and we introduce an attention diagonal matrix to learn a better distance metric. it gets rid of projecting and re-projecting processes, which makes our proposed method a light-weight module that can be easily plugged into current computer vision architectures. more importantly, performing graph reasoning directly in the feature space retains spatial relationships and makes spatial pyramid possible to explore multiple long-range contextual patterns from different scales. experiments on cityscapes, coco stuff, pascal context and pascal voc demonstrate the effectiveness of our proposed methods on semantic segmentation. we achieve state-of-the-art performance with advantages in computational and memory overhead.  image segmentation"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -3528,6 +3582,7 @@
           data-year="2020"
           data-type="conference"
           data-tags="|image segmentation|"
+          data-search="sognet: scene overlap graph network for panoptic segmentation the panoptic segmentation task requires a unified result from semantic and instance segmentation outputs that may contain overlaps. however, current studies widely ignore modeling overlaps. in this study, we aim to model overlap relations among instances and resolve them for panoptic segmentation. inspired by scene graph representation, we formulate the overlapping problem as a simplified case, named scene overlap graph. we leverage each object’s category, geometry and appearance features to perform relational embedding, and output a relation matrix that encodes overlap relations. in order to overcome the lack of supervision, we introduce a differentiable module to resolve the overlap between any pair of instances. the mask logits after removing overlaps are fed into per-pixel instance erb|id| classification, which leverages the panoptic supervision to assist in the modeling of overlap relations. besides, we generate an approximate ground truth of overlap relations as the weak supervision, to quantify the accuracy of overlap relations predicted by our method. in experiments on the ms-coco and cityscapes datasets, we demonstrate that our method is able to accurately predict overlap relations, and outperform the state-of-the-art performance for panoptic segmentation. code will be released. we leverage each object’s category, geometry and appearance features to perform relational embedding, and output a relation matrix that encodes overlap relations. in order to overcome the lack of supervision, we introduce a differentiable module to resolve the overlap between any pair of instances. image segmentation"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -3561,6 +3616,7 @@
           data-year="2020"
           data-type="conference"
           data-tags="||"
+          data-search="dynamic system inspired adaptive time stepping controller for residual networks families the correspondence between residual networks and dynamical systems motivates researchers to unravel the physics of resnets with well-developed tools in numeral methods of ode systems. the runge-kutta-fehlberg method is an adaptive time stepping that renders a good trade-off between the stability and efficiency. can we also have an adaptive time stepping for resnets to ensure both stability and performance? in this study, we analyze the effects of time stepping on the euler method and resnets. we establish a stability condition for resnets with step sizes and weight parameters, and point out the effects of step sizes on the stability and performance. inspired by our analyses, we develop an adaptive time stepping controller that is dependent on the parameters of the current step, and aware of previous steps. the controller is jointly optimized with the network training so that variable step sizes and evolution time can be adaptively adjusted. we conduct experiments on imagenet and cifar to demonstrate the effectiveness. it is shown that our proposed method is able to improve both stability and accuracy without introducing additional overhead in inference phase. we analyze the effects of time stepping on the euler method and resnets. we establish a stability condition for resnets with step sizes and weight parameters, and point out the effects of step sizes on the stability and performance. inspired by our analyses, we develop an adaptive time stepping controller that is dependent on the parameters of the current step, and aware of previous steps."
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -3594,6 +3650,7 @@
           data-year="2019"
           data-type="conference"
           data-tags="|low-level vision|"
+          data-search="self-refining deep symmetry enhanced network for rain removal rain removal aims to remove the rain streaks on rain images. the state-of-the-art methods are mostly based on convolutional neural network (cnn). however, as cnn is not equivariant to object rotation, these methods are unsuitable for dealing with the tilted rain streaks. to tackle this problem, we propose deep symmetry enhanced network (dsen) that is able to explicitly extract the rotation equivariant features from rain images. in addition, we design a self-refining mechanism to remove the accumulated rain streaks in a coarse-to-fine manner. this mechanism reuses dsen with a novel information link which passes the gradient flow to the higher stages. extensive experiments on both synthetic and real-world rain images show that our self-refining dsen yields the top performance. a self-refining deep symmetry enhanced network (dsen) for rain removal that extracts rotation equivariant features and uses a self-refining mechanism to remove accumulated rain streaks in a coarse-to-fine manner. low-level vision"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -3627,6 +3684,7 @@
           data-year="2019"
           data-type="conference"
           data-tags="|image segmentation|"
+          data-search="expectation maximization attention networks for semantic segmentation self-attention mechanism has been widely used for various tasks. it is designed to compute the representation of each position by a weighted sum of the features at all positions. thus, it can capture long-range relations for computer vision tasks. however, it is computationally consuming. since the attention maps are computed w.r.t all other positions. in this paper, we formulate the attention mechanism into an expectation-maximization manner and iteratively estimate a much more compact set of bases upon which the attention maps are computed. by a weighted summation upon these bases, the resulting representation is low-rank and deprecates noisy information from the input. the proposed expectation-maximization attention (ema) module is robust to the variance of input and is also friendly in memory and computation. moreover, we set up the bases maintenance and normalization methods to stabilize its training procedure. we conduct extensive experiments on popular semantic segmentation benchmarks including pascal voc, pascal context, and coco stuff, on which we set new records. we formulate the attention mechanism into an expectation-maximization manner and iteratively estimate a much more compact set of bases upon which the attention maps are computed. image segmentation"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -3672,6 +3730,7 @@
           data-year="2019"
           data-type="conference"
           data-tags="|low-level vision|"
+          data-search="r^2 net recurrent and recursive network for sparse view ct artifacts removal we propose a novel neural network architecture to reduce streak artifacts generated in sparse-view 2d cone beam computed to-mography (cbct) image reconstruction. this architecture decomposes the streak artifacts removal into multiple stages through the recurrent mechanism, which can fully utilize information in previous stages and guide the learning of later stages. in each recurrent stage, the key components of the architecture are computed recursively. the recursive mechanism is helpful to save parameters and enlarge the receptive field effiently with exponentially increased dilation of convolution. to verify its ectiveness, we conduct experiments on the aapm cbct dataset through 5-fold cross-validation. our proposed method outperforms the state-of-the-art methods both quantitatively and qualitatively. we propose a novel neural network architecture to reduce streak artifacts generated in sparse-view 2d cone beam computed to-mography (cbct) image reconstruction. low-level vision"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -3705,6 +3764,7 @@
           data-year="2018"
           data-type="journal"
           data-tags="||"
+          data-search="multi-label classification of pcb defects based on convolutional neural network printed circuit board (pcb) defect detection is a critical task in electronic manufacturing quality control. this paper proposes a multi-label classification method based on convolutional neural network (cnn) for detecting and classifying various types of defects on pcbs. the proposed method can effectively identify multiple defect types simultaneously, improving the accuracy and efficiency of pcb defect detection. experimental results demonstrate the effectiveness of the cnn-based approach in multi-label defect classification. a multi-label classification method based on convolutional neural network for pcb defect detection that can simultaneously identify multiple defect types, improving detection accuracy and efficiency."
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -3738,6 +3798,7 @@
           data-year="2018"
           data-type="conference"
           data-tags="|low-level vision|"
+          data-search="recurrent squeeze-and-excitation net for single image deraining rain streaks can severely degrade the visibility, which causesmany current computer vision algorithms fail to work. so it is necessaryto remove the rain from images. we propose a novel deep network ar-chitecture based on deep convolutional and recurrent neural networksfor single image deraining. as contextual information is very importantfor rain removal, we first adopt the dilated convolutional neural networkto acquire large receptive field. to better fit the rain removal task, wealso modify the network. in heavy rain, rain streaks have various direc-tions and shapes, which can be regarded as the accumulation of multiplerain streak layers. we assign different alpha-values to various rain streaklayers according to the intensity and transparency by incorporating thesqueeze-and-excitation block. since rain streak layers overlap with eachother, it is not easy to remove the rain in one stage. so we further de-compose the rain removal into multiple stages. recurrent neural networkis incorporated to preserve the useful information in previous stages andbenefit the rain removal in later stages. we conduct extensive experi-ments on both synthetic and real-world datasets. our proposed methodoutperforms the state-of-the-art approaches under all evaluation metrics. we propose a novel deep network architecture based on deep convolutional and recurrent neural networksfor single image deraining. low-level vision"
         >
           <div style="display: flex; gap: 1.5rem; align-items: flex-start;">
             <div style="flex-shrink: 0; width: 320px;">
@@ -3785,6 +3846,29 @@
 
       if (!items.length || !yearSel || !typeSel || !tagSel || !clearBtn || !countEl) return;
 
+      const topics = {
+        'medical-imaging': { label: 'Medical Imaging', terms: ['medical imaging', 'magnetic resonance', 'mri', 'computed tomography', 'ct synthesis', 'mr-to-ct', 'sparse view ct'] },
+        'precision-radiotherapy': { label: 'Precision Radiotherapy', terms: ['radiotherapy', 'radiation therapy', 'proton therapy', 'treatment planning', 'dose calculation', 'dose recalculation'] },
+        'proton-therapy': { label: 'Proton Therapy', terms: ['proton therapy', 'proton treatment', 'proton dose', 'proton beam'] },
+        'deformable-image-registration': { label: 'Deformable Image Registration', terms: ['deformable image registration', 'deformable registration'] },
+        'mr-to-ct-synthesis': { label: 'MR-to-CT Synthesis', terms: ['mr-to-ct', 'mr based ct synthesis', 'mr-based ct synthesis', 'synthetic computed tomography'] },
+        'dose-calculation': { label: 'Dose Calculation', terms: ['dose calculation', 'dose recalculation', 'dose-related'] },
+        'treatment-planning': { label: 'Treatment Planning', terms: ['treatment planning', 'therapy planning', 'radiotherapy planning'] },
+        'motion-modeling': { label: 'Motion Modeling', terms: ['motion modelling', 'motion modeling', 'motion representation', 'motion extraction', '4d motion'] },
+        '4d-imaging': { label: '4D Imaging', terms: ['4d dose', '4d planning', '4d frame', 'spatial-temporal deformable', 'spatio-temporal deformable'] },
+        'image-reconstruction': { label: 'Image Reconstruction', terms: ['image reconstruction', 'ct reconstruction', 'sparse view ct', 'super-resolution'] },
+        'uncertainty-estimation': { label: 'Uncertainty Estimation', terms: ['uncertainty estimation', 'uncertainty-aware', 'uncertainty aware'] },
+        'synthetic-ct': { label: 'Synthetic CT', terms: ['synthetic ct', 'synthetic computed tomography', 'ct synthesis', 'mr-to-ct'] },
+        'brain-tumor-imaging': { label: 'Brain Tumor Imaging', terms: ['brain tumor', 'brain tumour', 'brain mri', 'brain disorder'] },
+        'head-and-neck-cancer': { label: 'Head-and-Neck Cancer', terms: ['head-and-neck', 'head and neck'] },
+        'diffusion-models': { label: 'Diffusion Models', terms: ['diffusion model', 'diffusion network', 'diffusion schrödinger'] },
+        'generative-models': { label: 'Generative Models', terms: ['generative model', 'image generation', 'generation-registration', 'ct synthesis', 'mr-to-ct'] },
+        'gaussian-representation': { label: 'Gaussian Representation', terms: ['gaussian representation', 'gaussian primitives'] },
+        'semantic-segmentation': { label: 'Semantic Segmentation', terms: ['semantic segmentation', 'image segmentation', 'instance segmentation', 'panoptic segmentation'] },
+        'computer-vision': { label: 'Computer Vision', terms: ['computer vision', 'visual representation', 'image segmentation', 'human pose', 'point cloud', 'object tracking', 'low-level vision', 'open vocabulary'] },
+        'machine-learning': { label: 'Machine Learning', terms: ['machine learning', 'deep learning', 'neural network', 'federated learning', 'in-context learning', 'diffusion model', 'optimization'] }
+      };
+
       const uniq = (arr) => Array.from(new Set(arr)).filter(Boolean);
       const years = uniq(items.map((el) => el.dataset.year)).sort((a, b) => Number(b) - Number(a));
       const tags = uniq(
@@ -3829,6 +3913,7 @@
         const year = yearSel.value;
         const type = typeSel.value;
         const tag = (tagSel.value || '').toLowerCase();
+        const topic = topics[getParams().get('topic') || ''];
 
         let shown = 0;
         items.forEach((el) => {
@@ -3836,12 +3921,16 @@
           const okType = !type || el.dataset.type === type;
           const tagsStr = (el.dataset.tags || '').toLowerCase();
           const okTag = !tag || tagsStr.includes(`|${tag}|`);
-          const ok = okYear && okType && okTag;
+          const searchText = (el.dataset.search || '').toLowerCase();
+          const okTopic = !topic || topic.terms.some((term) => searchText.includes(term));
+          const ok = okYear && okType && okTag && okTopic;
           el.style.display = ok ? '' : 'none';
           if (ok) shown += 1;
         });
 
-        countEl.textContent = `${shown} / ${items.length} shown`;
+        countEl.textContent = topic
+          ? `${shown} / ${items.length} shown for “${topic.label}”`
+          : `${shown} / ${items.length} shown`;
         setParams(year, type, tagSel.value);
       };
 
@@ -3849,6 +3938,10 @@
         yearSel.value = '';
         typeSel.value = '';
         tagSel.value = '';
+        const p = getParams();
+        p.delete('topic');
+        const newUrl = window.location.pathname + (p.toString() ? `?${p.toString()}` : '');
+        window.history.replaceState({}, '', newUrl);
         refresh();
       });
       [yearSel, typeSel, tagSel].forEach((el) => el.addEventListener('change', refresh));
