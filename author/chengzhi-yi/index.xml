@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Chengzhi Yi | Xia Li</title>
-    <link>https://medapt-group.github.io/author/chengzhi-yi/</link>
-      <atom:link href="https://medapt-group.github.io/author/chengzhi-yi/index.xml" rel="self" type="application/rss+xml" />
-    <description>Chengzhi Yi</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
-    <image>
-      <url>https://medapt-group.github.io/author/chengzhi-yi/avatar_hu214e1e8edcf37b77aaaeaad4110c7f73_872446_270x270_fill_lanczos_center_3.png</url>
-      <title>Chengzhi Yi</title>
-      <link>https://medapt-group.github.io/author/chengzhi-yi/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chengzhi Yi | Xia Li</title><link>https://medapt-group.github.io/author/chengzhi-yi/</link><atom:link href="https://medapt-group.github.io/author/chengzhi-yi/index.xml" rel="self" type="application/rss+xml"/><description>Chengzhi Yi</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://medapt-group.github.io/author/chengzhi-yi/avatar_hu214e1e8edcf37b77aaaeaad4110c7f73_872446_270x270_fill_lanczos_center_3.png</url><title>Chengzhi Yi</title><link>https://medapt-group.github.io/author/chengzhi-yi/</link></image></channel></rss>

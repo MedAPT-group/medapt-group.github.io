@@ -1,145 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blog | Xia Li</title>
-    <link>https://medapt-group.github.io/post/</link>
-      <atom:link href="https://medapt-group.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url>
-      <title>Blog</title>
-      <link>https://medapt-group.github.io/post/</link>
-    </image>
-    
-    <item>
-      <title>New paper published in Medical Image Analysis</title>
-      <link>https://medapt-group.github.io/post/26-07-11-media26-contrastive-discrepancy/</link>
-      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://medapt-group.github.io/post/26-07-11-media26-contrastive-discrepancy/</guid>
-      <description>&lt;p&gt;Our paper, &lt;a href=&#34;https://doi.org/10.1016/j.media.2026.104210&#34;&gt;&amp;ldquo;Contrastive Discrepancy: A label-free metric for deformable image registration supporting testing-time hyperparameter selection&amp;rdquo;&lt;/a&gt;, is now available online in &lt;em&gt;Medical Image Analysis&lt;/em&gt;. The paper will appear in the September 2026 issue.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.media.2026.104210&#34;&gt;Read the paper&lt;/a&gt; · &lt;a href=&#34;https://mp.weixin.qq.com/s/fQ_Sw3PnQ-1HhDQJRaZJmg&#34;&gt;学院新闻报道&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>I am serving as an Area Chair for NeurIPS 2026</title>
-      <link>https://medapt-group.github.io/post/26-03-23-neurips26-area-chair/</link>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://medapt-group.github.io/post/26-03-23-neurips26-area-chair/</guid>
-      <description>&lt;p&gt;I am pleased to serve as an Area Chair for NeurIPS 2026.&lt;/p&gt;
-&lt;p&gt;NeurIPS has announced a pilot to further strengthen the Area Chair role in the review process. &lt;a href=&#34;https://blog.neurips.cc/2026/03/23/refining-the-review-cycle-neurips-2026-area-chair-pilot/&#34;&gt;Read the official announcement&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>I am serving as an Area Chair for ICML 2026</title>
-      <link>https://medapt-group.github.io/post/25-11-20-icml26-area-chair/</link>
-      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://medapt-group.github.io/post/25-11-20-icml26-area-chair/</guid>
-      <description>&lt;p&gt;From ICML: We invite you to serve as an area chair (AC) for ICML 2026 based on your expertise in important sub-areas of machine learning and your prior experience in the peer review process. We sincerely hope you will accept this invitation and help us make ICML 2026 a success.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>2 papers accepted to Medical Physics in 2025.</title>
-      <link>https://medapt-group.github.io/post/25-11-15-medphys25-2-papers/</link>
-      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://medapt-group.github.io/post/25-11-15-medphys25-2-papers/</guid>
-      <description>&lt;p&gt;They are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Continuous sPatial-Temporal Deformable Image Registration and 4D Frame Interpolation&lt;/li&gt;
-&lt;li&gt;Diffusion Schrödinger bridge models for high-quality MR-to-CT synthesis for proton treatment planning&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>3 papers accepted to phiRO in 2025.</title>
-      <link>https://medapt-group.github.io/post/25-11-18-phiro25-3-papers/</link>
-      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://medapt-group.github.io/post/25-11-18-phiro25-3-papers/</guid>
-      <description>&lt;p&gt;They are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Contour-informed inter-patient deformable registration for more reliable voxel-based analysis of Head-and-Neck Cancer patients&lt;/li&gt;
-&lt;li&gt;Gaussian primitives for deformable image registration&lt;/li&gt;
-&lt;li&gt;A proof-of-concept study of direct magnetic resonance imaging-based proton dose calculation for brain tumors via neural networks with Monte Carlo-comparable accuracy&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>1 paper accepted to TIP in 2025.</title>
-      <link>https://medapt-group.github.io/post/25-02-09-tip25-1-paper/</link>
-      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://medapt-group.github.io/post/25-02-09-tip25-1-paper/</guid>
-      <description>&lt;p&gt;They are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;MiLNet: Multiplex Interactive Learning Network for RGB-T Semantic Segmentation&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>Our work is reported by ESTRO Newletter</title>
-      <link>https://medapt-group.github.io/post/24-08-20-estro24-newsletter/</link>
-      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://medapt-group.github.io/post/24-08-20-estro24-newsletter/</guid>
-      <description>&lt;p&gt;One of the 5 works appear in the official ESTRO 2024 Congress report.&lt;/p&gt;
-&lt;p&gt;With the title: &lt;a href=&#34;https://estropreprod.smartmembership.net/About/Newsroom/Newsletter/Physics/Continuous-Motion-Modelling-for-Enhanced-Deformabl&#34;&gt;Continuous Motion Modelling for Enhanced Deformable Image Registration in Radiotherapy&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>I am awarded the 1st place in the ICCR Rising Star Competition (Oral Presentation)!</title>
-      <link>https://medapt-group.github.io/post/24-07-10-iccr24-rising-star-award/</link>
-      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://medapt-group.github.io/post/24-07-10-iccr24-rising-star-award/</guid>
-      <description>&lt;p&gt;Detailed information:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Location: Palais de la Bourse de Lyon&lt;/li&gt;
-&lt;li&gt;Session: Gala Dinner&lt;/li&gt;
-&lt;li&gt;Date: 10 July, 19:00-24:00&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>Our submission is selected as an Oral presentation by ICCR 2024!</title>
-      <link>https://medapt-group.github.io/post/24-03-15-iccr24-rising-star-competition/</link>
-      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://medapt-group.github.io/post/24-03-15-iccr24-rising-star-competition/</guid>
-      <description>&lt;p&gt;From &lt;a href=&#34;https://iccr2024.org/&#34;&gt;ICCR 2024&lt;/a&gt;: We are pleased to inform you that your submission &amp;ldquo;Neural Graphics Primitives-based Deformable Image Registration for On-the-fly Motion Extraction&amp;rdquo;, X. Li [et al.] (sciencesconf.org:iccr2024:525322) has been accepted for an oral presentation. The detailed program with the duration of each talk along with guidelines will be posted shortly.&lt;/p&gt;
-&lt;p&gt;Detailed information:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Location: Auditorium Lumière&lt;/li&gt;
-&lt;li&gt;Session: Rising Stars Competition&lt;/li&gt;
-&lt;li&gt;Date: 9 July, 09:45-10:00&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>Our abstract is selected as a Proffered Paper by ESTRO 2024!</title>
-      <link>https://medapt-group.github.io/post/23-12-18-estro24-proffered-paper/</link>
-      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://medapt-group.github.io/post/23-12-18-estro24-proffered-paper/</guid>
-      <description>&lt;p&gt;From ESTRO: We are delighted to inform you that the Abstract Review Committee has selected your abstract E24-588 titled “Beyond Voxel-Based Methods: Continuous Motion Modeling for Enhanced Deformable Image Registration” for presentation as a Proffered Paper at ESTRO 2024.&lt;/p&gt;
-&lt;p&gt;Detailed information:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Track: Physics&lt;/li&gt;
-&lt;li&gt;Location: Hall 3&lt;/li&gt;
-&lt;li&gt;Session: Symposium - The art of morphing: Advancements and challenges in deformable image registration for radiotherapy&lt;/li&gt;
-&lt;li&gt;Date: 4 May 2024, 09:41-09:50&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>Our abstract is selected as a Mini-Oral presentation by ESTRO 2023!</title>
-      <link>https://medapt-group.github.io/post/22-12-20-estro23-mini-oral/</link>
-      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://medapt-group.github.io/post/22-12-20-estro23-mini-oral/</guid>
-      <description>&lt;p&gt;From ESTRO: We are delighted to inform you that the Abstract Review Committee has selected your abstract E23-0545 titled “Uncertainty-aware MR-base CT synthesis for robust proton planning of skull-based tumour” for presentation as a Mini-Oral at ESTRO 2023&lt;/p&gt;
-&lt;p&gt;Detailed information:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Track: Physics&lt;/li&gt;
-&lt;li&gt;Location: Stolz 2&lt;/li&gt;
-&lt;li&gt;Session: Image processing and treatment evaluation&lt;/li&gt;
-&lt;li&gt;Date: 13 May 2023, 15:15-16:15&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News | Xia Li</title><link>https://medapt-group.github.io/post/</link><atom:link href="https://medapt-group.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>News</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0000</lastBuildDate><image><url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url><title>News</title><link>https://medapt-group.github.io/post/</link></image><item><title>New paper published in Medical Image Analysis</title><link>https://medapt-group.github.io/post/26-07-11-media26-contrastive-discrepancy/</link><pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate><guid>https://medapt-group.github.io/post/26-07-11-media26-contrastive-discrepancy/</guid><description>&lt;p>Our paper, &lt;a href="https://doi.org/10.1016/j.media.2026.104210">&amp;ldquo;Contrastive Discrepancy: A label-free metric for deformable image registration supporting testing-time hyperparameter selection&amp;rdquo;&lt;/a>, is now available online in &lt;em>Medical Image Analysis&lt;/em>. The paper will appear in the September 2026 issue.&lt;/p>
+&lt;p>&lt;a href="https://doi.org/10.1016/j.media.2026.104210">Read the paper&lt;/a> · &lt;a href="https://mp.weixin.qq.com/s/fQ_Sw3PnQ-1HhDQJRaZJmg">学院新闻报道&lt;/a>&lt;/p></description></item><item><title>I am serving as an Area Chair for NeurIPS 2026</title><link>https://medapt-group.github.io/post/26-03-23-neurips26-area-chair/</link><pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate><guid>https://medapt-group.github.io/post/26-03-23-neurips26-area-chair/</guid><description>&lt;p>I am pleased to serve as an Area Chair for NeurIPS 2026.&lt;/p>
+&lt;p>NeurIPS has announced a pilot to further strengthen the Area Chair role in the review process. &lt;a href="https://blog.neurips.cc/2026/03/23/refining-the-review-cycle-neurips-2026-area-chair-pilot/">Read the official announcement&lt;/a>.&lt;/p></description></item><item><title>I am serving as an Area Chair for ICML 2026</title><link>https://medapt-group.github.io/post/25-11-20-icml26-area-chair/</link><pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate><guid>https://medapt-group.github.io/post/25-11-20-icml26-area-chair/</guid><description>&lt;p>From ICML: We invite you to serve as an area chair (AC) for ICML 2026 based on your expertise in important sub-areas of machine learning and your prior experience in the peer review process. We sincerely hope you will accept this invitation and help us make ICML 2026 a success.&lt;/p></description></item><item><title>2 papers accepted to Medical Physics in 2025.</title><link>https://medapt-group.github.io/post/25-11-15-medphys25-2-papers/</link><pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate><guid>https://medapt-group.github.io/post/25-11-15-medphys25-2-papers/</guid><description>&lt;p>They are:&lt;/p>
+&lt;ul>
+&lt;li>Continuous sPatial-Temporal Deformable Image Registration and 4D Frame Interpolation&lt;/li>
+&lt;li>Diffusion Schrödinger bridge models for high-quality MR-to-CT synthesis for proton treatment planning&lt;/li>
+&lt;/ul></description></item><item><title>3 papers accepted to phiRO in 2025.</title><link>https://medapt-group.github.io/post/25-11-18-phiro25-3-papers/</link><pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate><guid>https://medapt-group.github.io/post/25-11-18-phiro25-3-papers/</guid><description>&lt;p>They are:&lt;/p>
+&lt;ul>
+&lt;li>Contour-informed inter-patient deformable registration for more reliable voxel-based analysis of Head-and-Neck Cancer patients&lt;/li>
+&lt;li>Gaussian primitives for deformable image registration&lt;/li>
+&lt;li>A proof-of-concept study of direct magnetic resonance imaging-based proton dose calculation for brain tumors via neural networks with Monte Carlo-comparable accuracy&lt;/li>
+&lt;/ul></description></item><item><title>1 paper accepted to TIP in 2025.</title><link>https://medapt-group.github.io/post/25-02-09-tip25-1-paper/</link><pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate><guid>https://medapt-group.github.io/post/25-02-09-tip25-1-paper/</guid><description>&lt;p>They are:&lt;/p>
+&lt;ul>
+&lt;li>MiLNet: Multiplex Interactive Learning Network for RGB-T Semantic Segmentation&lt;/li>
+&lt;/ul></description></item><item><title>Our work is reported by ESTRO Newsletter</title><link>https://medapt-group.github.io/post/24-08-20-estro24-newsletter/</link><pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate><guid>https://medapt-group.github.io/post/24-08-20-estro24-newsletter/</guid><description>&lt;p>One of the 5 works appear in the official ESTRO 2024 Congress report.&lt;/p>
+&lt;p>With the title: &lt;a href="https://estropreprod.smartmembership.net/About/Newsroom/Newsletter/Physics/Continuous-Motion-Modelling-for-Enhanced-Deformabl">Continuous Motion Modelling for Enhanced Deformable Image Registration in Radiotherapy&lt;/a>&lt;/p></description></item><item><title>I am awarded the 1st place in the ICCR Rising Star Competition (Oral Presentation)!</title><link>https://medapt-group.github.io/post/24-07-10-iccr24-rising-star-award/</link><pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate><guid>https://medapt-group.github.io/post/24-07-10-iccr24-rising-star-award/</guid><description>&lt;p>Detailed information:&lt;/p>
+&lt;ul>
+&lt;li>Location: Palais de la Bourse de Lyon&lt;/li>
+&lt;li>Session: Gala Dinner&lt;/li>
+&lt;li>Date: 10 July, 19:00-24:00&lt;/li>
+&lt;/ul></description></item><item><title>Our submission is selected as an Oral presentation by ICCR 2024!</title><link>https://medapt-group.github.io/post/24-03-15-iccr24-rising-star-competition/</link><pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate><guid>https://medapt-group.github.io/post/24-03-15-iccr24-rising-star-competition/</guid><description>&lt;p>From &lt;a href="https://iccr2024.org/">ICCR 2024&lt;/a>: We are pleased to inform you that your submission &amp;ldquo;Neural Graphics Primitives-based Deformable Image Registration for On-the-fly Motion Extraction&amp;rdquo;, X. Li [et al.] (sciencesconf.org:iccr2024:525322) has been accepted for an oral presentation. The detailed program with the duration of each talk along with guidelines will be posted shortly.&lt;/p>
+&lt;p>Detailed information:&lt;/p>
+&lt;ul>
+&lt;li>Location: Auditorium Lumière&lt;/li>
+&lt;li>Session: Rising Stars Competition&lt;/li>
+&lt;li>Date: 9 July, 09:45-10:00&lt;/li>
+&lt;/ul></description></item><item><title>Our abstract is selected as a Proffered Paper by ESTRO 2024!</title><link>https://medapt-group.github.io/post/23-12-18-estro24-proffered-paper/</link><pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate><guid>https://medapt-group.github.io/post/23-12-18-estro24-proffered-paper/</guid><description>&lt;p>From ESTRO: We are delighted to inform you that the Abstract Review Committee has selected your abstract E24-588 titled “Beyond Voxel-Based Methods: Continuous Motion Modeling for Enhanced Deformable Image Registration” for presentation as a Proffered Paper at ESTRO 2024.&lt;/p>
+&lt;p>Detailed information:&lt;/p>
+&lt;ul>
+&lt;li>Track: Physics&lt;/li>
+&lt;li>Location: Hall 3&lt;/li>
+&lt;li>Session: Symposium - The art of morphing: Advancements and challenges in deformable image registration for radiotherapy&lt;/li>
+&lt;li>Date: 4 May 2024, 09:41-09:50&lt;/li>
+&lt;/ul></description></item><item><title>Our abstract is selected as a Mini-Oral presentation by ESTRO 2023!</title><link>https://medapt-group.github.io/post/22-12-20-estro23-mini-oral/</link><pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate><guid>https://medapt-group.github.io/post/22-12-20-estro23-mini-oral/</guid><description>&lt;p>From ESTRO: We are delighted to inform you that the Abstract Review Committee has selected your abstract E23-0545 titled “Uncertainty-aware MR-base CT synthesis for robust proton planning of skull-based tumour” for presentation as a Mini-Oral at ESTRO 2023&lt;/p>
+&lt;p>Detailed information:&lt;/p>
+&lt;ul>
+&lt;li>Track: Physics&lt;/li>
+&lt;li>Location: Stolz 2&lt;/li>
+&lt;li>Session: Image processing and treatment evaluation&lt;/li>
+&lt;li>Date: 13 May 2023, 15:15-16:15&lt;/li>
+&lt;/ul></description></item></channel></rss>
