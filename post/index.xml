@@ -5,12 +5,30 @@
     <link>https://medapt-group.github.io/post/</link>
       <atom:link href="https://medapt-group.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url>
       <title>Blog</title>
       <link>https://medapt-group.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>New paper published in Medical Image Analysis</title>
+      <link>https://medapt-group.github.io/post/26-07-11-media26-contrastive-discrepancy/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://medapt-group.github.io/post/26-07-11-media26-contrastive-discrepancy/</guid>
+      <description>&lt;p&gt;Our paper, &lt;a href=&#34;https://doi.org/10.1016/j.media.2026.104210&#34;&gt;&amp;ldquo;Contrastive Discrepancy: A label-free metric for deformable image registration supporting testing-time hyperparameter selection&amp;rdquo;&lt;/a&gt;, is now available online in &lt;em&gt;Medical Image Analysis&lt;/em&gt;. The paper will appear in the September 2026 issue.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.media.2026.104210&#34;&gt;Read the paper&lt;/a&gt; · &lt;a href=&#34;https://mp.weixin.qq.com/s/fQ_Sw3PnQ-1HhDQJRaZJmg&#34;&gt;学院新闻报道&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>I am serving as an Area Chair for NeurIPS 2026</title>
+      <link>https://medapt-group.github.io/post/26-03-23-neurips26-area-chair/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://medapt-group.github.io/post/26-03-23-neurips26-area-chair/</guid>
+      <description>&lt;p&gt;I am pleased to serve as an Area Chair for NeurIPS 2026.&lt;/p&gt;
+&lt;p&gt;NeurIPS has announced a pilot to further strengthen the Area Chair role in the review process. &lt;a href=&#34;https://blog.neurips.cc/2026/03/23/refining-the-review-cycle-neurips-2026-area-chair-pilot/&#34;&gt;Read the official announcement&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>I am serving as an Area Chair for ICML 2026</title>

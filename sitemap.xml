@@ -70,6 +70,18 @@
     <lastmod>2026-09-01T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://medapt-group.github.io/post/</loc>
+    <lastmod>2026-07-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://medapt-group.github.io/post/26-07-11-media26-contrastive-discrepancy/</loc>
+    <lastmod>2026-07-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://medapt-group.github.io/post/26-03-23-neurips26-area-chair/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://medapt-group.github.io/author/alexey-cherchik/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -120,10 +132,6 @@
   </url><url>
     <loc>https://medapt-group.github.io/author/xiangtai-li/</loc>
     <lastmod>2025-12-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://medapt-group.github.io/post/</loc>
-    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://medapt-group.github.io/post/25-11-20-icml26-area-chair/</loc>
