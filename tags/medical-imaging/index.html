@@ -1,9 +1,9 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: December 19, 2025 --><html lang="en-us" dir="ltr"
+<!-- Last Published: August 24, 2026 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
-<head><script src="/new_page/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=new_page/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -41,29 +41,32 @@
   
     
   
-  <meta name="description" content="The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website." />
+  <meta name="description" content="Medical AI for Precision Therapy Group @ Shanghai Jiao Tong University" />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/new_page/tags/medical-imaging/" />
+  <link rel="alternate" hreflang="en-us" href="https://medapt-group.github.io/tags/medical-imaging/" />
 
   
   
   
   
     
-    <link rel="stylesheet" href="/new_page/css/themes/blue.min.css" />
+    <link rel="stylesheet" href="/css/themes/clarity-blue.min.css" />
   
 
   
   
     
-    <link href="/new_page/dist/wc.min.css" rel="stylesheet" />
+    <link href="/dist/wc.min.css" rel="stylesheet" />
   
 
   
   
   
 
+  
+    
+    <link href="/css/custom.min.e5b197e32432ad8320381670cc573d3bc9c7e5de1862861f5e91bf1ed997e40a.css" rel="stylesheet" />
   
 
   <script>
@@ -130,6 +133,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BD5DNKR6FV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-BD5DNKR6FV', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -156,14 +198,14 @@
 
   
   
-    <link rel="alternate" href="/new_page/tags/medical-imaging/index.xml" type="application/rss+xml" title="Xia Li" />
+    <link rel="alternate" href="/tags/medical-imaging/index.xml" type="application/rss+xml" title="Xia Li" />
   
 
   
-  <link rel="icon" type="image/png" href="/new_page/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/new_page/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="http://localhost:1313/new_page/tags/medical-imaging/" />
+  <link rel="canonical" href="https://medapt-group.github.io/tags/medical-imaging/" />
 
   
   
@@ -185,17 +227,14 @@
   
   <meta property="twitter:card" content="summary" />
   
-    <meta property="twitter:site" content="@GetResearchDev" />
-    <meta property="twitter:creator" content="@GetResearchDev" />
-  
   <meta property="og:site_name" content="Xia Li" />
-  <meta property="og:url" content="http://localhost:1313/new_page/tags/medical-imaging/" />
+  <meta property="og:url" content="https://medapt-group.github.io/tags/medical-imaging/" />
   <meta property="og:title" content="Medical Imaging | Xia Li" />
-  <meta property="og:description" content="The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website." /><meta property="og:image" content="http://localhost:1313/new_page/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="http://localhost:1313/new_page/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="Medical AI for Precision Therapy Group @ Shanghai Jiao Tong University" /><meta property="og:image" content="https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2025-01-01T00:00:00&#43;08:00" />
+      <meta property="og:updated_time" content="2026-07-10T00:00:00&#43;08:00" />
     
   
 
@@ -221,7 +260,7 @@
       font-style: normal;
       font-weight: 100 900;
       font-display: swap;
-      src: url(/new_page/dist/font/Inter.var.woff2) format(woff2);
+      src: url(/dist/font/Inter.var.woff2) format(woff2);
     }
   </style>
 
@@ -249,6 +288,95 @@
   
   
   
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
@@ -426,10 +554,25 @@
   
   
   
-  
-  
-  
-  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
   
     
       
@@ -464,50 +607,6 @@
   
   
   
-  
-    
-      
-      
-        
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-        
-        
-      
-    
-  
-  
-  
-    
-      
-      
-        
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-        
-        
-      
-    
-  
-  
     
       
       
@@ -531,11 +630,6 @@
   
   
   
-  
-  
-  
-  
-  
     
       
       
@@ -554,6 +648,16 @@
         
         
       
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
     
       
       
@@ -627,6 +731,12 @@
         
       
     
+  
+  
+  
+  
+  
+  
   
   
   
@@ -701,13 +811,13 @@
 
 
 
-<link type="text/css" rel="stylesheet" href="/new_page/dist/pagefind/pagefind-ui.be766eb419317a14ec769d216e9779bfe8f3737c80e780f4ba0dafb57a41a482.css" integrity="sha256-vnZutBkxehTsdp0hbpd5v&#43;jzc3yA54D0ug2vtXpBpII=" />
+<link type="text/css" rel="stylesheet" href="/dist/pagefind/pagefind-ui.be766eb419317a14ec769d216e9779bfe8f3737c80e780f4ba0dafb57a41a482.css" integrity="sha256-vnZutBkxehTsdp0hbpd5v&#43;jzc3yA54D0ug2vtXpBpII=" />
 
 
-<script src="/new_page/dist/pagefind/pagefind-ui.87693d7c6f2b3b347ce359d0ede762c033419f0a32b22ce508c335a81d841f1b.js" integrity="sha256-h2k9fG8rOzR841nQ7ediwDNBnwoysizlCMM1qB2EHxs="></script>
+<script src="/dist/pagefind/pagefind-ui.87693d7c6f2b3b347ce359d0ede762c033419f0a32b22ce508c335a81d841f1b.js" integrity="sha256-h2k9fG8rOzR841nQ7ediwDNBnwoysizlCMM1qB2EHxs="></script>
 
 
-<script>window.hbb.pagefind = {"baseUrl":"/new_page/"};</script>
+<script>window.hbb.pagefind = {"baseUrl":"/"};</script>
 
 <style>
   html.dark {
@@ -764,6 +874,140 @@
 
 
 
+  
+  
+  <link type="text/css" rel="stylesheet" href="/dist/lib/katex/katex.min.505d5f829022bb7b4f24dfee0aa1141cd7bba67afe411d1240335f820960b5c3.css" integrity="sha256-UF1fgpAiu3tPJN/uCqEUHNe7pnr&#43;QR0SQDNfgglgtcM=" />
+  
+  
+  <script defer src="/dist/lib/katex/katex.min.dc84b296ec3e884de093158f760fd9d45b6c7abe58b5381557f4e138f46a58ae.js" integrity="sha256-3ISyluw&#43;iE3gkxWPdg/Z1Ftser5YtTgVV/ThOPRqWK4="></script>
+  
+  
+  
+  
+  <script defer src="/js/katex-renderer.6579ec9683211cfb952064aedf3a3baea5eeb17a061775b32b70917474637c80.js" integrity="sha256-ZXnsloMhHPuVIGSu3zo7rqXusXoGF3WzK3CRdHRjfIA="></script>
+  
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
 
 
 
@@ -778,8 +1022,8 @@
   
   <script
     defer
-    src="/new_page/js/hugo-blox-en.min.js"
-    integrity=""
+    src="/js/hugo-blox-en.min.e5fa931947cac2d947732ea37a770aae2b5bd4a50b6048060cd129b46159a06d.js"
+    integrity="sha256-5fqTGUfKwtlHcy6jencKritb1KULYEgGDNEptGFZoG0="
   ></script>
 
   
@@ -792,6 +1036,45 @@
 
 
 
+  
+    
+      
+      <script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const themeButton = document.querySelector('.theme-toggle');
+    if (themeButton) {
+      const updateThemeLabel = () => {
+        const dark = document.documentElement.classList.contains('dark');
+        themeButton.setAttribute('aria-label', dark ? 'Switch to light theme' : 'Switch to dark theme');
+        themeButton.setAttribute('aria-pressed', String(dark));
+        themeButton.setAttribute('title', dark ? 'Switch to light theme' : 'Switch to dark theme');
+      };
+      updateThemeLabel();
+      themeButton.addEventListener('click', () => window.setTimeout(updateThemeLabel, 0));
+      document.addEventListener('hbThemeChange', updateThemeLabel);
+      new MutationObserver(updateThemeLabel).observe(document.documentElement, { attributes: true, attributeFilter: ['class'] });
+    }
+
+    const navToggle = document.querySelector('#nav-toggle');
+    const navLabel = document.querySelector('label[for="nav-toggle"]');
+    if (navToggle && navLabel) {
+      navLabel.setAttribute('aria-label', 'Toggle navigation menu');
+      navToggle.addEventListener('change', () => navLabel.setAttribute('aria-expanded', String(navToggle.checked)));
+      navLabel.setAttribute('aria-expanded', 'false');
+    }
+
+    const searchToggle = document.querySelector('#search_toggle');
+    const searchPanel = document.querySelector('#search');
+    if (searchToggle && searchPanel) {
+      searchToggle.addEventListener('click', () => window.setTimeout(() => {
+        searchToggle.setAttribute('aria-expanded', String(!searchPanel.classList.contains('hidden')));
+      }, 0));
+    }
+  });
+</script>
+
+      
+    
   
     
       
@@ -816,15 +1099,14 @@
   }
 
   .hb-honors .honor-purple {
-    color: #c026d3;  
-    font-weight: 600;
+    color: var(--medapt-primary);
+    font-weight: 700;
   }
   .hb-honors .honor-red {
-    color: #dc2626;  
-    font-weight: 600;
+    color: var(--medapt-primary);
+    font-weight: 700;
   }
 </style>
-
 
 
       
@@ -839,50 +1121,21 @@
   
     
       
-      <style>
-   
-  .hb-my-research .max-w-prose {
-    max-width: 1000px !important;  
-  }
-  .hb-my-research .prose {
-    font-size: 1.02rem;  
-    line-height: 1.75;
-    max-width: 1000px !important;  
-    margin-left: auto;
-    margin-right: auto;
-  }
-  @media (min-width: 1024px) {
-    .hb-my-research .prose {
-      font-size: 1.05rem;
-    }
-  }
+      
 
-  .hb-my-research .hb-research-block {
-    font-size: inherit;
-    line-height: inherit;
-  }
+      
+    
+  
+    
+      
+      
 
-   
-  .hb-my-research .hb-research-img {
-    display: block;
-    width: min(1000px, calc(100vw - 2rem));
-    max-width: none;  
-    margin-top: 1.25rem;
-    border-radius: 16px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.10);
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-  }
-
-  @media (prefers-color-scheme: dark) {
-    .hb-my-research .hb-research-img {
-      box-shadow: 0 14px 40px rgba(0, 0, 0, 0.35);
-    }
-  }
-</style>
-
-
+      
+    
+  
+    
+      
+      
 
       
     
@@ -891,6 +1144,36 @@
       
       <style>
    
+  .hb-members-page {
+    max-width: 80rem;
+    margin: 0 auto;
+    padding: 0 2rem;
+    border-left: 1px solid rgba(0, 0, 0, 0.08);
+    border-right: 1px solid rgba(0, 0, 0, 0.08);
+  }
+  .hb-members-content {
+    max-width: 80rem;
+    margin: 0 auto;
+    padding: 0 2rem;
+     
+     
+  }
+  .hb-members-content .max-w-prose {
+    max-width: 100% !important;
+  }
+  .hb-members-content > div > div {
+    max-width: 100% !important;
+  }
+  .hb-students-page {
+    max-width: 1000px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  .hb-students-page .hb-members-content {
+    max-width: 1000px;
+    padding-left: 0;
+    padding-right: 0;
+  }
   .hb-team-intro {
     max-width: 60rem;
     margin: 0 auto 2rem auto;
@@ -924,9 +1207,19 @@
 
   .hb-team-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 1.25rem;
     align-items: stretch;
+    justify-content: center;
+  }
+   
+  @media (min-width: 768px) {
+    .hb-team-grid {
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      max-width: 1000px;  
+      margin-left: auto;
+      margin-right: auto;
+    }
   }
 
   .hb-team-card {
@@ -951,6 +1244,14 @@
     display: block;
     margin: 0 auto 0.9rem auto;
   }
+  .hb-team-card a .hb-team-avatar {
+    transition: opacity 160ms ease, transform 160ms ease;
+    cursor: pointer;
+  }
+  .hb-team-card a:hover .hb-team-avatar {
+    opacity: 0.85;
+    transform: scale(1.02);
+  }
 
   .hb-team-name {
     font-weight: 700;
@@ -973,6 +1274,29 @@
     opacity: 0.85;
     margin: 0.35rem 0 0.75rem 0;
     font-size: 0.98rem;
+  }
+
+  .hb-team-organization {
+    text-align: center;
+    opacity: 0.95;
+    margin: 0.25rem 0 0.75rem 0;
+    font-size: 0.95rem;
+  }
+  .hb-team-organization a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .hb-team-organization a:hover {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .hb-team-co-advisor {
+    text-align: center;
+    opacity: 0.75;
+    margin: 0.25rem 0 0.75rem 0;
+    font-size: 0.9rem;
+    font-style: italic;
   }
 
    
@@ -1026,23 +1350,35 @@
     white-space: nowrap;
   }
 
-  @media (prefers-color-scheme: dark) {
-    .hb-team-card {
-      border-color: rgba(255, 255, 255, 0.14);
-      background: rgba(0, 0, 0, 0.25);
-    }
-    .hb-team-card:hover {
-      border-color: rgba(255, 255, 255, 0.22);
-      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
-    }
-    .hb-team-tag {
-      border-color: rgba(255, 255, 255, 0.14);
-      background: rgba(255, 255, 255, 0.06);
-    }
+   
+  .dark .hb-members-page {
+    border-left-color: rgba(255, 255, 255, 0.18);
+    border-right-color: rgba(255, 255, 255, 0.18);
+  }
+  .dark .hb-members-content {
+    border-left-color: rgba(255, 255, 255, 0.18);
+    border-right-color: rgba(255, 255, 255, 0.18);
+  }
+  .dark .hb-team-card {
+    border-color: rgba(255, 255, 255, 0.14);
+    background: rgba(0, 0, 0, 0.25);
+  }
+  .dark .hb-team-card:hover {
+    border-color: rgba(255, 255, 255, 0.22);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  }
+  .dark .hb-team-tag {
+    border-color: rgba(255, 255, 255, 0.14);
+    background: rgba(255, 255, 255, 0.06);
+  }
+  .dark .hb-team-network a {
+    color: inherit;
+    opacity: 0.85;
+  }
+  .dark .hb-team-network a:hover {
+    opacity: 1;
   }
 </style>
-
-
 
       
     
@@ -1050,21 +1386,64 @@
     
       
       <style>
-   
   #site-header.header {
-    max-width: 1200px;  
+    width: 100%;
+    max-width: none;
+    padding: 0;
+  }
+
+  #site-header .navbar {
+    max-width: none;
+    width: min(1120px, calc(100% - 2rem));
     margin-left: auto;
     margin-right: auto;
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding-left: 0;
+    padding-right: 0;
   }
 
-   
-  #site-header .navbar {
-    max-width: 100%;
+  #site-header .navbar-brand {
+    display: inline-flex;
+    align-items: center;
+    line-height: 1;
+    margin: 0;
+    padding: 0;
+  }
+
+  #site-header .navbar-brand img {
+    height: 44px;
+    width: auto;
+    display: block;
+  }
+
+  #site-header .navbar-brand img.hb-navbar-logo-dark,
+  #site-header .navbar-brand .hb-navbar-logo-dark {
+    display: none;
+  }
+
+  .dark #site-header .navbar-brand img.hb-navbar-logo-light,
+  .dark #site-header .navbar-brand .hb-navbar-logo-light {
+    display: none;
+  }
+
+  .dark #site-header .navbar-brand img.hb-navbar-logo-dark,
+  .dark #site-header .navbar-brand .hb-navbar-logo-dark {
+    display: block;
+  }
+
+  @media (max-width: 640px) {
+    #site-header.header {
+      padding: 0;
+    }
+
+    #site-header .navbar {
+      width: calc(100% - 1.5rem);
+    }
+
+    #site-header .navbar-brand img {
+      height: 40px;
+    }
   }
 </style>
-
 
       
     
@@ -1113,13 +1492,7 @@
     text-underline-offset: 3px;
   }
 
-  @media (prefers-color-scheme: dark) {
-    .hb-news-compact-date {
-      opacity: 0.72;
-    }
-  }
 </style>
-
 
 
       
@@ -1144,11 +1517,6 @@
   .hb-pub-with-image:hover img {
     transform: scale(1.02);
   }
-  @media (prefers-color-scheme: dark) {
-    .hb-pub-with-image > div:last-child > div:first-of-type {
-      color: #999;
-    }
-  }
   @media (max-width: 768px) {
     .hb-pub-with-image {
       flex-direction: column;
@@ -1161,7 +1529,6 @@
   }
 </style>
 
-
       
     
   
@@ -1169,7 +1536,7 @@
       
       <style>
   .hb-pubs-page {
-    max-width: 72rem;
+    max-width: 1000px;
     margin: 0 auto;
     padding: 0 1rem;
   }
@@ -1307,36 +1674,125 @@
     }
   }
 
-  @media (prefers-color-scheme: dark) {
-    .hb-pubs-select {
-      border-color: rgba(255, 255, 255, 0.16);
-      background: rgba(0, 0, 0, 0.25);
-      color: inherit;
-    }
-    .hb-pubs-clear {
-      border-color: rgba(255, 255, 255, 0.16);
-      background: rgba(255, 255, 255, 0.06);
-      color: inherit;
-    }
-    .hb-pubs-clear:hover {
-      background: rgba(255, 255, 255, 0.10);
-    }
-    .hb-pub-item {
-      border-color: rgba(255, 255, 255, 0.14);
-      background: rgba(0, 0, 0, 0.25);
-    }
-    .hb-pub-item:hover {
-      border-color: rgba(255, 255, 255, 0.22);
-      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
-    }
-    .hb-pub-tag {
-      border-color: rgba(255, 255, 255, 0.14);
-      background: rgba(255, 255, 255, 0.06);
-    }
+   
+  .dark .hb-pubs-select {
+    border-color: rgba(255, 255, 255, 0.16);
+    background: rgba(0, 0, 0, 0.25);
+    color: inherit;
+  }
+  .dark .hb-pubs-clear {
+    border-color: rgba(255, 255, 255, 0.16);
+    background: rgba(255, 255, 255, 0.06);
+    color: inherit;
+  }
+  .dark .hb-pubs-clear:hover {
+    background: rgba(255, 255, 255, 0.10);
+  }
+  .dark .hb-pub-item {
+    border-color: rgba(255, 255, 255, 0.14);
+    background: rgba(0, 0, 0, 0.25);
+  }
+  .dark .hb-pub-item:hover {
+    border-color: rgba(255, 255, 255, 0.22);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  }
+  .dark .hb-pub-tag {
+    border-color: rgba(255, 255, 255, 0.14);
+    background: rgba(255, 255, 255, 0.06);
+  }
+  .dark .hb-pub-item img {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  }
+  .dark .hb-attachment-link {
+    color: inherit;
+    opacity: 0.9;
+  }
+  .dark .hb-attachment-link:hover {
+    opacity: 1;
   }
 </style>
 
+      
+    
+  
+    
+      
+      <style>
+   
+  html:not(.dark) .hb-research-card,
+  html:not(.dark) .hb-pub-item,
+  html:not(.dark) .hb-team-card {
+    border-color: var(--medapt-line) !important;
+    background: var(--medapt-surface) !important;
+    box-shadow: none !important;
+  }
 
+  html.dark .hb-research-card,
+  html.dark .hb-pub-item,
+  html.dark .hb-team-card {
+    border-color: var(--medapt-line) !important;
+    background: var(--medapt-surface) !important;
+    box-shadow: none !important;
+  }
+
+  .hb-research-card h3,
+  html.dark .hb-research-card h3 { color: var(--medapt-primary) !important; }
+  .hb-research-card p,
+  html.dark .hb-research-card p { color: var(--medapt-muted) !important; }
+  .hb-research-card ul,
+  html.dark .hb-research-card ul { color: var(--medapt-text-2) !important; }
+
+  .hb-keyword-cloud {
+    --cloud-ink: var(--medapt-text) !important;
+    --cloud-muted: var(--medapt-muted) !important;
+    --cloud-line: var(--medapt-line) !important;
+    --cloud-surface: var(--medapt-surface) !important;
+    --cloud-glow: var(--medapt-primary-soft) !important;
+    border-color: var(--medapt-line) !important;
+    background: radial-gradient(circle at 28% 30%, rgba(147, 197, 253, 0.18), transparent 34%), linear-gradient(145deg, var(--medapt-surface), var(--medapt-surface-blue)) !important;
+    box-shadow: var(--medapt-shadow) !important;
+  }
+  .dark .hb-keyword-cloud { background: radial-gradient(circle at 28% 30%, rgba(67, 136, 255, 0.16), transparent 35%), linear-gradient(145deg, var(--medapt-surface), var(--medapt-surface-blue)) !important; }
+  .hb-keyword-cloud-word:nth-of-type(4n + 1) { color: var(--medapt-primary) !important; }
+  .hb-keyword-cloud-word:nth-of-type(4n + 2) { color: #1e40af !important; }
+  .hb-keyword-cloud-word:nth-of-type(4n + 3) { color: #3b82f6 !important; }
+  .hb-keyword-cloud-word:nth-of-type(4n) { color: #60a5fa !important; }
+  .dark .hb-keyword-cloud-word:nth-of-type(4n + 1) { color: #8bb8ff !important; }
+  .dark .hb-keyword-cloud-word:nth-of-type(4n + 2) { color: #6fa2ff !important; }
+  .dark .hb-keyword-cloud-word:nth-of-type(4n + 3) { color: #4388ff !important; }
+  .dark .hb-keyword-cloud-word:nth-of-type(4n) { color: #a9c8ff !important; }
+
+  .hb-pubs-select,
+  .hb-pubs-clear { border-color: var(--medapt-line-strong) !important; background: var(--medapt-surface) !important; color: var(--medapt-text) !important; }
+  .hb-pubs-search-wrap { display: block; width: min(100%, 60rem); margin: 0 auto 1rem; }
+  .hb-pubs-filter-row { display: grid !important; width: min(100%, 60rem); margin: 0 auto; grid-template-columns: repeat(3, minmax(0, 1fr)) auto !important; }
+  .hb-pub-tag,
+  .hb-team-tag { border-color: var(--medapt-line) !important; background: var(--medapt-surface-soft) !important; color: var(--medapt-muted) !important; }
+  .hb-research-cta { border-radius: var(--medapt-radius-sm) !important; background: var(--medapt-primary) !important; }
+  .hb-research-cta:hover { background: var(--medapt-primary-hover) !important; }
+  .hb-team-card:hover,
+  .hb-pub-item:hover,
+  .hb-pub-with-image:hover { border-color: color-mix(in srgb, var(--medapt-primary) 40%, var(--medapt-line)) !important; box-shadow: var(--medapt-shadow) !important; }
+
+  .hb-members-page { width: min(var(--medapt-shell), calc(100% - 2rem)) !important; padding: 3.5rem 0 4.5rem !important; border: 0 !important; }
+  .hb-members-content { width: 100% !important; max-width: var(--medapt-shell) !important; padding: 0 !important; }
+  .hb-team-grid { grid-template-columns: repeat(3, minmax(0, 1fr)) !important; max-width: none !important; gap: 1rem !important; }
+  .hb-team-grid.hb-team-grid--single { grid-template-columns: 1fr !important; }
+  .hb-team-grid.hb-team-grid--double { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; }
+  .hb-team-avatar { border-radius: 24px !important; border-color: var(--medapt-surface) !important; box-shadow: 0 0 0 1px var(--medapt-line) !important; }
+  .hb-team-group-title { color: var(--medapt-text) !important; text-align: left !important; }
+
+  @media (max-width: 1024px) {
+    .hb-team-grid { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; }
+  }
+  @media (max-width: 768px) {
+    .hb-pubs-filter-row { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; }
+    .hb-team-grid { grid-template-columns: 1fr !important; }
+  }
+  @media (max-width: 560px) {
+    .hb-pubs-filter-row { grid-template-columns: 1fr !important; }
+  }
+</style>
 
       
     
@@ -1360,8 +1816,37 @@
   <nav class="navbar px-3 flex justify-left">
     <div class="order-0 h-100">
       
-      <a class="navbar-brand" href="/new_page/" title="Xia Li">
-        Xia Li
+      <a class="navbar-brand" href="/" title="Xia Li">
+            
+            
+              
+              <img
+                fetchpriority="high"
+                decoding="async"
+                class="hb-navbar-logo hb-navbar-logo-light"
+                width="199"
+                height="128"
+                src="/media/icon-navbar_hu5c00d57d29aa59a647d75d45ba0466d4_358846_0x128_resize_q80_h2_lanczos_3.webp"
+                alt="Xia Li" />
+            
+          
+        
+        
+            
+            
+              
+              <img
+                fetchpriority="high"
+                decoding="async"
+                class="hb-navbar-logo hb-navbar-logo-dark"
+                width="199"
+                height="128"
+                src="/media/icon-navbar-dark_hu2637a8e7bc4c8bbc6406a45b3e18356f_257233_0x128_resize_q80_h2_lanczos_3.webp"
+                alt="Xia Li" />
+            
+          
+        
+        
       </a>
     </div>
     
@@ -1398,7 +1883,7 @@
         <a
           class="nav-link "
           
-          href="/new_page/"
+          href="/"
         >About</a
         >
       </li>
@@ -1412,8 +1897,8 @@
         <a
           class="nav-link "
           
-          href="/new_page/#news"
-        >News</a
+          href="/research"
+        >Research</a
         >
       </li>
       
@@ -1426,7 +1911,7 @@
         <a
           class="nav-link "
           
-          href="/new_page/publication"
+          href="/publication"
         >Publications</a
         >
       </li>
@@ -1440,8 +1925,22 @@
         <a
           class="nav-link "
           
-          href="/new_page/members"
+          href="/members"
         >Group</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/opening"
+        >Openings</a
         >
       </li>
       
@@ -1455,7 +1954,8 @@
       
       
       <button
-        aria-label="search"
+        aria-label="Open site search"
+        aria-expanded="false"
         class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
         id="search_toggle">
         <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
@@ -1534,20 +2034,20 @@
 
 
 
-<a href="/new_page/publication/cit25-pcmdn-brain/"  class="mb-5">
+<a href="/publication/tmi26-unitransad/"  class="mb-5">
   <div class="md:flex">
     <div class="md:flex-shrink-0 overflow-hidden">
       
         
         
-      <img class="h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/new_page/publication/cit25-pcmdn-brain/featured_hue8041302dadf9639fb25a649d25c3270_741295_4eb825bc0d904456c3c3ce8806ac9d0c.webp" height="655" width="655" alt="A Prior Causality‐Guided Multi‐View Diffusion Network for Brain Disorder Classification">
+      <img class="h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/publication/tmi26-unitransad/featured_hu9d02b6b69a641a8a1162672f0d106423_351830_06565e6c58797965429f87fee26c2a00.webp" height="655" width="655" alt="UniTransAD: Unified Translation Framework for Anomaly Detection in Brain MRI">
       
     </div>
     <div class="p-8">
-      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">A Prior Causality‐Guided Multi‐View Diffusion Network for Brain Disorder Classification</div>
+      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">UniTransAD: Unified Translation Framework for Anomaly Detection in Brain MRI</div>
       <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
-        A Prior Causality-Guided Multi-View Diffusion Network (PCMDN) for brain disorder classification that leverages prior causality knowledge and multi-view diffusion processes to improve classification accuracy.</p>
-      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Jan 1, 2025</p>
+        A unified translation-based framework for flexible and generalizable unsupervised anomaly detection across diverse brain MRI diseases and sequences.</p>
+      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Jul 10, 2026</p>
     </div>
   </div>
 </a>
@@ -1585,12 +2085,60 @@
   
   
   
+<div class="medapt-footer-grid">
+  <div class="medapt-footer-brand">
+    
+      
+      <a href="/" aria-label="Xia Li home">
+        <img src="/media/icon-navbar_hu5c00d57d29aa59a647d75d45ba0466d4_358846_0x128_resize_q80_h2_lanczos_3.webp" alt="MedAPT" width="128" height="44" loading="lazy" />
+      </a>
+    
+    <p>Medical AI for Precision Therapy — connecting generative models with physical principles for more accessible cancer care.</p>
+  </div>
 
+  <nav class="medapt-footer-nav" aria-label="Footer navigation">
+    <strong>Explore</strong>
+    
+      
+      
+        
+      
+      <a href="/">About</a>
+    
+      
+      
+        
+      
+      <a href="/research">Research</a>
+    
+      
+      
+        
+      
+      <a href="/publication">Publications</a>
+    
+      
+      
+        
+      
+      <a href="/members">Group</a>
+    
+      
+      
+        
+      
+      <a href="/opening">Openings</a>
+    
+  </nav>
 
-
-
-
-
+  <div class="medapt-footer-contact">
+    <strong>Contact</strong>
+    <a href="mailto:xia.li@sjtu.edu.cn">xia.li@sjtu.edu.cn</a>
+    <a href="https://www.sjtu.edu.cn/" target="_blank" rel="noopener">Shanghai Jiao Tong University ↗</a>
+    <a href="https://bme.sjtu.edu.cn/" target="_blank" rel="noopener">School of Biomedical Engineering ↗</a>
+    <span>Research inquiries and student applications are welcome.</span>
+  </div>
+</div>
 
 
 
@@ -1615,7 +2163,7 @@
 
   
   <p class="powered-by text-center">
-    © 2025 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+    © 2026 Xia Li. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
   </p>
   
 
@@ -1634,6 +2182,26 @@
 
 
 
+
+<button id="medaptBackToTop" class="medapt-back-to-top" type="button" aria-label="Back to top" aria-hidden="true">↑</button>
+<script>
+  (() => {
+    const button = document.getElementById('medaptBackToTop');
+    if (!button) return;
+    const update = () => {
+      const visible = window.scrollY > 420;
+      button.classList.toggle('is-visible', visible);
+      button.setAttribute('aria-hidden', String(!visible));
+      button.tabIndex = visible ? 0 : -1;
+    };
+    button.addEventListener('click', () => {
+      const behavior = window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';
+      window.scrollTo({ top: 0, behavior });
+    });
+    window.addEventListener('scroll', update, { passive: true });
+    update();
+  })();
+</script>
 
 
   <p class="powered-by text-center">
