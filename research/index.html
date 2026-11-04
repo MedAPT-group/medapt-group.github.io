@@ -1596,6 +1596,10 @@
     line-height: 1.3;
   }
   .hb-atlas-items { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: .8rem; }
+  .hb-research-atlas .hb-atlas-link { display: block; color: inherit; text-decoration: none; border-radius: 8px; }
+  .hb-research-atlas .hb-atlas-link:hover figcaption { color: #1263a2; text-decoration: underline; text-underline-offset: .2em; }
+  .hb-research-atlas .hb-atlas-link:focus-visible { outline: 3px solid #1684c5; outline-offset: 4px; }
+  .dark .hb-research-atlas .hb-atlas-link:hover figcaption { color: #7dd3fc; }
   .hb-research-atlas .hb-atlas-item { min-width: 0; margin: 0; text-align: center; }
   .hb-research-atlas .hb-atlas-item img {
     display: block;
@@ -2206,6 +2210,11 @@
     font-size: 0.95rem;
   }
 
+  .hb-pubs-topic-note { max-width: 52rem; margin: .65rem auto 0; color: #40576e; text-align: center; font-size: .92rem; line-height: 1.5; }
+  .hb-pub-relevance { margin-bottom: .65rem; color: #275c81; font-size: .78rem; font-weight: 700; }
+  .dark .hb-pubs-topic-note { color: #c3d2e2; }
+  .dark .hb-pub-relevance { color: #9dcbea; }
+
   .hb-pubs-list {
     display: grid;
     grid-template-columns: 1fr;
@@ -2727,72 +2736,72 @@ MedAPT (Medical AI for Precision Therapy) develops medical AI methods that conne
 <div class="hb-research-atlas" aria-label="MedAPT research areas">
   <section class="hb-atlas-row" aria-label="Applications">
     <h3 class="hb-atlas-heading">Applications</h3>
-    <div class="hb-atlas-items">
+    <div class="hb-atlas-items"><a class="hb-atlas-link" href="/publication/?topic=atlas-screening" aria-label="Cancer Early Screening — view related publications">
       <figure class="hb-atlas-item">
         <img class="hb-atlas-art-light" src="/media/research-atlas/screening-light.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <img class="hb-atlas-art-dark" src="/media/research-atlas/screening.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <figcaption>Cancer Early Screening</figcaption>
-      </figure>
+      </figure></a><a class="hb-atlas-link" href="/publication/?topic=atlas-planning" aria-label="AI-driven Treatment Planning — view related publications">
       <figure class="hb-atlas-item">
         <img class="hb-atlas-art-light" src="/media/research-atlas/planning-light.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <img class="hb-atlas-art-dark" src="/media/research-atlas/planning.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <figcaption>AI-driven Treatment Planning</figcaption>
-      </figure>
+      </figure></a><a class="hb-atlas-link" href="/publication/?topic=atlas-igrt" aria-label="Image-Guided Radiotherapy — view related publications">
       <figure class="hb-atlas-item">
         <img class="hb-atlas-art-light" src="/media/research-atlas/igrt-light.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <img class="hb-atlas-art-dark" src="/media/research-atlas/igrt.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <figcaption>Image-Guided Radiotherapy</figcaption>
-      </figure>
+      </figure></a><a class="hb-atlas-link" href="/publication/?topic=atlas-upright" aria-label="Upright Proton Therapy — view related publications">
       <figure class="hb-atlas-item">
         <img class="hb-atlas-art-light" src="/media/research-atlas/upright-light.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <img class="hb-atlas-art-dark" src="/media/research-atlas/upright.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <figcaption>Upright Proton Therapy</figcaption>
-      </figure>
+      </figure></a>
     </div>
   </section>
   <section class="hb-atlas-row" aria-label="Imaging Tasks">
     <h3 class="hb-atlas-heading">Imaging Tasks</h3>
-    <div class="hb-atlas-items">
+    <div class="hb-atlas-items"><a class="hb-atlas-link" href="/publication/?topic=atlas-reconstruction" aria-label="Image Reconstruction — view related publications">
       <figure class="hb-atlas-item">
         <img class="hb-atlas-art-light" src="/media/research-atlas/reconstruction-light.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <img class="hb-atlas-art-dark" src="/media/research-atlas/reconstruction.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <figcaption>Image Reconstruction</figcaption>
-      </figure>
+      </figure></a><a class="hb-atlas-link" href="/publication/?topic=atlas-generation" aria-label="Image Generation — view related publications">
       <figure class="hb-atlas-item">
         <img class="hb-atlas-art-light" src="/media/research-atlas/generation-light.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <img class="hb-atlas-art-dark" src="/media/research-atlas/generation.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <figcaption>Image Generation</figcaption>
-      </figure>
+      </figure></a><a class="hb-atlas-link" href="/publication/?topic=atlas-registration" aria-label="Image Registration — view related publications">
       <figure class="hb-atlas-item">
         <img class="hb-atlas-art-light" src="/media/research-atlas/registration-light.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <img class="hb-atlas-art-dark" src="/media/research-atlas/registration.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <figcaption>Image Registration</figcaption>
-      </figure>
+      </figure></a><a class="hb-atlas-link" href="/publication/?topic=atlas-motion" aria-label="4D Motion Analysis — view related publications">
       <figure class="hb-atlas-item">
         <img class="hb-atlas-art-light" src="/media/research-atlas/motion-light.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <img class="hb-atlas-art-dark" src="/media/research-atlas/motion.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <figcaption>4D Motion Analysis</figcaption>
-      </figure>
+      </figure></a>
     </div>
   </section>
   <section class="hb-atlas-row" aria-label="Methods">
     <h3 class="hb-atlas-heading">Methods</h3>
-    <div class="hb-atlas-items">
+    <div class="hb-atlas-items"><a class="hb-atlas-link" href="/publication/?topic=atlas-physics" aria-label="Physics-Informed Learning — view related publications">
       <figure class="hb-atlas-item">
         <img class="hb-atlas-art-light" src="/media/research-atlas/physics-light.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <img class="hb-atlas-art-dark" src="/media/research-atlas/physics.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <figcaption>Physics-Informed Learning</figcaption>
-      </figure>
+      </figure></a><a class="hb-atlas-link" href="/publication/?topic=atlas-gaussians" aria-label="3D Gaussian Splatting — view related publications">
       <figure class="hb-atlas-item">
         <img class="hb-atlas-art-light" src="/media/research-atlas/gaussians-light.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <img class="hb-atlas-art-dark" src="/media/research-atlas/gaussians.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <figcaption>3D Gaussian Splatting</figcaption>
-      </figure>
+      </figure></a><a class="hb-atlas-link" href="/publication/?topic=atlas-flow" aria-label="Flow Matching — view related publications">
       <figure class="hb-atlas-item">
         <img class="hb-atlas-art-light" src="/media/research-atlas/flow-light.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <img class="hb-atlas-art-dark" src="/media/research-atlas/flow.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <figcaption>Flow Matching</figcaption>
-      </figure>
+      </figure></a>
       <figure class="hb-atlas-item">
         <img class="hb-atlas-art-light" src="/media/research-atlas/foundation-light.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
         <img class="hb-atlas-art-dark" src="/media/research-atlas/foundation.webp" width="1200" height="720" alt="" loading="lazy" decoding="async">
