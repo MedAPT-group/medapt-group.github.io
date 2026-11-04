@@ -5,12 +5,20 @@
     <link>https://medapt-group.github.io/publication_types/article-journal/</link>
       <atom:link href="https://medapt-group.github.io/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Sep 2026 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url>
       <title>Article-Journal</title>
       <link>https://medapt-group.github.io/publication_types/article-journal/</link>
     </image>
+    
+    <item>
+      <title>Uncertainty-Driven 3-D Gaussian Splatting for Robust Real-Time RGB-D SLAM</title>
+      <link>https://medapt-group.github.io/publication/tase26-uslam-3dgs/</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0800</pubDate>
+      <guid>https://medapt-group.github.io/publication/tase26-uslam-3dgs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Contrastive Discrepancy: A label-free metric for deformable image registration supporting testing-time hyperparameter selection</title>
@@ -77,14 +85,6 @@
     </item>
     
     <item>
-      <title>Exploring the effect of training set size and number of categories on ice crystal classification through a contrastive semi-supervised learning algorithm</title>
-      <link>https://medapt-group.github.io/publication/amt25-csslice-atm/</link>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 +0800</pubDate>
-      <guid>https://medapt-group.github.io/publication/amt25-csslice-atm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Uncertainty-Aware Testing-Time Optimization for 3D Human Pose Estimation</title>
       <link>https://medapt-group.github.io/publication/tmm25-uncert-tto-pose/</link>
       <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
@@ -121,14 +121,6 @@
       <link>https://medapt-group.github.io/publication/tip24-hyre-pose/</link>
       <pubDate>Wed, 25 Dec 2024 00:00:00 +0800</pubDate>
       <guid>https://medapt-group.github.io/publication/tip24-hyre-pose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IceDetectNet: a rotated object detection algorithm for classifying components of aggregated ice crystals with a multi-label classification scheme</title>
-      <link>https://medapt-group.github.io/publication/amt24-icedetectnet-atm/</link>
-      <pubDate>Thu, 19 Dec 2024 00:00:00 +0800</pubDate>
-      <guid>https://medapt-group.github.io/publication/amt24-icedetectnet-atm/</guid>
       <description></description>
     </item>
     
@@ -181,14 +173,6 @@
     </item>
     
     <item>
-      <title>Audio–visual keyword transformer for unconstrained sentence‐level keyword spotting</title>
-      <link>https://medapt-group.github.io/publication/caai24-kws-acoustic/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0800</pubDate>
-      <guid>https://medapt-group.github.io/publication/caai24-kws-acoustic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Optimization induced equilibrium networks: An explicit optimization perspective for understanding equilibrium models</title>
       <link>https://medapt-group.github.io/publication/tpami22-equil-learn/</link>
       <pubDate>Fri, 10 Jun 2022 12:30:06 +0100</pubDate>
@@ -197,34 +181,10 @@
     </item>
     
     <item>
-      <title>PCLoss: Fashion landmark estimation with position constraint loss</title>
-      <link>https://medapt-group.github.io/publication/pr21-fashion-pose/</link>
-      <pubDate>Fri, 01 Oct 2021 12:30:06 +0100</pubDate>
-      <guid>https://medapt-group.github.io/publication/pr21-fashion-pose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Towards efficient scene understanding via squeeze reasoning</title>
       <link>https://medapt-group.github.io/publication/tip21-srnet-seg/</link>
       <pubDate>Fri, 30 Jul 2021 00:00:00 +0800</pubDate>
       <guid>https://medapt-group.github.io/publication/tip21-srnet-seg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bi-directional Exponential Angular Triplet Loss for RGB-Infrared Person Re-Identification</title>
-      <link>https://medapt-group.github.io/publication/tip20-atloss-reid/</link>
-      <pubDate>Sat, 12 Dec 2020 12:30:06 +0100</pubDate>
-      <guid>https://medapt-group.github.io/publication/tip20-atloss-reid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-label classification of PCB defects based on convolutional neural network</title>
-      <link>https://medapt-group.github.io/publication/joe18-pcb-cls/</link>
-      <pubDate>Mon, 22 Oct 2018 00:00:00 +0800</pubDate>
-      <guid>https://medapt-group.github.io/publication/joe18-pcb-cls/</guid>
       <description></description>
     </item>
     

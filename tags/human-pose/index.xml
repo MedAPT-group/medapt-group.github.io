@@ -60,21 +60,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>PCLoss: Fashion landmark estimation with position constraint loss</title>
-      <link>https://medapt-group.github.io/publication/pr21-fashion-pose/</link>
-      <pubDate>Fri, 01 Oct 2021 12:30:06 +0100</pubDate>
-      <guid>https://medapt-group.github.io/publication/pr21-fashion-pose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Position Constraint Loss For Fashion Landmark Estimation</title>
-      <link>https://medapt-group.github.io/publication/icassp20-pcloss-pose/</link>
-      <pubDate>Mon, 04 May 2020 00:00:00 +0800</pubDate>
-      <guid>https://medapt-group.github.io/publication/icassp20-pcloss-pose/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

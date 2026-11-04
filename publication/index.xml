@@ -5,12 +5,20 @@
     <link>https://medapt-group.github.io/publication/</link>
       <atom:link href="https://medapt-group.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Sep 2026 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://medapt-group.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Uncertainty-Driven 3-D Gaussian Splatting for Robust Real-Time RGB-D SLAM</title>
+      <link>https://medapt-group.github.io/publication/tase26-uslam-3dgs/</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0800</pubDate>
+      <guid>https://medapt-group.github.io/publication/tase26-uslam-3dgs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Contrastive Discrepancy: A label-free metric for deformable image registration supporting testing-time hyperparameter selection</title>
@@ -85,14 +93,6 @@
     </item>
     
     <item>
-      <title>Exploring the effect of training set size and number of categories on ice crystal classification through a contrastive semi-supervised learning algorithm</title>
-      <link>https://medapt-group.github.io/publication/amt25-csslice-atm/</link>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 +0800</pubDate>
-      <guid>https://medapt-group.github.io/publication/amt25-csslice-atm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Uncertainty-Aware Testing-Time Optimization for 3D Human Pose Estimation</title>
       <link>https://medapt-group.github.io/publication/tmm25-uncert-tto-pose/</link>
       <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
@@ -133,26 +133,10 @@
     </item>
     
     <item>
-      <title>IceDetectNet: a rotated object detection algorithm for classifying components of aggregated ice crystals with a multi-label classification scheme</title>
-      <link>https://medapt-group.github.io/publication/amt24-icedetectnet-atm/</link>
-      <pubDate>Thu, 19 Dec 2024 00:00:00 +0800</pubDate>
-      <guid>https://medapt-group.github.io/publication/amt24-icedetectnet-atm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>High Performance Computing Framework for Variable Selection on Genome-wide Association Studies</title>
       <link>https://medapt-group.github.io/publication/bibm24-gwas-hpc/</link>
       <pubDate>Tue, 03 Dec 2024 00:00:00 +0800</pubDate>
       <guid>https://medapt-group.github.io/publication/bibm24-gwas-hpc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UVMap-ID: A Controllable and Personalized UV Map Generative Model</title>
-      <link>https://medapt-group.github.io/publication/acmmm24-uvmap-gen/</link>
-      <pubDate>Mon, 28 Oct 2024 00:00:00 +0800</pubDate>
-      <guid>https://medapt-group.github.io/publication/acmmm24-uvmap-gen/</guid>
       <description></description>
     </item>
     
@@ -229,14 +213,6 @@
     </item>
     
     <item>
-      <title>Audio–visual keyword transformer for unconstrained sentence‐level keyword spotting</title>
-      <link>https://medapt-group.github.io/publication/caai24-kws-acoustic/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0800</pubDate>
-      <guid>https://medapt-group.github.io/publication/caai24-kws-acoustic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>FedLPA: One-shot Federated Learning with Layer-Wise Posterior Aggregation</title>
       <link>https://medapt-group.github.io/publication/neurips24-fedlpa/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate>
@@ -301,14 +277,6 @@
     </item>
     
     <item>
-      <title>PCLoss: Fashion landmark estimation with position constraint loss</title>
-      <link>https://medapt-group.github.io/publication/pr21-fashion-pose/</link>
-      <pubDate>Fri, 01 Oct 2021 12:30:06 +0100</pubDate>
-      <guid>https://medapt-group.github.io/publication/pr21-fashion-pose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Prototypical Cross-Attention Networks for Multiple Object Tracking and Segmentation</title>
       <link>https://medapt-group.github.io/publication/neurips21-proto-track-seg/</link>
       <pubDate>Sun, 12 Sep 2021 12:30:06 +0100</pubDate>
@@ -341,14 +309,6 @@
     </item>
     
     <item>
-      <title>Bi-directional Exponential Angular Triplet Loss for RGB-Infrared Person Re-Identification</title>
-      <link>https://medapt-group.github.io/publication/tip20-atloss-reid/</link>
-      <pubDate>Sat, 12 Dec 2020 12:30:06 +0100</pubDate>
-      <guid>https://medapt-group.github.io/publication/tip20-atloss-reid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Is Attention Better Than Matrix Decomposition?</title>
       <link>https://medapt-group.github.io/publication/iclr20-md-seg/</link>
       <pubDate>Mon, 28 Sep 2020 21:30:06 +0800</pubDate>
@@ -361,14 +321,6 @@
       <link>https://medapt-group.github.io/publication/eccv20-decouple-seg/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0800</pubDate>
       <guid>https://medapt-group.github.io/publication/eccv20-decouple-seg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Position Constraint Loss For Fashion Landmark Estimation</title>
-      <link>https://medapt-group.github.io/publication/icassp20-pcloss-pose/</link>
-      <pubDate>Mon, 04 May 2020 00:00:00 +0800</pubDate>
-      <guid>https://medapt-group.github.io/publication/icassp20-pcloss-pose/</guid>
       <description></description>
     </item>
     
@@ -417,14 +369,6 @@
       <link>https://medapt-group.github.io/publication/miccai19-r2net-destreak/</link>
       <pubDate>Wed, 19 Jun 2019 21:02:38 +0800</pubDate>
       <guid>https://medapt-group.github.io/publication/miccai19-r2net-destreak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-label classification of PCB defects based on convolutional neural network</title>
-      <link>https://medapt-group.github.io/publication/joe18-pcb-cls/</link>
-      <pubDate>Mon, 22 Oct 2018 00:00:00 +0800</pubDate>
-      <guid>https://medapt-group.github.io/publication/joe18-pcb-cls/</guid>
       <description></description>
     </item>
     

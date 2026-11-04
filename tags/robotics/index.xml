@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotics | Xia Li</title>
+    <link>https://medapt-group.github.io/tags/robotics/</link>
+      <atom:link href="https://medapt-group.github.io/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robotics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://medapt-group.github.io/media/icon_hu39a32f9102cb92320ca7331106f3a05c_181925_512x512_fill_lanczos_center_3.png</url>
+      <title>Robotics</title>
+      <link>https://medapt-group.github.io/tags/robotics/</link>
+    </image>
+    
+    <item>
+      <title>Uncertainty-Driven 3-D Gaussian Splatting for Robust Real-Time RGB-D SLAM</title>
+      <link>https://medapt-group.github.io/publication/tase26-uslam-3dgs/</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0800</pubDate>
+      <guid>https://medapt-group.github.io/publication/tase26-uslam-3dgs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
